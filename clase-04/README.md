@@ -38,6 +38,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 9 | **Debi Codriansky** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
 | 10 | **Erika Contreras** | https://erikaemm.github.io/encargo44/ |
 | 11 | **María José Coudeu** | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio4/ |
+| 12 | **Valy Cummings** | https://valycmmngs.github.io/clase_4/ |
 | 15 | **Fernando Gajardo** | https://fjgajardo.github.io/Clase4/ |
 | 19 | **Sofía Lira** | https://lirasantic.github.io/Clase_04/ |
 | 23 | **Muriel Muñoz** | https://murimu.github.io/dno075-2020-clase-04/ |
@@ -54,6 +55,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
+| 2 | **Antonia Adell** | https://antoadell.github.io/infodigital-clase4/ |
 | 4 | **Francisco Álvarez** | https://fialvarezdelarivera.github.io/Clase-04-FARK/ |
 | 5 | **Carolina Aranibar** | https://caroaranibar.github.io/infografiaclase4/ |
 | 7 | **Isabella Cabrera** | https://fishibanana.github.io/Infograf-a-Digital-Clase-4/ |
@@ -72,9 +74,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 | Nro.  | **Estudiante** | GitHub Page |
 |:-----:|:-------|:-----|
-| 2 | **Antonia Adell** | … |
 | 6 | **Silvio Arribas** | … |
-| 12 | **Valy Cummings** | … |
 | 13 | **Catalina Escudero** | … |
 | 20 | **Javiera Maechtig** | … |
 | 27 | **Daniela Quinteros** | … |

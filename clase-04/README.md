@@ -69,6 +69,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 27 | **Daniela Quinteros** | https://danuwu.github.io/infografia_digital_clase_4/ |
 | 28 | **Isidora Ravera** | https://isiravera.github.io/clase4/ |
 | 29 | **Esperanza Ríos** | https://esperanzarios.github.io/infografiadigital4/ |
+| 31 | **David Sánchez** | https://david1336.github.io/DNO-075-Clase-04/ |
 | 33 | **Paula Trujillo** | https://paula-trujillo.github.io/infografia-digital-4/ |
 
 **Pendientes**
@@ -78,7 +79,7 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 | 6 | **Silvio Arribas** | … |
 | 13 | **Catalina Escudero** | … |
 | 20 | **Javiera Maechtig** | … |
-| 31 | **David Sánchez** | … |
+
 
 - - - - - - - 
 

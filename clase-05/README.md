@@ -16,11 +16,11 @@ Para la clase de hoy, de **"Dibujo aplicado al contenido: Como imagen final o ba
 
 #### Ejercicio
 
-Nuevamente necesitaremos lápiz y papel, además de un aparato para digitalizar los bocetos que realicen a mano; insistiremos con las instrucciones respecto del uso de Photoshop, porque no todos los trabajos de la clase recién pasada cumplieron con los ajustes de peso y resolución indicados.
+**Nuevamente necesitaremos lápiz y papel, además de un aparato para digitalizar los bocetos que realicen a mano**; insistiremos con las instrucciones respecto del uso de Photoshop, porque no todos los trabajos de la clase recién pasada cumplieron con los ajustes de peso y resolución indicados.
 
-También vamos a utilizar https://wireframe.cc/ para guiar y/o complementar el trabajo a mano.
+**También vamos a utilizar https://wireframe.cc/ para guiar y/o complementar el trabajo a mano**.
 
-Con base al desafío que nos entregue Pablo Robles, aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. Lo que se desarrollará serán dos bocetos completos de una misma página:
+Con base al desafío que nos entregue Pablo Robles, aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. **Lo que se desarrollará serán dos bocetos completos de una misma página**:
 
 - primero un *layout* para móvil;
 

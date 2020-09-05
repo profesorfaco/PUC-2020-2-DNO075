@@ -12,7 +12,7 @@ Las primeras tres clases de este Optativo se dividen en:
 
 En estas tres primeras clase tendrán que usar [GitHub](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#github) y algún [editor de código fuente](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#coding-descripci%C3%B3n-vs-programaci%C3%B3n) para resolver un [ejercicio](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#ejercicio) (todo esto se describe a continuación). 
 
-En esta primera clase, de "[Precedentes: Del texto iluminado al diseño de información](https://docs.google.com/presentation/d/1gGNn5sVOf-typMBzqZhuDrdLPLG6oYrA4FqZRVIqcI4/edit?usp=sharing)", se consulta la siguiente bibliografía:
+**En esta primera clase, de "[Precedentes: Del texto iluminado al diseño de información](https://docs.google.com/presentation/d/1gGNn5sVOf-typMBzqZhuDrdLPLG6oYrA4FqZRVIqcI4/edit?usp=sharing)"**, se consulta la siguiente bibliografía:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 

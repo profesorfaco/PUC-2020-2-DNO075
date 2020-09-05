@@ -28,7 +28,7 @@ Con base al desafío que nos entregue Pablo Robles, aplicaremos el dibujo para d
 
 El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-05/) de repositorio. 
 
-##### Resultados
+#### Resultados
 
 | Nro.  | Nombre | URL |
 |:-----:|:-------|:--------|

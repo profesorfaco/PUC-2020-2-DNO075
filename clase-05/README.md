@@ -8,7 +8,7 @@ Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh
 
 - [cómo hacer un Irimi Nage (Aikido)](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#resultados-grupo-2)
 
-**La clase de hoy, la quinta del semestre, el asunto es "Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial"**.
+**En la clase de hoy, la quinta del semestre, el asunto es "Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial"**.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 

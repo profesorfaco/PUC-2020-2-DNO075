@@ -10,7 +10,7 @@ Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh
 
 Para la clase de hoy, de **"Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial"**, tenemos a un invitado:
 
-> I’m a Graphic Journalist currently working at Bloomberg, where I use code, graphics, maps and dataviz to present news — [**Pablo Robles**](https://josepablorobles.com/).
+> I'm a Graphic Journalist currently working at [Bloomberg](https://www.bloomberg.com/), where I use code, graphics, maps and dataviz to present news. Previously I worked as a Senior Infographic Designer at [South China Morning Post](https://www.scmp.com/author/pablo-robles) in Hong Kong leading the digital graphics production. — [**PABLO ROBLES**](https://josepablorobles.com/).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 

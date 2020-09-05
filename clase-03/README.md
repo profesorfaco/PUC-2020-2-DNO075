@@ -12,7 +12,7 @@ Las primeras tres clases de este Optativo se dividen en:
 
 En las tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio. 
 
-En esta tercera clase, de "[**Referentes: Desarrollo del visual storytelling desde el periodismo digital**](https://docs.google.com/presentation/d/1uhVJ5yPBLYs2fhfUgFzAL6jVCcTt6ZYf1AXTObZgAJc/edit?usp=sharing)", se consultan los siguientes recursos: 
+**En esta tercera clase, de "[Referentes: Desarrollo del visual storytelling desde el periodismo digital](https://docs.google.com/presentation/d/1uhVJ5yPBLYs2fhfUgFzAL6jVCcTt6ZYf1AXTObZgAJc/edit?usp=sharing)", se consultan los siguientes recursos**: 
  
 - Austin, T. & Doust, R. (2008). *Diseño de nuevos medios de comunicación*. Barcelona: Blume.
 

@@ -5,7 +5,6 @@
 Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de infografía digital. Ya pudieron haber revisado las ponencias de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q) y [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) para comprender cómo las actuales tecnologías nos permiten contar historias. Y la clase recién pasada tuvimos la primera aproximación a [herramientas de dibujo en función de la planificación](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#clase-04--lunes-31-de-agosto-2020), desarrollando bocetos para explicar: 
 
 - [qué ocurre cuando mezclas Coca-Cola con sal](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#resultados-grupo-1)
-
 - [cómo hacer un Irimi Nage (Aikido)](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#resultados-grupo-2)
 
 **En la clase de hoy, la quinta del semestre, el asunto es "Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial"**.
@@ -21,7 +20,6 @@ Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh
 Con base al desafío que se entregue, aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. **Lo que se desarrollará serán dos bocetos completos de una misma página**:
 
 - primero un *layout* para móvil;
-
 - después un *layout* para pantalla grande.
 
 El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-05/) de repositorio. 

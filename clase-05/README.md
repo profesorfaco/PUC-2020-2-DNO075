@@ -8,9 +8,7 @@ Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh
 
 - [cómo hacer un Irimi Nage (Aikido)](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#resultados-grupo-2)
 
-**Para la clase de hoy, de "Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial", tenemos a un invitado**:
-
-> I'm a Graphic Journalist currently working at [Bloomberg](https://www.bloomberg.com/), where I use code, graphics, maps and dataviz to present news. Previously I worked as a Senior Infographic Designer at [South China Morning Post](https://www.scmp.com/author/pablo-robles) in Hong Kong leading the digital graphics production. — [**PABLO ROBLES**](https://josepablorobles.com/).
+**La clase de hoy, la quinta del semestre, el asunto es "Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial".
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -20,7 +18,7 @@ Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh
 
 **También vamos a utilizar https://wireframe.cc/ para guiar y/o complementar el trabajo a mano**.
 
-Con base al desafío que nos entregue Pablo Robles, aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. **Lo que se desarrollará serán dos bocetos completos de una misma página**:
+Con base al desafío que se entregue, aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. **Lo que se desarrollará serán dos bocetos completos de una misma página**:
 
 - primero un *layout* para móvil;
 

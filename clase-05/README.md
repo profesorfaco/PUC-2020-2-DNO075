@@ -2,11 +2,7 @@
 
 ### Clase 05 → Lunes 7 de septiembre, 2020
 
-Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de infografía digital. 
-
-Ya pudieron haber revisado las ponencias de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q) y [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) para comprender cómo las actuales tecnologías nos permiten contar historias. 
-
-Y la clase recién pasada tuvimos la primera aproximación a [herramientas de dibujo en función de la planificación](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#clase-04--lunes-31-de-agosto-2020), desarrollando bocetos para explicar: 
+Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de infografía digital. Ya pudieron haber revisado las ponencias de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q) y [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) para comprender cómo las actuales tecnologías nos permiten contar historias. Y la clase recién pasada tuvimos la primera aproximación a [herramientas de dibujo en función de la planificación](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#clase-04--lunes-31-de-agosto-2020), desarrollando bocetos para explicar: 
 
 - [qué ocurre cuando mezclas Coca Cola con sal](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#resultados-grupo-1)
 

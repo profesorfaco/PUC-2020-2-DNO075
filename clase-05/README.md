@@ -53,7 +53,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-05/ |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-05/ |
 | 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia5/ |
-| 26 | Francisco Pezoa | … | 
+| 26 | Francisco Pezoa | https://panshios.github.io/id-clase-05/ | 
 | 27 | Daniela Quinteros | … |
 | 28 | Isidora Ravera | https://isiravera.github.io/clase5/ | 
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital5/ | 

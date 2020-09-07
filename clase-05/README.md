@@ -50,7 +50,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 20 | Javiera Maechtig | … |
 | 21 | Karla Mancini | … |
 | 22 | Karina Melani | … |
-| 23 | Muriel Muñoz | … |
+| 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-05/ |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-05/ |
 | 25 | Joaquín Olmedo | … |
 | 26 | Francisco Pezoa | … | 

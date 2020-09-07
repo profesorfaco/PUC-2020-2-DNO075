@@ -17,7 +17,7 @@ Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh
 
 **También vamos a utilizar https://wireframe.cc/ para guiar y/o complementar el trabajo a mano**.
 
-Con base al desafío que se entregue, aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. **Lo que se desarrollará serán dos bocetos completos de una misma página**:
+Con base en [el desafío que se entregue](https://drive.google.com/drive/folders/1PEWSuqoLRR0H2Nkv0_xtMBo6Ns6pOPsF?usp=sharing), aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. **Lo que se desarrollará serán dos bocetos completos de una misma página**:
 
 - primero un *layout* para móvil;
 - después un *layout* para pantalla grande.

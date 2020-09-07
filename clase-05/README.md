@@ -45,7 +45,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 15 | Fernando Gajardo | … |
 | 16 | Javiera González | … |
 | 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase5/ |
-| 18 | Antonia Lasen | … |
+| 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_5/ |
 | 19 | Sofía Lira | https://lirasantic.github.io/clase5/ |
 | 20 | Javiera Maechtig | … |
 | 21 | Karla Mancini | … |

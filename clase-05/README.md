@@ -56,7 +56,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 26 | Francisco Pezoa | … | 
 | 27 | Daniela Quinteros | … |
 | 28 | Isidora Ravera | … | 
-| 29 | Esperanza Ríos | … | 
+| 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital5/ | 
 | 30 | Pilar Saavedra | … |
 | 31 | David Sánchez | … |
 | 32 | Josefina Stückrath | … |

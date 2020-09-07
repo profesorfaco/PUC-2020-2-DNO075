@@ -31,7 +31,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 1 | Rosario Acha | https://rosaroachaa.github.io/infografia-digital-CLASE5/ |
 | 2 | Antonia Adell | … |
 | 3 | Ignacio Agurto | … | 
-| 4 | Francisco Álvarez | … |
+| 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-05-FARK/ |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/clase5infografia/ | 
 | 6 | Silvio Arribas | … |
 | 7 | Isabella Cabrera | … |

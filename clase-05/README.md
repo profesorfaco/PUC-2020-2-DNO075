@@ -36,7 +36,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 6 | Silvio Arribas | … |
 | 7 | Isabella Cabrera | … |
 | 8 | Dessiree Cifuentes | … |
-| 9 | Debi Codriansky | … | 
+| 9 | Debi Codriansky | https://debic.github.io/clase05/ | 
 | 10 | Erika Contreras | … |
 | 11 | María José Coudeu | … |
 | 12 | Valy Cummings | … |
@@ -44,14 +44,14 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 14 | Olga F. Vio | … |
 | 15 | Fernando Gajardo | … |
 | 16 | Javiera González | … |
-| 17 | María Fernanda Herández | … |
+| 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase5/ |
 | 18 | Antonia Lasen | … |
 | 19 | Sofía Lira | … |
 | 20 | Javiera Maechtig | … |
 | 21 | Karla Mancini | … |
 | 22 | Karina Melani | … |
 | 23 | Muriel Muñoz | … |
-| 24 | Rosario Olivares | … |
+| 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-05/ |
 | 25 | Joaquín Olmedo | … |
 | 26 | Francisco Pezoa | … | 
 | 27 | Daniela Quinteros | … |
@@ -61,7 +61,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 31 | David Sánchez | … |
 | 32 | Josefina Stückrath | … |
 | 33 | Paula Trujillo | … |
-| 34 | Rosario Valdés | … |
+| 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_05/ |
 | 35 | Catalina Vidal | … |
 
 - - - - - - - -

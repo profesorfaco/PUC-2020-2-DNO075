@@ -62,7 +62,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 32 | Josefina Stückrath | … |
 | 33 | Paula Trujillo | … |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_05/ |
-| 35 | Catalina Vidal | … |
+| 35 | Catalina Vidal | https://catalinavidal.github.io/Infografia_Digital_05/ |
 
 - - - - - - - -
 

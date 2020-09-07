@@ -34,7 +34,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-05-FARK/ |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/clase5infografia/ | 
 | 6 | Silvio Arribas | … |
-| 7 | Isabella Cabrera | … |
+| 7 | Isabella Cabrera | https://fishibanana.github.io/Infograf-a-Digital-Clase-5/ |
 | 8 | Dessiree Cifuentes | … |
 | 9 | Debi Codriansky | https://debic.github.io/clase05/ | 
 | 10 | Erika Contreras | https://erikaemm.github.io/e5/ |
@@ -57,7 +57,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 27 | Daniela Quinteros | … |
 | 28 | Isidora Ravera | https://isiravera.github.io/clase5/ | 
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital5/ | 
-| 30 | Pilar Saavedra | … |
+| 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-5/ |
 | 31 | David Sánchez | … |
 | 32 | Josefina Stückrath | … |
 | 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-5/ |

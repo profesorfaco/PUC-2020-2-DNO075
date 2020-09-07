@@ -28,11 +28,11 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 
 | Nro.  | Nombre | URL |
 |:-----:|:-------|:--------|
-| 1 | Rosario Acha | … |
+| 1 | Rosario Acha | https://rosaroachaa.github.io/infografia-digital-CLASE5/ |
 | 2 | Antonia Adell | … |
 | 3 | Ignacio Agurto | … | 
 | 4 | Francisco Álvarez | … |
-| 5 | Carolina Aranibar | … | 
+| 5 | Carolina Aranibar | https://caroaranibar.github.io/clase5infografia/ | 
 | 6 | Silvio Arribas | … |
 | 7 | Isabella Cabrera | … |
 | 8 | Dessiree Cifuentes | … |
@@ -43,24 +43,24 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 13 | Catalina Escudero | … | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase5/ |
 | 15 | Fernando Gajardo | … |
-| 16 | Javiera González | … |
+| 16 | Javiera González | https://javierapazgbas.github.io/clase5/ |
 | 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase5/ |
 | 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_5/ |
 | 19 | Sofía Lira | https://lirasantic.github.io/clase5/ |
 | 20 | Javiera Maechtig | … |
-| 21 | Karla Mancini | … |
-| 22 | Karina Melani | … |
+| 21 | Karla Mancini | https://kamancini.github.io/clase05/ |
+| 22 | Karina Melani | https://karinamelani.github.io/Infografia_Ejercicio5/ |
 | 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-05/ |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-05/ |
-| 25 | Joaquín Olmedo | … |
+| 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia5/ |
 | 26 | Francisco Pezoa | … | 
 | 27 | Daniela Quinteros | … |
-| 28 | Isidora Ravera | … | 
+| 28 | Isidora Ravera | https://isiravera.github.io/clase5/ | 
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital5/ | 
 | 30 | Pilar Saavedra | … |
 | 31 | David Sánchez | … |
 | 32 | Josefina Stückrath | … |
-| 33 | Paula Trujillo | … |
+| 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-5/ |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_05/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/Infografia_Digital_05/ |
 

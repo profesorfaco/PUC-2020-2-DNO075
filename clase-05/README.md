@@ -41,7 +41,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 11 | María José Coudeu | … |
 | 12 | Valy Cummings | … |
 | 13 | Catalina Escudero | … | 
-| 14 | Olga F. Vio | … |
+| 14 | Olga F. Vio | https://caracolga.github.io/clase5/ |
 | 15 | Fernando Gajardo | … |
 | 16 | Javiera González | … |
 | 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase5/ |

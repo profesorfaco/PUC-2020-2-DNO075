@@ -29,17 +29,17 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | Nro.  | Nombre | URL |
 |:-----:|:-------|:--------|
 | 1 | Rosario Acha | https://rosaroachaa.github.io/infografia-digital-CLASE5/ |
-| 2 | Antonia Adell | … |
+| 2 | Antonia Adell | https://antoadell.github.io/infodigital-clase5/ |
 | 3 | Ignacio Agurto | https://iagurto.github.io/clase5/ | 
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-05-FARK/ |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/clase5infografia/ | 
 | 6 | Silvio Arribas | … |
 | 7 | Isabella Cabrera | https://fishibanana.github.io/Infograf-a-Digital-Clase-5/ |
-| 8 | Dessiree Cifuentes | … |
+| 8 | Dessiree Cifuentes | https://desscarol.github.io/Info_Dig_clase_05/ |
 | 9 | Debi Codriansky | https://debic.github.io/clase05/ | 
 | 10 | Erika Contreras | https://erikaemm.github.io/e5/ |
 | 11 | María José Coudeu | … |
-| 12 | Valy Cummings | … |
+| 12 | Valy Cummings | https://valycmmngs.github.io/clase5/ |
 | 13 | Catalina Escudero | … | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase5/ |
 | 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase5/ |
@@ -54,7 +54,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-05/ |
 | 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia5/ |
 | 26 | Francisco Pezoa | https://panshios.github.io/id-clase-05/ | 
-| 27 | Daniela Quinteros | … |
+| 27 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase-5/ |
 | 28 | Isidora Ravera | https://isiravera.github.io/clase5/ | 
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital5/ | 
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-5/ |

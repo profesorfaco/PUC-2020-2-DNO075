@@ -30,7 +30,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 |:-----:|:-------|:--------|
 | 1 | Rosario Acha | https://rosaroachaa.github.io/infografia-digital-CLASE5/ |
 | 2 | Antonia Adell | … |
-| 3 | Ignacio Agurto | … | 
+| 3 | Ignacio Agurto | https://iagurto.github.io/clase5/ | 
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-05-FARK/ |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/clase5infografia/ | 
 | 6 | Silvio Arribas | … |
@@ -42,7 +42,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 12 | Valy Cummings | … |
 | 13 | Catalina Escudero | … | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase5/ |
-| 15 | Fernando Gajardo | … |
+| 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase5/ |
 | 16 | Javiera González | https://javierapazgbas.github.io/clase5/ |
 | 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase5/ |
 | 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_5/ |
@@ -59,7 +59,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital5/ | 
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-5/ |
 | 31 | David Sánchez | … |
-| 32 | Josefina Stückrath | … |
+| 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-5/ |
 | 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-5/ |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_05/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/Infografia_Digital_05/ |

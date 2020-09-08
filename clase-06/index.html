@@ -61,6 +61,7 @@
             }
 
             svg g#modulo-alunizaje {
+                /* por defecto, se esconde */
                 display: none;
             }
 
@@ -74,31 +75,34 @@
             }
 
             svg:hover g#modulo-alunizaje {
+                /* con mouse encima del svg, se muestra */
                 display: inherit;
             }
 
             svg:hover polygon#garage-modulo-alunizaje {
+                /* con mouse encima del svg, se esconde */
                 display: none;
             }
 
             svg:hover polygon#propulsor-tercera-etapa {
-                transform: translate(0, 2vh);
+                transform: translate(0, 1vh);
+                transition: transform 0.2s ease;
             }
 
             svg:hover polygon#cono-empalme {
-                transform: translate(0, 8vh);
+                transform: translate(0, 6vh);
             }
 
             svg:hover polygon#segunda-etapa {
-                transform: translate(0, 10vh);
+                transform: translate(0, 7vh);
             }
 
             svg:hover polygon#anillo-empalme {
-                transform: translate(0, 15vh);
+                transform: translate(0, 11vh);
             }
 
             svg:hover polygon#primera-etapa {
-                transform: translate(0, 17vh);
+                transform: translate(0, 12vh);
             }
         </style>
     </head>
@@ -124,22 +128,21 @@
                     <svg id="saturno_v" x="0px" y="0px" viewBox="0 0 100 900" xml:space="preserve">
                         <g id="saturno_v">
                             <g id="apolo">
-                                <path id="modulo-mando" d="M55,117c-1.1-1.5-3-2-5-2s-3.9,0.5-5,2l-11,15h32L55,117z" />
-                                <polygon id="modulo-servicio" points="34,132 34,162 35,165 45,165 43,178 57,178 55,165 65,165 66,162 66,132" />
+                                <path id="modulo-mando" d="M55,117c-1.1-1.5-3-2-5-2s-3.9,0.5-5,2l-11,15h32L55,117z"/>
+                                <polygon id="modulo-servicio" points="34,132 34,162 35,165 45,165 43,178 57,178 55,165 65,165 66,162 66,132"/>
                             </g>
-                            <polygon id="torre-salvamento" points="54,97 52,94 52,52 50,50 48,52 48,94 46,97 45,117 55,117" />
+                            <polygon id="torre-salvamento" points="54,97 52,94 52,52 50,50 48,52 48,94 46,97 45,117 55,117"/>
                             <polygon id="propulsor-tercera-etapa" points="75,219 25,219 25,308 47,314 42,323 42,333 58,333 58,323 53,314 75,308"/>
-                            <polygon id="cono-empalme" points="75,308 25,308 12,345 88,345  " />
+                            <polygon id="cono-empalme" points="75,308 25,308 12,345 88,345"/>
                             <polygon id="segunda-etapa" points="11,470 20,475 27,475 21.8,480 21,490 38,490 37,480 32,475 47,475 42,480 41,490 59,490 58.4,480 53,475 68,475 63,480 62,490 79,490 78,480 73,475 80,475 89,470 88,345 12,345"/>
-                            <polygon id="anillo-empalme" points="11,470 10,530 90,530 89,470" />
+                            <polygon id="anillo-empalme" points="11,470 10,530 90,530 89,470"/>
                             <polygon id="primera-etapa" points="90,530 10,530 10,715 5,720 5,732 12,735 12,740 1,750 1,760 8,760 5,770 34,770 33,775 67,775 66,770 95,770 92,760 99,760 99,750 88,740 88,735 95,732 95,720 90,715"/>
-                            <polygon id="garage-modulo-alunizaje" points="25,219 34,162 66,162 75,219   " />
+                            <polygon id="garage-modulo-alunizaje" points="25,219 34,162 66,162 75,219"/>
                         </g>
                         <g id="modulo-alunizaje">
-                            <polygon id="abierto-derecha" points="99,218 94,163 79,162 74,215" />
-                            <polygon id="abierto-izquierda" points="1,218 26,215 21,162 6,163" />
-                            <polygon id="modulo-lunar" points="68,210 63,198 60,197 59,191 57,190 57,186 54,182 46,182 43,186 43,190 41,191 40,197 37,198 32,210 29,210 29,212 36,212 36,210 34,210 38,200 39,206 46,208 45,210 48,210 48,214 46,214 46,216 53,216 53,214 51,214 51,210 54.1,210 53,208 61,206 62,200 66,210 64,210 64,212 71,212 71,210  "
-                            />
+                            <polygon id="abierto-derecha" points="99,218 94,163 79,162 74,215"/>
+                            <polygon id="abierto-izquierda" points="1,218 26,215 21,162 6,163"/>
+                            <polygon id="modulo-lunar" points="68,210 63,198 60,197 59,191 57,190 57,186 54,182 46,182 43,186 43,190 41,191 40,197 37,198 32,210 29,210 29,212 36,212 36,210 34,210 38,200 39,206 46,208 45,210 48,210 48,214 46,214 46,216 53,216 53,214 51,214 51,210 54.1,210 53,208 61,206 62,200 66,210 64,210 64,212 71,212 71,210"/>
                         </g>
                     </svg>
                 </div>

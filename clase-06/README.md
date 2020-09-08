@@ -2,7 +2,7 @@
 
 ### Clase 06 → Lunes 14 de septiembre, 2020
 
-La clase de hoy cierra una primera etapa en este Optativo; etapa que, por una parte, les invitó a reconocer [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de la infografía digital y, por otra, les invitó a *soltar la mano* para comenzar a concretar sus respuesta a desafíos de una actualidad que bien presentan [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) y [Chico Amaral](https://www.youtube.com/watch?v=lYi1_G8noq4).
+La clase de hoy cierra una primera etapa en este Optativo; etapa que, por una parte, les invitó a reconocer [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de la infografía digital y, por otra, les invitó a *soltar la mano* para comenzar a concretar sus respuesta a los desafíos de una actualidad que nos presentan [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) y [Chico Amaral](https://www.youtube.com/watch?v=lYi1_G8noq4).
 
 La clase de hoy está dedicada a la **"Ilustración vectorial para animaciones e imagen"**. 
 

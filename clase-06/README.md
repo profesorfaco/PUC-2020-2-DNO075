@@ -6,7 +6,7 @@ El tema de hoy es "**Ilustración vectorial para animaciones e imagen**".
 
 #### Ejercicio
 
-El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-06/) de repositorio. 
+Siguiendo instrucciones que se entreguen durante la clase: Preparar una página web que debe quedar en línea, durante el día, con el uso de GitHub Pages. Para prepararla, debe aprovechar [los archivos en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-06/) de repositorio, además del [material y referencias compartidas](https://drive.google.com/drive/folders/1imcvNBdvyyIN1vbfgtOQvKkLJyhUAiem?usp=sharing) en Drive. 
 
 #### Resultados
 

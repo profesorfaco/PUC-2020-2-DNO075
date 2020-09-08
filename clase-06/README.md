@@ -9,7 +9,6 @@ La clase de hoy está dedicada a la **"Ilustración vectorial para animaciones e
 Se utilizarán dos programas de la Suite Adobe: 
 
 - [Illustrator](https://www.adobe.com/la/products/illustrator.html)
-
 - [Photoshop](https://www.adobe.com/la/products/photoshop.html)
 
 También será necesario contar con un editor de código fuente, para tener una primera aproximación a [SVG](https://github.com/profesorfaco/dno075-2020/wiki/SVG). 

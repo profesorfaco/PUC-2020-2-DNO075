@@ -2,9 +2,9 @@
 
 ### Clase 06 → Lunes 14 de septiembre, 2020
 
-La clase de hoy cierra una primera etapa del Optativo; etapa que, por una parte, les invitó a reconocer [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de la infografía digital y, por otra, les invitó a soltar la mano para comenzar a trabajar en propuestas individuales que daban cuenta de su comprensión de los desafíos de actualidad, que bien presentan: [Chico Amaral](https://www.youtube.com/watch?v=lYi1_G8noq4), [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q) y [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) 
+La clase de hoy cierra una primera etapa del Optativo; etapa que, por una parte, les invitó a reconocer [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de la infografía digital y, por otra, les invitó a soltar la mano para comenzar a concretar propuestas que daban cuenta de su comprensión de los desafíos de actualidad, que bien presentan: [Chico Amaral](https://www.youtube.com/watch?v=lYi1_G8noq4), [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q) y [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) 
 
-La clase de hoy está dedicada a la **"Ilustración vectorial para animaciones e imagen"**. Será necesario contar con dos programas de la Suite Adobe: Illustrator y Photoshop, además de un editor de código fuente para tener una primera aproximación a [SVG](https://github.com/profesorfaco/dno075-2020/wiki/SVG).
+La clase de hoy está dedicada a la **"Ilustración vectorial para animaciones e imagen"**. Se utilizarán dos programas de la Suite Adobe: Illustrator y Photoshop, además de un editor de código fuente para tener una primera aproximación a [SVG](https://github.com/profesorfaco/dno075-2020/wiki/SVG).
 
 #### Ejercicio
 

@@ -1,4 +1,4 @@
-# Infografía Digital
+# Infografía Digital v1
 
 ### Diseño / Pontificia Universidad Católica de Chile
 

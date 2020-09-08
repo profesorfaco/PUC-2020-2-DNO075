@@ -11,7 +11,7 @@ Se utilizarán dos programas de la Suite Adobe:
 - [Illustrator](https://www.adobe.com/la/products/illustrator.html)
 - [Photoshop](https://www.adobe.com/la/products/photoshop.html)
 
-También será necesario contar con un editor de código fuente, para tener una primera aproximación a [SVG](https://github.com/profesorfaco/dno075-2020/wiki/SVG). 
+También será necesario contar con un editor de código fuente para tener una primera aproximación a los elementos [`<rect>`](https://developer.mozilla.org/es/docs/Web/SVG/Element/rect), [`<polygon>`](https://developer.mozilla.org/es/docs/Web/SVG/Element/polygon), [`<polyline>`](https://developer.mozilla.org/es/docs/Web/SVG/Element/polyline) y [`<path>`](https://developer.mozilla.org/es/docs/Web/SVG/Element/path), sea que estén solos o agrupados, por [`<g>…</g>`](https://developer.mozilla.org/es/docs/Web/SVG/Element/g), dentro del contenedor [`<svg>…</svg>`](https://developer.mozilla.org/es/docs/Web/SVG/Element/svg), y la posibilidad de [transformarlos mediante CSS](https://css-tricks.com/transforms-on-svg-elements/).
 
 #### Ejercicio
 

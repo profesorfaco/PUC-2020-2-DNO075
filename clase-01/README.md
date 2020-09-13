@@ -58,7 +58,7 @@ Para describir o programar, necesitamos editores de código fuente. Se recomiend
 
 - [Sublime Text](https://www.sublimetext.com/) - Editor de texto privativo, cuya versión de evaluación es plenamente funcional y no tiene fecha de caducidad. 
 
-- [Brakets](http://brackets.io/) - Editor de texto open-source para desarrolladores FrontEnd que trabajen con HTML, CSS y JavaScript.
+- [Brackets](http://brackets.io/) - Editor de texto open-source para desarrolladores FrontEnd que trabajen con HTML, CSS y JavaScript.
 
 El listado está organizado según preferencia; prefiera el primero, si no puede obtenerlo, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero.
 

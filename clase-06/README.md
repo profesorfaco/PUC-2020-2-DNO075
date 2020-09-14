@@ -46,7 +46,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 23 | Muriel Muñoz | … |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-06/ |
 | 25 | Joaquín Olmedo | … |
-| 26 | Francisco Pezoa | … | 
+| 26 | Francisco Pezoa | https://panshios.github.io/id-clase-06 | 
 | 27 | Daniela Quinteros | … |
 | 28 | Isidora Ravera | … | 
 | 29 | Esperanza Ríos | … | 

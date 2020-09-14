@@ -4,7 +4,7 @@
 
 La clase de hoy cierra una primera etapa en este Optativo; etapa que, por una parte, les invitó a reconocer [precedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-01#clase-01--lunes-10-de-agosto-2020), [antecedentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-02#clase-02--lunes-17-de-agosto-2020) y [referentes](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-03#clase-03--lunes-24-de-agosto-2020) de la infografía digital y, por otra, les invitó a *soltar la mano* para comenzar a contar historias así como lo permiten las actuales tecnologías (según se aclara en ponencias de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) y [Chico Amaral](https://www.youtube.com/watch?v=lYi1_G8noq4)). Esto último implica contar historias con el [binomio escribir-mostrar](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-04#clase-04--lunes-31-de-agosto-2020), de modo [*responsivo*](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-05#clase-05--lunes-7-de-septiembre-2020).
 
-La clase de hoy está dedicada a la **"Ilustración vectorial para animaciones e imagen"**. 
+La clase de hoy está dedicada a la **"[Ilustración vectorial para animaciones e imágenes](https://docs.google.com/presentation/d/1xGWR8jeZoTn-CGwg01FRPMHpPlGn8sG5Q1fyX_AqDZA/edit?usp=sharing)"**. 
 
 Se utilizarán dos programas de la Suite Adobe: 
 

@@ -20,7 +20,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 05 → 07/09/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-05) → Dibujo aplicado al contenido: Como imagen final o base para ilustración vectorial. ✓
 
-[Clase 06 → 14/09/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-06) → Ilustración vectorial para animaciones e imagen.
+[Clase 06 → 14/09/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-06) → Ilustración vectorial para animaciones e imagenes. ✓
 
 **Clase 07 → 21/09/2020 → Semana de receso de las actividades universitarias.**
 

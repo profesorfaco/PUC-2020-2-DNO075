@@ -54,7 +54,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 31 | David Sánchez | … |
 | 32 | Josefina Stückrath | … |
 | 33 | Paula Trujillo | … |
-| 34 | Rosario Valdés | … |
+| 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo-en-clases-06/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/Infografia_digital_06/ |
 
 

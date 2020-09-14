@@ -43,7 +43,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 20 | Javiera Maechtig | pendiente |
 | 21 | Karla Mancini | https://kamancini.github.io/clase-06/ |
 | 22 | Karina Melani | https://karinamelani.github.io/Infografia_Ejercicio6/ |
-| 23 | Muriel Muñoz | pendiente |
+| 23 | Muriel Muñoz | https://murimu.github.io/dno075-2020-clase-06/ |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-06/ |
 | 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia6/ |
 | 26 | Francisco Pezoa | https://panshios.github.io/id-clase-06 | 

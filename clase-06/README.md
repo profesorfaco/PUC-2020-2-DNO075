@@ -31,7 +31,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 8 | Dessiree Cifuentes | https://desscarol.github.io/Info-Digital-_-Clase-06-_-Modulo-Lunar/ |
 | 9 | Debi Codriansky | https://debic.github.io/clase06/ | 
 | 10 | Erika Contreras | pendiente |
-| 11 | María José Coudeu | pendiente |
+| 11 | María José Coudeu | https://mjcoudeu.github.io/InfografiaDigital_Ejercicio6/ |
 | 12 | Valy Cummings | https://valycmmngs.github.io/clase6/ |
 | 13 | Catalina Escudero | pendiente | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase6/ |

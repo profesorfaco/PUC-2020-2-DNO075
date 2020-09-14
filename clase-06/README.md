@@ -22,9 +22,9 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | Nro.  | Nombre | URL |
 |:-----:|:-------|:--------|
 | 1 | Rosario Acha | … |
-| 2 | Antonia Adell | … |
+| 2 | Antonia Adell | https://antoadell.github.io/infodigital-clase6 |
 | 3 | Ignacio Agurto | … | 
-| 4 | Francisco Álvarez | … |
+| 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-06-FARK |
 | 5 | Carolina Aranibar | … | 
 | 6 | Silvio Arribas | … |
 | 7 | Isabella Cabrera | … |
@@ -34,17 +34,17 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 11 | María José Coudeu | … |
 | 12 | Valy Cummings | … |
 | 13 | Catalina Escudero | … | 
-| 14 | Olga F. Vio | … |
+| 14 | Olga F. Vio | https://caracolga.github.io/clase6/ |
 | 15 | Fernando Gajardo | … |
-| 16 | Javiera González | … |
+| 16 | Javiera González | https://javierapazgbas.github.io/Clase-6-/ |
 | 17 | María Fernanda Herández | … |
 | 18 | Antonia Lasen | … |
 | 19 | Sofía Lira | … |
 | 20 | Javiera Maechtig | … |
-| 21 | Karla Mancini | … |
+| 21 | Karla Mancini | https://kamancini.github.io/clase-06 |
 | 22 | Karina Melani | … |
 | 23 | Muriel Muñoz | … |
-| 24 | Rosario Olivares | … |
+| 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-06/ |
 | 25 | Joaquín Olmedo | … |
 | 26 | Francisco Pezoa | … | 
 | 27 | Daniela Quinteros | … |
@@ -55,7 +55,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 32 | Josefina Stückrath | … |
 | 33 | Paula Trujillo | … |
 | 34 | Rosario Valdés | … |
-| 35 | Catalina Vidal | … |
+| 35 | Catalina Vidal | https://catalinavidal.github.io/Infografia_digital_06/ |
 
 
 - - - - - - - -

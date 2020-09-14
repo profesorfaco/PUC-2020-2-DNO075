@@ -42,7 +42,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 19 | Sofía Lira | https://lirasantic.github.io/Clase_06/ |
 | 20 | Javiera Maechtig | pendiente |
 | 21 | Karla Mancini | https://kamancini.github.io/clase-06/ |
-| 22 | Karina Melani | pendiente |
+| 22 | Karina Melani | https://karinamelani.github.io/Infografia_Ejercicio6/ |
 | 23 | Muriel Muñoz | pendiente |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-06/ |
 | 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia6/ |

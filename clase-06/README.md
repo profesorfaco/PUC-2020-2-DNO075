@@ -29,17 +29,17 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 6 | Silvio Arribas | … |
 | 7 | Isabella Cabrera | … |
 | 8 | Dessiree Cifuentes | … |
-| 9 | Debi Codriansky | … | 
+| 9 | Debi Codriansky | https://debic.github.io/clase06/ | 
 | 10 | Erika Contreras | … |
 | 11 | María José Coudeu | … |
 | 12 | Valy Cummings | … |
 | 13 | Catalina Escudero | … | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase6/ |
-| 15 | Fernando Gajardo | … |
+| 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase6/ |
 | 16 | Javiera González | https://javierapazgbas.github.io/Clase-6-/ |
 | 17 | María Fernanda Herández | … |
 | 18 | Antonia Lasen | … |
-| 19 | Sofía Lira | … |
+| 19 | Sofía Lira | https://lirasantic.github.io/Clase_06/ |
 | 20 | Javiera Maechtig | … |
 | 21 | Karla Mancini | https://kamancini.github.io/clase-06 |
 | 22 | Karina Melani | … |

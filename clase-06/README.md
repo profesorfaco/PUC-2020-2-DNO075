@@ -21,41 +21,40 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 
 | Nro.  | Nombre | URL |
 |:-----:|:-------|:--------|
-| 1 | Rosario Acha | … |
+| 1 | Rosario Acha | https://rosaroachaa.github.io/ENTREGA-CLASE-6/ |
 | 2 | Antonia Adell | https://antoadell.github.io/infodigital-clase6 |
-| 3 | Ignacio Agurto | … | 
+| 3 | Ignacio Agurto | https://iagurto.github.io/clase6/ | 
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-06-FARK |
-| 5 | Carolina Aranibar | … | 
-| 6 | Silvio Arribas | … |
-| 7 | Isabella Cabrera | … |
-| 8 | Dessiree Cifuentes | … |
+| 5 | Carolina Aranibar | pendiente | 
+| 6 | Silvio Arribas | pendiente |
+| 7 | Isabella Cabrera | https://fishibanana.github.io/ID.CLASE-6/ |
+| 8 | Dessiree Cifuentes | https://desscarol.github.io/Info-Digital-_-Clase-06-_-Modulo-Lunar/ |
 | 9 | Debi Codriansky | https://debic.github.io/clase06/ | 
-| 10 | Erika Contreras | … |
-| 11 | María José Coudeu | … |
-| 12 | Valy Cummings | … |
-| 13 | Catalina Escudero | … | 
+| 10 | Erika Contreras | pendiente |
+| 11 | María José Coudeu | pendiente |
+| 12 | Valy Cummings | https://valycmmngs.github.io/clase6/ |
+| 13 | Catalina Escudero | pendiente | 
 | 14 | Olga F. Vio | https://caracolga.github.io/clase6/ |
 | 15 | Fernando Gajardo | https://fjgajardo.github.io/Clase6/ |
 | 16 | Javiera González | https://javierapazgbas.github.io/Clase-6-/ |
-| 17 | María Fernanda Herández | … |
-| 18 | Antonia Lasen | … |
+| 17 | María Fernanda Herández | https://mfhernandez3.github.io/Clase6/ |
+| 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_6/ |
 | 19 | Sofía Lira | https://lirasantic.github.io/Clase_06/ |
-| 20 | Javiera Maechtig | … |
+| 20 | Javiera Maechtig | pendiente |
 | 21 | Karla Mancini | https://kamancini.github.io/clase-06 |
-| 22 | Karina Melani | … |
-| 23 | Muriel Muñoz | … |
+| 22 | Karina Melani | pendiente |
+| 23 | Muriel Muñoz | pendiente |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-06/ |
-| 25 | Joaquín Olmedo | … |
+| 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia6/ |
 | 26 | Francisco Pezoa | https://panshios.github.io/id-clase-06 | 
-| 27 | Daniela Quinteros | … |
-| 28 | Isidora Ravera | … | 
-| 29 | Esperanza Ríos | … | 
-| 30 | Pilar Saavedra | … |
-| 31 | David Sánchez | … |
-| 32 | Josefina Stückrath | … |
-| 33 | Paula Trujillo | … |
+| 27 | Daniela Quinteros | pendiente |
+| 28 | Isidora Ravera | https://isiravera.github.io/clase6/ | 
+| 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital6/ | 
+| 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-6/ |
+| 31 | David Sánchez | pendiente |
+| 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-6/ |
+| 33 | Paula Trujillo | pendiente |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo-en-clases-06/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/Infografia_digital_06/ |
-
 
 - - - - - - - -

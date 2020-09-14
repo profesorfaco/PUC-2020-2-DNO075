@@ -41,7 +41,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 18 | Antonia Lasen | https://aflasen.github.io/Info_Digital_6/ |
 | 19 | Sofía Lira | https://lirasantic.github.io/Clase_06/ |
 | 20 | Javiera Maechtig | pendiente |
-| 21 | Karla Mancini | https://kamancini.github.io/clase-06 |
+| 21 | Karla Mancini | https://kamancini.github.io/clase-06/ |
 | 22 | Karina Melani | pendiente |
 | 23 | Muriel Muñoz | pendiente |
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-06/ |

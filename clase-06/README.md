@@ -26,7 +26,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 3 | Ignacio Agurto | https://iagurto.github.io/clase6/ | 
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-06-FARK |
 | 5 | Carolina Aranibar | pendiente | 
-| 6 | Silvio Arribas | pendiente |
+| 6 | Silvio Arribas | https://silvioaz.github.io/clase_6/ |
 | 7 | Isabella Cabrera | https://fishibanana.github.io/ID.CLASE-6/ |
 | 8 | Dessiree Cifuentes | https://desscarol.github.io/Info-Digital-_-Clase-06-_-Modulo-Lunar/ |
 | 9 | Debi Codriansky | https://debic.github.io/clase06/ | 

@@ -47,7 +47,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 24 | Rosario Olivares | https://rosarioof.github.io/Infografia-06/ |
 | 25 | Joaquín Olmedo | https://joacolmedo.github.io/infografia6/ |
 | 26 | Francisco Pezoa | https://panshios.github.io/id-clase-06 | 
-| 27 | Daniela Quinteros | pendiente |
+| 27 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase-6/ |
 | 28 | Isidora Ravera | https://isiravera.github.io/clase6/ | 
 | 29 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital6/ | 
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-6/ |

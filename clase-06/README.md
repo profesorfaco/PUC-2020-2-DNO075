@@ -53,7 +53,7 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 30 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-6/ |
 | 31 | David Sánchez | pendiente |
 | 32 | Josefina Stückrath | https://jstuckrath.github.io/clase-6/ |
-| 33 | Paula Trujillo | pendiente |
+| 33 | Paula Trujillo | https://paula-trujillo.github.io/infografia-digital-6/ |
 | 34 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo-en-clases-06/ |
 | 35 | Catalina Vidal | https://catalinavidal.github.io/Infografia_digital_06/ |
 

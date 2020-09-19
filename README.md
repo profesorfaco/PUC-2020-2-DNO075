@@ -54,7 +54,7 @@ Clase 17 → 30/11/2020 → Entrega final, en línea.
 
 - Trabajo final de aplicación: Desarrollo y publicación de storytelling digital: 40%
 
-**En el formato de clases remotas, las evaluaciones se ajustarán de la siguiente manera:**
+**En el formato de clases remotas, por [Covid-19](https://www.uc.cl/uc-contra-el-coronavirus/), las evaluaciones se ajustarán de la siguiente manera:**
 
 - Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 06. Un punto por trabajo + un punto base. Equivale al 25% del promedio final. 
 

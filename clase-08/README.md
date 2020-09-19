@@ -10,21 +10,21 @@ Esta clase y la que sigue se apoyan en GitHub. La Presentación en Drive es rele
 
 **En `index.html` podemos revisar lenguajes y dialectos que nos permiten producir infografías digitales:**
 
-- HTML, que se reconoce por sus `<etiqueta atributo="…"></etiqueta>`.
+- [HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML), que se reconoce por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
-- SVG, que se parece mucho a HTML, con sus propias `<etiqueta atributo="…"></etiqueta>` dentro de `<svg></svg>`.
+- [SVG](https://github.com/profesorfaco/dno075-2020/wiki/SVG), que se parece mucho a HTML, con sus propios elementos demarcados con `<etiqueta atributo="…"></etiqueta>` dentro de `<svg></svg>`.
 
-- CSS, que se reconoce por la estructura `regla{propiedad:valor;}` dentro de `<style></style>`. Aunque tenemos a la vista una única regla de CSS, hay un montón de reglas más que podríamos utilizar en la página. Esas reglas son vinculadas en la línea 6 del `index.html`, con referencia (`href`) al CSS de Bootstrap.
+- [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS), que se reconoce por la estructura `regla{propiedad:valor;}` dentro de `<style></style>`. Aunque tenemos a la vista una única regla de CSS, hay un montón de reglas más que podríamos utilizar en la página. Esas reglas son vinculadas en la línea 6 del `index.html`, con referencia (`href`) al CSS de [Bootstrap](https://getbootstrap.com/).
 
-- JavaScript, al que accedemos por jQuery, que se reconoce por su estructura `$(sujeto).predicado();` dentro de `<script></script>`.
+- [JavaScript](https://github.com/profesorfaco/dno075-2020/wiki/JavaScript), al que accedemos por jQuery. Este último se reconoce por su estructura `$(sujeto).predicado();` dentro de `<script></script>`.
 
 Del listado recién presentado, el "complicado" podría ser JavaScript, porque es el que trabaja directamente con las "complejidades" de la interacción. Con JavaScript (y sus bibliotecas) se programa. Con los demás se describe.
 
-Pero hay muchos recursos en línea que pueden ayudar a introducirte a la programación; es muy recomendable partir dedicándole una tarde a [JavaScript para gatos](https://jsparagatos.com/).
+Pero hay muchos recursos en línea que pueden guiar una introducción a la programación. Es muy recomendable partir dedicándole una tarde a [JavaScript para gatos](https://jsparagatos.com/).
 
 **Ahora, volviendo a los documentos: En `copia.html` podemos encontrar código SVG que corresponde a la primera imagen en el reportaje [How Hong Kong airport protests ended in chaos](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/), del South China Morning Post**; pueden ver el código fuente de la página para confirmarlo.
 
-**Finalmente, en `ejercicio.html` se les encarga mostrar un fenómeno que, desplegado sobre un plano, puede tener dos momentos**; en este documento, tal como en `index.html`, hay una clase que se agrega o quita dependiendo del scroll, lo que puede hacer visible un primer o segundo momento. Y tal como en `copia.html`, hay dos `<svg></svg>` (gracias a [Bootstrap](https://getbootstrap.com/), uno u otro `<svg></svg>` se muestra según el ancho de pantalla).  
+**Finalmente, en `ejercicio.html` está preparado para que puedan mostrar un fenómeno que, desplegado sobre un plano, puede tener dos momentos**; en este documento, tal como en `index.html`, hay una clase que se agrega o quita dependiendo del scroll, lo que puede hacer visible un primer o segundo momento. Y tal como en `copia.html`, hay dos `<svg></svg>` (gracias a [Bootstrap](https://getbootstrap.com/), uno u otro `<svg></svg>` se muestra según el ancho de pantalla).
 
 #### Ejercicio
 

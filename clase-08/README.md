@@ -8,7 +8,7 @@ En este clase utilizaremos Adobe Illustrator. En caso no cuentes con este progra
 
 Esta clase y la que sigue se apoyan en GitHub. La Presentación en Drive es relegada a un lugar secundario. Es esta carpeta de repositorio de GitHub pueden encontrar algunos documentos que nos permitirán avanzar "**Desde Ilustración vectorial a Scalable Vector Graphics (SVG)**". 
 
-**En `index.html` podemos revisar lenguajes y dialectos que nos permiten producir infografías digitales:**
+**En [`index.html`](https://profesorfaco.github.io/dno075-2020/clase-08/index.html) podemos revisar lenguajes y dialectos que nos permiten producir infografías digitales:**
 
 - [HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML), que se reconoce por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
@@ -22,13 +22,13 @@ Del listado recién presentado, el "complicado" podría ser JavaScript, porque e
 
 Pero hay muchos recursos en línea que pueden guiar una introducción a la programación. Es muy recomendable partir dedicándole una tarde a [JavaScript para gatos](https://jsparagatos.com/).
 
-**Ahora, volviendo a los documentos: En `copia.html` podemos encontrar código SVG que corresponde a la primera imagen en el reportaje [How Hong Kong airport protests ended in chaos](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/), del South China Morning Post**; pueden ver el código fuente de la página para confirmarlo.
+**Ahora, volviendo a los documentos: En [`copia.html`](https://profesorfaco.github.io/dno075-2020/clase-08/copia.html) podemos encontrar código SVG que corresponde a la primera imagen en el reportaje [How Hong Kong airport protests ended in chaos](https://multimedia.scmp.com/infographics/news/hong-kong/article/3022630/hong-kong-airport-protest/), del South China Morning Post**; pueden ver el código fuente de la página para confirmarlo.
 
 **Finalmente, en `ejercicio.html` está preparado para que puedan mostrar un fenómeno que, desplegado sobre un plano, puede tener dos momentos**; en este documento, tal como en `index.html`, hay una clase que se agrega o quita dependiendo del scroll, lo que puede hacer visible un primer o segundo momento. Y tal como en `copia.html`, hay dos `<svg></svg>` (gracias a [Bootstrap](https://getbootstrap.com/), uno u otro `<svg></svg>` se muestra según el ancho de pantalla).
 
 #### Ejercicio
 
-Como en cada clase, corresponde **preparar una página web que debe** quedar en línea, durante el día, con el uso de GitHub Pages. Para prepararla, debes aprovechar [el `ejercicio.html` en esta carpeta](https://profesorfaco.github.io/dno075-2020/clase-08/ejercicio.html) de repositorio del Optativo.
+Como en cada clase, corresponde **preparar una página web que debe** quedar en línea, durante el día, con el uso de GitHub Pages. Para prepararla, debes aprovechar el [`ejercicio.html`](https://profesorfaco.github.io/dno075-2020/clase-08/ejercicio.html) en esta carpeta de repositorio del Optativo.
 
 **Atención con esto:**
 

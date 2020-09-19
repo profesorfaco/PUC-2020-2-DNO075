@@ -32,7 +32,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 
 **Atención con esto:**
 
-- Al documento `ejercicio.html` debes cambiarle el nombre por `index.html`, y ese debe ser el único documento HTML en tu carpeta de repositorio.
+- Al documento `ejercicio.html` debes cambiarle el nombre por `index.html`, y este debe ser el único documento HTML en tu carpeta de repositorio.
 
 - En este nuevo `index.html` debes eliminar el elemento demarcado por las etiquetas `<footer>…</footer>`.
 

@@ -58,3 +58,5 @@ Siguiendo instrucciones que se entreguen durante la clase: **Preparar una págin
 | 35 | Catalina Vidal | https://catalinavidal.github.io/Infografia_digital_06/ |
 
 - - - - - - - -
+
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-08)

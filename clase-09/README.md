@@ -6,9 +6,9 @@ Esta clase, así como la recién pasada, se apoya en de GitHub. La Presentación
 
 En esta carpeta de repositorio de GitHub pueden encontrar algunos documentos que nos permitirán aprender más sobre "**Coding: HTML, CSS y JavaScript**". 
 
-**En `index.html` podemos encontrar una adaptación de [New normal: How far is safe enough?](https://graphics.reuters.com/HEALTH-CORONAVIRUS/SOCIALDISTANCING/qzjvqenmyvx/) un reportaje publicado por Reuters**, graficado por Samuel Granados, editador por Jon McClure, Tiffany Wu y Simon Scarr, con colaboración de Maryanne Murray. 
+**En [`index.html`](https://profesorfaco.github.io/dno075-2020/clase-09/index.html) tenemos una adaptación de [New normal: How far is safe enough?](https://graphics.reuters.com/HEALTH-CORONAVIRUS/SOCIALDISTANCING/qzjvqenmyvx/), un reportaje publicado por Reuters**, que fue graficado por Samuel Granados, editado por Jon McClure, Tiffany Wu y Simon Scarr, y que contó con la colaboración de [Maryanne Murray](https://www.linkedin.com/in/maryannemurray). 
 
-Esta adaptación nos permitirá conocer otra posibilidad de la programación: Utilizar datos para reproducir elementos gráficos con patrones ajustados.
+Esta adaptación nos permitirá conocer posibilidad de la programación: Utilizar datos para reproducir elementos gráficos con patrones ajustados.
 
 También pueden encontrar un documento `style.css`, donde desarrollaremos un único estilo que puede ser aprovechado en cada página web que la vincule como su estilo.
 

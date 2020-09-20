@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;600&family=Source+Serif+Pro:ital,wght@0,300;1,300&display=swap');
+
+
+body {
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 300;
+    background: RGBA(138, 174, 132, 1);
+    color:RGBA(48, 48, 48, 1.00);
+}
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    margin: 1.5rem 1.5rem 1rem 1.5rem;
+    color:RGBA(64, 64, 64, 1.00);
+}
+
+h1 span{
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+h2 span{
+    font-weight:400;
+}
+
+h3{
+    font-style: italic;
+    letter-spacing: 0.025rem;
+    font-size:1.25rem;
+    padding-right:1rem;
+    padding-top:2rem;
+}
+
+h3 span{
+    border-top:1px solid white;
+    padding-top:1rem;
+}
+
+h6 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;    
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.8rem;
+    color: RGBA(223, 219, 208, 1.00);
+}
+
+h6 span {
+    font-weight: 300;
+}
+
+/* la siguiente clase se quita (removeClass) o agrega (addClass) con jQuery */
+.esconder {
+    display: none;
+}
+
+
+figure#distancias svg{
+    font-family: 'Source Serif Pro', serif;
+    font-size:20px;
+}
+
+figure#distancias svg circle.guideline{
+    stroke:white;
+    fill:none;
+}
+
+figure#distancias svg circle.social{
+    stroke:black;
+    fill:none;
+}
+
+figure#distancias svg circle.personal{
+    stroke:#295E2C;
+    fill:none;
+}
+
+figure#distancias svg circle.intimate{
+    stroke:none;
+    fill:#7FA579;
+}
+
+figure#distancias svg text.pais{
+    font-size:30px;
+}
+
+figure#distancias svg text.cm{
+    fill:white;
+}
+
+footer{
+    border-top:1px solid #7FA579;
+    background:#2D7787 url(img/bg-footer.png) top center repeat-x;
+    background-size:auto 250px;
+    min-height:250px ;
+    text-align: center;
+}
+
+.camino{
+    position: relative;
+    overflow: hidden;
+    height:150px;
+}
+
+@keyframes pasando {
+  from {left:-1vw; top:0;}
+  to {left:100vw; top:0;}
+}
+
+.camino img{
+    height:90px; 
+    width:auto;
+    position: absolute;
+    animation-name: pasando;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}

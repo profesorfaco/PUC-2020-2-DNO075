@@ -24,9 +24,9 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 **Clase 07 → 21/09/2020 → Semana de receso de las actividades universitarias.**
 
-Clase 08 → 28/09/2020 → Desde Ilustración vectorial a Scalable Vector Graphics (SVG).
+[Clase 08 → 28/09/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-08) → Desde Ilustración vectorial a Scalable Vector Graphics (SVG).
 
-Clase 09 → 05/10/2020 → Coding: HTML, CSS y JavaScript. 
+[Clase 09 → 05/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-09) → Coding: HTML, CSS y JavaScript. 
 
 **Clase 10 → 12/10/2020 → Celebración del Día del Encuentro de Dos Mundos. Feriado Legal.**
 

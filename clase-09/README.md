@@ -2,7 +2,7 @@
 
 ### Clase 09 → Lunes 5 de octubre, 2020
 
-Esta clase, así como la recién pasada, se apoya en de GitHub. La Presentación en Drive es relegada a un lugar secundario. 
+Esta clase, así como [la recién pasada](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-08), se apoya en de GitHub. La Presentación en Drive es relegada a un lugar secundario. 
 
 En esta carpeta de repositorio de GitHub pueden encontrar algunos documentos que nos permitirán aprender más sobre "**Coding: HTML, CSS y JavaScript**". 
 

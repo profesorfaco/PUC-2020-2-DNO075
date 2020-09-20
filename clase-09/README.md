@@ -8,13 +8,13 @@ En esta carpeta de repositorio de GitHub pueden encontrar algunos documentos que
 
 **En [`index.html`](https://profesorfaco.github.io/dno075-2020/clase-09/index.html) tenemos una adaptación de [New normal: How far is safe enough?](https://graphics.reuters.com/HEALTH-CORONAVIRUS/SOCIALDISTANCING/qzjvqenmyvx/), un reportaje publicado por Reuters**, que fue graficado por Samuel Granados, editado por Jon McClure, Tiffany Wu y Simon Scarr, y que contó con la colaboración de [Maryanne Murray](https://www.linkedin.com/in/maryannemurray). 
 
-También pueden encontrar un documento `style.css`.
+También pueden encontrar un documento [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css).
 
-Los documentos `index.html` y `style.css` serán explicados línea por línea en 30 minutos. Luego serán formados grupos al azar, con la herramienta de sesiones de Zoom. Se le entregará a cada grupo un desafío que tendrán que resolver en 30 minutos, y luego explicarlo al curso. 
+Los documentos [`index.html`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/index.html) y [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css) serán explicados línea por línea en 30 minutos. Luego serán formados grupos al azar, con la herramienta de sesiones de Zoom. Se le entregará a cada grupo un desafío que tendrán que resolver en 30 minutos, y luego explicarlo al curso. 
 
 Un ejemplo de desafío a resolver: *El ciclista que pasa al final de la página tiene que pedalear*. 
 
-Tan pronto se resuelva el desafío, un/a integrante del grupo tendrá que crear repositorio y compartir resultado con GitHub Pages. Mostrando tal página en línea, el grupo presentará el desafío y la solución al curso.
+Tan pronto se resuelva el desafío, un/a integrante del grupo tendrá que crear repositorio y compartir resultado con GitHub Pages. Mostrando tal página en línea, el grupo presentará el desafío y su solución al curso.
 
 #### Ejercicio
 

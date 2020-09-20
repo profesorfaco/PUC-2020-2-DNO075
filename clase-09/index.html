@@ -26,22 +26,22 @@
                     </p>
                     <p>In 2017, researchers in the UK surveyed people&#x2019;s preferred personal distances by country.</p>
                     <div class="row">
-                        <div class="col-5 col-sm-6">
+                        <div class="col-5 col-sm-7">
                             <dl>
-                                <dt>Intimate space:</dt>
+                                <dt>Intimate space</dt>
                                 <dd>Closest friends and family</dd>
                             </dl>
                             <dl>
-                                <dt>Personal space:</dt>
+                                <dt>Personal space</dt>
                                 <dd>Acquaintances</dd>
                             </dl>
                             <dl>
-                                <dt>Social space:</dt>
+                                <dt>Social space</dt>
                                 <dd>Strangers</dd>
                             </dl>
-                            <h3 class="text-white font-italic"><span>COVID-19</span> distancing guidelines implemented by local governments have changed the way we experience these spaces in 2020.</h3>
+                            <h3>COVID-19 distancing guidelines implemented by local governments have changed the way we experience these spaces in 2020.</h3>
                         </div>
-                        <div class="col-7 col-sm-6">
+                        <div class="col-7 col-sm-5">
                             <figure>
                                 <svg x="0px" y="0px" viewBox="0 0 100 100">
                                     <g id="cerca" class="esconder">
@@ -70,12 +70,15 @@
             <div class="camino">
                 <img src="img/ciclista.gif">
             </div>
+            <div class="canal">
+                <!--acá podrían poner a alguien remando, al estilo valdiviano-->
+            </div>
         </footer>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script>
             $(window).scroll(function () {
                 var scroll = $(window).scrollTop();
-                if (scroll >= 200) {
+                if (scroll >= 250) {
                     $("#cerca").addClass("esconder");
                     $("#lejos").removeClass("esconder");
                 } else {
@@ -96,7 +99,7 @@
             ];
 
             for (var x = 0; x < datos.length; x++) {
-                $("#distancias").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><svg x="0px" y="0px" viewBox="0 0 500 500"><circle cx="250" cy="250" r="'+datos[x].guideline+'" class="guideline"/><circle cx="250" cy="250" r="'+datos[x].social+'" class="social"/><circle cx="250" cy="250" r="'+datos[x].personal+'" class="personal"/><circle cx="250" cy="250" r="'+datos[x].intimate+'" class="intimate"/><image href="img/persona-'+(x+1)+'.svg" x="150" y="150" height="200" width="200"/><text x="250" y="'+(230-datos[x].guideline)+'" text-anchor="middle" class="pais">'+datos[x].pais+'</text><text x="250" y="'+(280+datos[x].guideline)+'" text-anchor="middle" class="cm">'+datos[x].guideline+' cm</text></svg></div>');
+                $("#distancias").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><svg x="0px" y="0px" viewBox="0 0 500 500"><circle cx="250" cy="250" r="'+datos[x].guideline+'" class="guideline"/><circle cx="250" cy="250" r="'+datos[x].social+'" class="social"/><circle cx="250" cy="250" r="'+datos[x].personal+'" class="personal"/><circle cx="250" cy="250" r="'+datos[x].intimate+'" class="intimate"/><image href="img/persona-'+(x+1)+'.svg" x="150" y="150" height="200" width="200"/><text x="275" y="250" text-anchor="left">'+datos[x].intimate+' cm</text><text x="250" y="'+(230-datos[x].guideline)+'" text-anchor="middle" class="pais">'+datos[x].pais+'</text><text x="250" y="'+(280+datos[x].guideline)+'" text-anchor="middle" class="cm">'+datos[x].guideline+' cm</text></svg></div>');
             }
         </script>
     </body>

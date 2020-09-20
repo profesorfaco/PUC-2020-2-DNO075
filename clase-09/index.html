@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <title>Infografía Digital</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;600&display=swap" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;600&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
@@ -21,8 +21,8 @@
                         transmission, and governments are setting out new restrictions to make these places safer.
                     </p>
                     <p>
-                        Personal space means different things in different places. We usually draw invisible boundaries based on how close we are to the people we interact with. Our closest friends and family at one level, strangers we meet
-                        in public at another.
+                        Personal space means different things in different places. <em>We usually draw invisible boundaries based on how close we are to the people we interact with</em>. Our closest friends and family at one level,
+                        strangers we meet in public at another.
                     </p>
                     <p>In 2017, researchers in the UK surveyed people&#x2019;s preferred personal distances by country.</p>
                     <div class="row">
@@ -46,11 +46,11 @@
                                 <svg x="0px" y="0px" viewBox="0 0 100 100">
                                     <g id="cerca" class="esconder">
                                         <text x="50" y="50" text-anchor="middle" font-size="5">ANTES</text>
-                                        <image href="img/provisorio-0.png" x="0" y="0" height="100" width="100"/>
+                                        <image href="img/provisorio-0.png" x="0" y="0" height="100" width="100" />
                                     </g>
                                     <g id="lejos" class="esconder">
                                         <text x="50" y="50" text-anchor="middle" font-size="5">DESPUÉS</text>
-                                        <image href="img/provisorio-1.png" x="0" y="0" height="100" width="100"/>
+                                        <image href="img/provisorio-1.png" x="0" y="0" height="100" width="100" />
                                     </g>
                                 </svg>
                             </figure>
@@ -68,7 +68,7 @@
         </section>
         <footer>
             <div class="camino">
-                <img src="img/ciclista.gif">
+                <img src="img/ciclista.gif" />
             </div>
             <div class="canal">
                 <!--acá podrían poner a alguien remando, al estilo valdiviano-->
@@ -99,7 +99,7 @@
             ];
 
             for (var x = 0; x < datos.length; x++) {
-                $("#distancias").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><svg x="0px" y="0px" viewBox="0 0 500 500"><circle cx="250" cy="250" r="'+datos[x].guideline+'" class="guideline"/><circle cx="250" cy="250" r="'+datos[x].social+'" class="social"/><circle cx="250" cy="250" r="'+datos[x].personal+'" class="personal"/><circle cx="250" cy="250" r="'+datos[x].intimate+'" class="intimate"/><image href="img/persona-'+(x+1)+'.svg" x="150" y="150" height="200" width="200"/><text x="275" y="250" text-anchor="left">'+datos[x].intimate+' cm</text><text x="250" y="'+(230-datos[x].guideline)+'" text-anchor="middle" class="pais">'+datos[x].pais+'</text><text x="250" y="'+(280+datos[x].guideline)+'" text-anchor="middle" class="cm">'+datos[x].guideline+' cm</text></svg></div>');
+                $("#distancias").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><svg x="0px" y="0px" viewBox="0 0 500 500"><circle cx="250" cy="250" r="'+datos[x].guideline+'" class="guideline"/><circle cx="250" cy="250" r="'+datos[x].social+'" class="social"/><circle cx="250" cy="250" r="'+datos[x].personal+'" class="personal"/><circle cx="250" cy="250" r="'+datos[x].intimate+'" class="intimate"/><image href="img/persona-'+(x+1)+'.svg" x="125" y="125" height="250" width="250"/><text x="'+(datos[x].social+255)+'" y="250" text-anchor="left">'+datos[x].social+' cm</text><text x="250" y="'+(235-datos[x].guideline)+'" text-anchor="middle" class="pais">'+datos[x].pais+'</text><text x="250" y="'+(280+datos[x].guideline)+'" text-anchor="middle" class="cm">'+datos[x].guideline+' cm</text></svg></div>');
             }
         </script>
     </body>

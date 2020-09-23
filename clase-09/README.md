@@ -34,31 +34,30 @@ Pendiente.
 | 7 | Isabella Cabrera | … |
 | 8 | Dessiree Cifuentes | … |
 | 9 | Debi Codriansky | … | 
-| 10 | Erika Contreras | … |
-| 11 | María José Coudeu | … |
-| 12 | Valy Cummings | … |
-| 13 | Catalina Escudero | … | 
-| 14 | Olga F. Vio | … |
-| 15 | Fernando Gajardo | … |
-| 16 | Javiera González | … |
-| 17 | María Fernanda Herández | … |
-| 18 | Antonia Lasen | … |
-| 19 | Sofía Lira | … |
-| 20 | Javiera Maechtig | … |
-| 21 | Karla Mancini | … |
-| 22 | Karina Melani | … |
-| 23 | Muriel Muñoz | … |
-| 24 | Rosario Olivares | … |
-| 25 | Joaquín Olmedo | … |
-| 26 | Francisco Pezoa | … | 
-| 27 | Daniela Quinteros | … |
-| 28 | Isidora Ravera | … | 
-| 29 | Esperanza Ríos | … | 
-| 30 | Pilar Saavedra | … |
-| 31 | David Sánchez | … |
-| 32 | Josefina Stückrath | … |
-| 33 | Paula Trujillo | … |
-| 34 | Rosario Valdés | … |
-| 35 | Catalina Vidal | … |
+| 10 | María José Coudeu | … |
+| 11 | Valy Cummings | … |
+| 12 | Olga F. Vio | … |
+| 13 | Fernando Gajardo | … |
+| 14 | Javiera González | … |
+| 15 | María Fernanda Herández | … |
+| 16 | Antonia Lasen | … |
+| 17 | Sofía Lira | … |
+| 18 | Karla Mancini | … |
+| 19 | Karina Melani | … |
+| 20 | Muriel Muñoz | … |
+| 21 | Rosario Olivares | … |
+| 22 | Joaquín Olmedo | … |
+| 23 | Francisco Pezoa | … | 
+| 24 | Daniela Quinteros | … |
+| 25 | Isidora Ravera | … | 
+| 26 | Esperanza Ríos | … | 
+| 27 | Pilar Saavedra | … |
+| 28 | David Sánchez | … |
+| 29 | Josefina Stückrath | … |
+| 30 | Paula Trujillo | … |
+| 31 | Rosario Valdés | … |
+| 32 | Catalina Vidal | … |
 
 - - - - - - - -
+
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-11)

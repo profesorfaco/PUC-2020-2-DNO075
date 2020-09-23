@@ -15,3 +15,44 @@ Hoy haremos ingeniería inversa de una infografía digital desarrollada por [Ado
 Aprovechando [las excepciones de derecho de autor](https://www.bcn.cl/leyfacil/recurso/propiedad-intelectual-(derechos-de-autor)) que nos permiten una copia parcial con fines académicos: Ustedes tendrán que investigar el código fuente de la página original para replicarla aprovechando los archivos que se compartirán en esta carpeta.
 
 Su nota dependerá del cumplimiento de una rúbrica a compartir durante la clase.
+
+#### Entregas
+
+| Nro.  | Nombre | URL | Nota |
+|:-----:|:-------|:--------|:-----:|
+| 1 | Rosario Acha | … | … |
+| 2 | Antonia Adell | … | … |
+| 3 | Ignacio Agurto | … | … |
+| 4 | Francisco Álvarez | … | … |
+| 5 | Carolina Aranibar | … | … |
+| 6 | Silvio Arribas | … | … |
+| 7 | Isabella Cabrera | … | … |
+| 8 | Dessiree Cifuentes | … | … |
+| 9 | Debi Codriansky | … | … |
+| 10 | María José Coudeu | … | … |
+| 11 | Valy Cummings | … | … |
+| 12 | Olga F. Vio | … | … |
+| 13 | Fernando Gajardo | … | … |
+| 14 | Javiera González | … | … |
+| 15 | María Fernanda Herández | … | … |
+| 16 | Antonia Lasen | … | … |
+| 17 | Sofía Lira | … | … |
+| 18 | Karla Mancini | … | … |
+| 19 | Karina Melani | … | … |
+| 20 | Muriel Muñoz | … | … |
+| 21 | Rosario Olivares | … | … |
+| 22 | Joaquín Olmedo | … | … |
+| 23 | Francisco Pezoa | … | … |
+| 24 | Daniela Quinteros | … | … |
+| 25 | Isidora Ravera | … | … | 
+| 26 | Esperanza Ríos | … | … | 
+| 27 | Pilar Saavedra | … | … |
+| 28 | David Sánchez | … | … |
+| 29 | Josefina Stückrath | … | … |
+| 30 | Paula Trujillo | … | … |
+| 31 | Rosario Valdés | … | … |
+| 32 | Catalina Vidal | … | … |
+
+- - - - - - - -
+
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-12)

@@ -22,7 +22,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 06 → 14/09/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-06) → Ilustración vectorial para animaciones e imágenes. ✓
 
-**Clase 07 → 21/09/2020 → Semana de receso de las actividades universitarias.**
+**Clase 07 → 21/09/2020 → Semana de receso de las actividades universitarias.** ✓
 
 [Clase 08 → 28/09/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-08) → Desde Ilustración vectorial a Scalable Vector Graphics (SVG).
 

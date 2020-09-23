@@ -12,6 +12,4 @@ En las clases de la segunda etapa del optativo aprovechamos trabajos reales de i
 
 Tenemos equipos de trabajos de 3 a 6 integrantes, con 1 o 2 colaborades. 
 
-En esta clase, en la que comenzamos la tercera y última etapa del optativo, corresponde organizarse en equipos de trabajo para hacer una **Definición de tema a desarrollar.** 
-
-Tal como en las referencias utilizadas, corresponde organizarse en **equipos de 3 a 6 estudiantes, que pueden inclur a 1 o 2 colaborador(es) que no sea(n) parte del Optativo**.
+En esta clase, en la que comenzamos la tercera y última etapa del optativo, corresponde organizarse en equipos de trabajo para hacer una **Definición de tema a desarrollar**; corresponde organizarse en **equipos de 3 a 6 estudiantes, que pueden inclur a 1 o 2 colaborador(es) que no sea(n) parte del Optativo**.

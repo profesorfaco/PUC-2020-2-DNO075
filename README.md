@@ -32,7 +32,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 11 → 19/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-11) → Trabajo de Investigación: Ingeniería inversa.
 
-Clase 12 → 26/10/2020 → Definición de tema a desarrollar.
+[Clase 12 → 26/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-12) → Definición de tema a desarrollar.
 
 Clase 13 → 02/11/2020 → Investigación y observación.
 

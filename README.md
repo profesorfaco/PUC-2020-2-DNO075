@@ -58,7 +58,7 @@ Clase 17 → 30/11/2020 → Entrega final, en línea.
 
 - Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 06. Un punto por trabajo + un punto base. Equivale al 25% del promedio final. 
 
-- Trabajo de investigación: Ingeniería inversa → A desarrollar en la clase 11. Se entregará rúbrica para evaluación con nota entre 1 y 7. Equivale al 25% del promedio final.
+- Trabajo de investigación: Ingeniería inversa → A desarrollar en la [clase 11](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-11). Se entregará rúbrica para evaluación con nota entre 1 y 7. Equivale al 25% del promedio final.
 
 - Trabajo final de aplicación, dividido en dos partes: 
 

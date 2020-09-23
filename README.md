@@ -2,7 +2,7 @@
 
 ### Diseño / Pontificia Universidad Católica de Chile
 
-#### [Infografía Digital](http://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=dno075) es un Optativo de Profundización (OPR), a cargo de los profesores [Jorge Cortés](https://cargocollective.com/jorgelcortes/) y [Felipe Cortez](http://profesor.faco.cl/), con la ayuda de Francisca Martina.
+#### [Infografía Digital](http://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=dno075) es un Optativo de Profundización (OPR), a cargo de los profesores [Jorge Cortés](https://cargocollective.com/jorgelcortes/) y [Felipe Cortez](http://profesor.faco.cl/), con la colaboración de Francisca Martina.
 
 Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual, impulsados desde el periodismo digital.
 
@@ -30,7 +30,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 **Clase 10 → 12/10/2020 → Celebración del Día del Encuentro de Dos Mundos. Feriado Legal.**
 
-Clase 11 → 19/10/2020 → Trabajo de Investigación: Ingeniería inversa.
+[Clase 11 → 19/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-11) → Trabajo de Investigación: Ingeniería inversa.
 
 Clase 12 → 26/10/2020 → Definición de tema a desarrollar.
 

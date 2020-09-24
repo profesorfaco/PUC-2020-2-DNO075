@@ -14,7 +14,7 @@ Esta clase y la que sigue se apoyan en GitHub. La Presentación en Drive es rele
 
 - [SVG](https://github.com/profesorfaco/dno075-2020/wiki/SVG), que se parece mucho a HTML, con sus propios elementos demarcados con `<etiqueta atributo="…"></etiqueta>` dentro de `<svg></svg>`.
 
-- [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS), que se reconoce por la estructura `regla{propiedad:valor;}` dentro de `<style></style>`. Aunque tenemos a la vista una única regla de CSS, hay un montón de reglas más que podríamos utilizar en la página. Esas reglas son vinculadas en la línea 6 del `index.html`, con referencia (`href`) al CSS de [Bootstrap](https://getbootstrap.com/).
+- [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS), que se reconoce por la regla que se estructura con `selector{propiedad:valor;}` dentro de `<style></style>`. Aunque en `index.html` tenemos a la vista una única regla de CSS (`.colorOfTheYear { fill: #0F4C81;} `), hay un montón de reglas más que podríamos utilizar en la página. Esas reglas son vinculadas en la línea 7 del `index.html`, con referencia (`href`) al CSS de [Bootstrap](https://getbootstrap.com/).
 
 - [JavaScript](https://github.com/profesorfaco/dno075-2020/wiki/JavaScript), al que accedemos por jQuery. Este último se reconoce por su estructura `$(sujeto).predicado();` dentro de `<script></script>`.
 

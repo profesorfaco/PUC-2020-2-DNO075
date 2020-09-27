@@ -6,7 +6,7 @@ La clase de hoy abre una segunda etapa en este Optativo; etapa que introduce a l
 
 En este clase utilizaremos Adobe Illustrator. En caso no cuentes con este programa, puedes usar Ink Scape. También utilizaremos un Editor de Código Fuente.
 
-Esta clase y la que sigue se apoyan en GitHub. La Presentación en Drive es relegada a un papel secundario. Es esta carpeta de repositorio de GitHub pueden encontrar algunos documentos que nos permitirán avanzar "**Desde Ilustración vectorial a Scalable Vector Graphics (SVG)**". 
+Esta clase y la que sigue se apoyan en GitHub. La Presentación en Drive es relegada a un papel secundario. Es esta carpeta de repositorio de GitHub pueden encontrar algunos documentos que nos permitirán avanzar "**Desde ilustración vectorial a SVG (Scalable Vector Graphics)**". 
 
 **En [`index.html`](https://profesorfaco.github.io/dno075-2020/clase-08/index.html) podemos revisar lenguajes y dialectos que nos permiten producir infografías digitales:**
 

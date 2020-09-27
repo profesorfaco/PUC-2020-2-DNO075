@@ -28,7 +28,7 @@ Pero hay muchos recursos en línea que pueden guiar una introducción a la progr
 
 #### Ejercicio
 
-Como en cada clase, corresponde **preparar una página web que debe** quedar en línea, durante el día, con el uso de GitHub Pages. Para prepararla, debes aprovechar el [`ejercicio.html`](https://profesorfaco.github.io/dno075-2020/clase-08/ejercicio.html) en esta carpeta de repositorio del Optativo.
+Como en cada clase, corresponde **preparar una página web que debe** quedar en línea, durante el día, con el uso de GitHub Pages. Para prepararla, debes aprovechar el [`ejercicio.html`](https://profesorfaco.github.io/dno075-2020/clase-08/ejercicio.html) en esta carpeta de repositorio del Optativo, además del [material y referencias compartidas en Drive](https://drive.google.com/drive/folders/17d2XwCDs7uJ3SRNZocifDsDKCdKlaWtx?usp=sharing).
 
 **Atención con esto:**
 

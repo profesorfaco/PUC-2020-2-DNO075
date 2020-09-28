@@ -39,40 +39,40 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 
 #### Resultados
 
-| Nro.  | Nombre | URL |
-|:-----:|:-------|:--------|
-| 1 | Rosario Acha | … |
-| 2 | Antonia Adell | … |
-| 3 | Ignacio Agurto | … | 
-| 4 | Francisco Álvarez | … |
-| 5 | Carolina Aranibar | … | 
-| 6 | Silvio Arribas | … |
-| 7 | Isabella Cabrera | … |
-| 8 | Dessiree Cifuentes | … |
-| 9 | Debi Codriansky | … | 
-| 10 | María José Coudeu | … |
-| 11 | Valy Cummings | … |
-| 12 | Olga F. Vio | … |
-| 13 | Fernando Gajardo | … |
-| 14 | Javiera González | … |
-| 15 | María Fernanda Herández | … |
-| 16 | Antonia Lasen | … |
-| 17 | Sofía Lira | … |
-| 18 | Karla Mancini | … |
-| 19 | Karina Melani | … |
-| 20 | Muriel Muñoz | … |
-| 21 | Rosario Olivares | … |
-| 22 | Joaquín Olmedo | … |
-| 23 | Francisco Pezoa | … | 
-| 24 | Daniela Quinteros | … |
-| 25 | Isidora Ravera | … | 
-| 26 | Esperanza Ríos | … | 
-| 27 | Pilar Saavedra | … |
-| 28 | David Sánchez | … |
-| 29 | Josefina Stückrath | … |
-| 30 | Paula Trujillo | … |
-| 31 | Rosario Valdés | … |
-| 32 | Catalina Vidal | … |
+| Nro.  | Nombre | Grupo | Temática | URL  | 
+|:-----:|:-------|:-----:|:---------|:-----|
+| 1 | Rosario Acha | E | … | … |
+| 2 | Antonia Adell | D | … | … |
+| 3 | Ignacio Agurto | D | … | … | 
+| 4 | Francisco Álvarez | … | … | … |
+| 5 | Carolina Aranibar | C | … | … | 
+| 6 | Silvio Arribas | … | … | … |
+| 7 | Isabella Cabrera | A | … | … |
+| 8 | Dessiree Cifuentes | A | … | … |
+| 9 | Debi Codriansky | F | … | … | 
+| 10 | María José Coudeu | F | … | … |
+| 11 | Valy Cummings | … | … | … |
+| 12 | Olga F. Vio | E | … | … |
+| 13 | Fernando Gajardo | D | … | … |
+| 14 | Javiera González | E | … | … |
+| 15 | María Fernanda Herández | … | … | … |
+| 16 | Antonia Lasen | B | … | … |
+| 17 | Sofía Lira | G | … | … |
+| 18 | Karla Mancini | … | … | … |
+| 19 | Karina Melani | A | … | … |
+| 20 | Muriel Muñoz | C | … | … |
+| 21 | Rosario Olivares | … | … | … |
+| 22 | Joaquín Olmedo | F | … | … |
+| 23 | Francisco Pezoa | … | … | … |
+| 24 | Daniela Quinteros | H | … | … |
+| 25 | Isidora Ravera | C | … | … | 
+| 26 | Esperanza Ríos | H | … | … | 
+| 27 | Pilar Saavedra | B | … | … |
+| 28 | David Sánchez | … | … | … |
+| 29 | Josefina Stückrath | G | … | … |
+| 30 | Paula Trujillo | … | … | … |
+| 31 | Rosario Valdés | B | … | … |
+| 32 | Catalina Vidal | G | … | … |
 
 - - - - - - - -
 

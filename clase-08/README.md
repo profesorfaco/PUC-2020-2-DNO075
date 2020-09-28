@@ -42,17 +42,17 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | Nro.  | Nombre | Grupo | Temática | URL  | 
 |:-----:|:-------|:-----:|:---------|:-----|
 | 1 | Rosario Acha | E | La marcha más grande… | … |
-| 2 | Antonia Adell | D | La marcha más grande… | … |
+| 2 | Antonia Adell | D | La marcha más grande… | https://antoadell.github.io/infodigital-clase8 |
 | 3 | Ignacio Agurto | D | La marcha más grande… | … | 
 | 4 | Francisco Álvarez | … | … | … |
 | 5 | Carolina Aranibar | C | La marcha del 8M | … | 
 | 6 | Silvio Arribas | … | … | … |
 | 7 | Isabella Cabrera | A | La marcha más grande… | … |
 | 8 | Dessiree Cifuentes | A | La marcha más grande… | … |
-| 9 | Debi Codriansky | F | … | … | 
-| 10 | María José Coudeu | F | … | … |
-| 11 | Valy Cummings | … | … | … |
-| 12 | Olga F. Vio | E | La marcha más grande… | … |
+| 9 | Debi Codriansky | F | ? | … | 
+| 10 | María José Coudeu | F | ? | … |
+| 11 | Valy Cummings | ? | ? | https://valycmmngs.github.io/clase8/ |
+| 12 | Olga F. Vio | E | La marcha más grande… | https://caracolga.github.io/clase8/ |
 | 13 | Fernando Gajardo | D | La marcha del 8M | … |
 | 14 | Javiera González | E | La marcha más grande… | … |
 | 15 | María Fernanda Hernández | … | … | … |
@@ -60,10 +60,10 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 17 | Sofía Lira | G | La marcha del 8M | … |
 | 18 | Karla Mancini | I | La marcha del 8M | … |
 | 19 | Karina Melani | A | La marcha más grande… | … |
-| 20 | Muriel Muñoz | C | La marcha del 8M | … |
-| 21 | Rosario Olivares | I | La marcha del 8M | … |
+| 20 | Muriel Muñoz | C | La marcha del 8M | https://murimu.github.io/dno075-2020-clase-08/ |
+| 21 | Rosario Olivares | I | La marcha del 8M | https://rosarioof.github.io/Infografia-08/ |
 | 22 | Joaquín Olmedo | … | … | … |
-| 23 | Francisco Pezoa | F | … | … |
+| 23 | Francisco Pezoa | F | ? | https://panshios.github.io/id-clase-08/ |
 | 24 | Daniela Quinteros | H | La marcha del 8M | … |
 | 25 | Isidora Ravera | C | La marcha del 8M | … | 
 | 26 | Esperanza Ríos | H | La marcha del 8M | … | 

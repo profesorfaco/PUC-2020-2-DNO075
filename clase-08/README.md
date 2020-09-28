@@ -45,7 +45,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 2 | Antonia Adell | D | La marcha más grande… | https://antoadell.github.io/infodigital-clase8 |
 | 3 | Ignacio Agurto | D | La marcha más grande… | … | 
 | 4 | Francisco Álvarez | … | … | … |
-| 5 | Carolina Aranibar | C | La marcha del 8M | … | 
+| 5 | Carolina Aranibar | C | La marcha del 8M | https://caroaranibar.github.io/marcha8m/ | 
 | 6 | Silvio Arribas | J | La marcha más grande… | … |
 | 7 | Isabella Cabrera | A | La marcha más grande… | … |
 | 8 | Dessiree Cifuentes | A | La marcha más grande… | … |
@@ -58,18 +58,18 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 15 | María Fernanda Hernández | … | … | … |
 | 16 | Antonia Lasen | B | La marcha del 8M | … |
 | 17 | Sofía Lira | G | La marcha del 8M | https://lirasantic.github.io/clase08/ |
-| 18 | Karla Mancini | I | La marcha del 8M | … |
+| 18 | Karla Mancini | I | La marcha del 8M | https://kamancini.github.io/clase-08/ |
 | 19 | Karina Melani | A | La marcha más grande… | … |
 | 20 | Muriel Muñoz | C | La marcha del 8M | https://murimu.github.io/dno075-2020-clase-08/ |
 | 21 | Rosario Olivares | I | La marcha del 8M | https://rosarioof.github.io/Infografia-08/ |
 | 22 | Joaquín Olmedo | … | … | … |
 | 23 | Francisco Pezoa | F | ? | https://panshios.github.io/id-clase-08/ |
 | 24 | Daniela Quinteros | H | La marcha del 8M | … |
-| 25 | Isidora Ravera | C | La marcha del 8M | … | 
+| 25 | Isidora Ravera | C | La marcha del 8M | https://isiravera.github.io/clase08/ | 
 | 26 | Esperanza Ríos | H | La marcha del 8M | … | 
 | 27 | Pilar Saavedra | B | La marcha del 8M | … |
 | 28 | David Sánchez | I | La marcha del 8M | … |
-| 29 | Josefina Stückrath | G | La marcha del 8M | … |
+| 29 | Josefina Stückrath | G | La marcha del 8M | https://jstuckrath.github.io/clase-8 |
 | 30 | Paula Trujillo | … | … | … |
 | 31 | Rosario Valdés | B | La marcha del 8M | … |
 | 32 | Catalina Vidal | G | La marcha del 8M | https://catalinavidal.github.io/infografia_digital_08 |

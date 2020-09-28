@@ -72,7 +72,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 29 | Josefina Stückrath | G | La marcha del 8M | … |
 | 30 | Paula Trujillo | … | … | … |
 | 31 | Rosario Valdés | B | La marcha del 8M | … |
-| 32 | Catalina Vidal | G | La marcha del 8M | … |
+| 32 | Catalina Vidal | G | La marcha del 8M | https://catalinavidal.github.io/infografia_digital_08 |
 
 - - - - - - - -
 

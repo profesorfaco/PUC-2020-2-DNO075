@@ -41,38 +41,38 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 
 | Nro.  | Nombre | Grupo | Temática | URL  | 
 |:-----:|:-------|:-----:|:---------|:-----|
-| 1 | Rosario Acha | E | … | … |
-| 2 | Antonia Adell | D | … | … |
-| 3 | Ignacio Agurto | D | … | … | 
+| 1 | Rosario Acha | E | La marcha más grande… | … |
+| 2 | Antonia Adell | D | La marcha más grande… | … |
+| 3 | Ignacio Agurto | D | La marcha más grande… | … | 
 | 4 | Francisco Álvarez | … | … | … |
-| 5 | Carolina Aranibar | C | … | … | 
+| 5 | Carolina Aranibar | C | La marcha del 8M | … | 
 | 6 | Silvio Arribas | … | … | … |
-| 7 | Isabella Cabrera | A | … | … |
-| 8 | Dessiree Cifuentes | A | … | … |
+| 7 | Isabella Cabrera | A | La marcha más grande… | … |
+| 8 | Dessiree Cifuentes | A | La marcha más grande… | … |
 | 9 | Debi Codriansky | F | … | … | 
 | 10 | María José Coudeu | F | … | … |
 | 11 | Valy Cummings | … | … | … |
-| 12 | Olga F. Vio | E | … | … |
+| 12 | Olga F. Vio | E | La marcha más grande… | … |
 | 13 | Fernando Gajardo | D | … | … |
-| 14 | Javiera González | E | … | … |
-| 15 | María Fernanda Herández | … | … | … |
-| 16 | Antonia Lasen | B | … | … |
-| 17 | Sofía Lira | G | … | … |
-| 18 | Karla Mancini | I | … | … |
-| 19 | Karina Melani | A | … | … |
-| 20 | Muriel Muñoz | C | … | … |
-| 21 | Rosario Olivares | I | … | … |
+| 14 | Javiera González | E | La marcha más grande… | … |
+| 15 | María Fernanda Hernández | … | … | … |
+| 16 | Antonia Lasen | B | La marcha del 8M | … |
+| 17 | Sofía Lira | G | La marcha del 8M | … |
+| 18 | Karla Mancini | I | … | La marcha del 8M |
+| 19 | Karina Melani | A | La marcha más grande… | … |
+| 20 | Muriel Muñoz | C | La marcha del 8M | … |
+| 21 | Rosario Olivares | I | La marcha del 8M | … |
 | 22 | Joaquín Olmedo | … | … | … |
 | 23 | Francisco Pezoa | F | … | … |
-| 24 | Daniela Quinteros | H | … | … |
-| 25 | Isidora Ravera | C | … | … | 
-| 26 | Esperanza Ríos | H | … | … | 
-| 27 | Pilar Saavedra | B | … | … |
-| 28 | David Sánchez | I | … | … |
-| 29 | Josefina Stückrath | G | … | … |
+| 24 | Daniela Quinteros | H | La marcha del 8M | … |
+| 25 | Isidora Ravera | C | La marcha del 8M | … | 
+| 26 | Esperanza Ríos | H | La marcha del 8M | … | 
+| 27 | Pilar Saavedra | B | La marcha del 8M | … |
+| 28 | David Sánchez | I | La marcha del 8M | … |
+| 29 | Josefina Stückrath | G | La marcha del 8M | … |
 | 30 | Paula Trujillo | … | … | … |
-| 31 | Rosario Valdés | B | … | … |
-| 32 | Catalina Vidal | G | … | … |
+| 31 | Rosario Valdés | B | La marcha del 8M | … |
+| 32 | Catalina Vidal | G | La marcha del 8M | … |
 
 - - - - - - - -
 

@@ -53,7 +53,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 10 | María José Coudeu | F | … | … |
 | 11 | Valy Cummings | … | … | … |
 | 12 | Olga F. Vio | E | La marcha más grande… | … |
-| 13 | Fernando Gajardo | D | … | … |
+| 13 | Fernando Gajardo | D | La marcha del 8M | … |
 | 14 | Javiera González | E | La marcha más grande… | … |
 | 15 | María Fernanda Hernández | … | … | … |
 | 16 | Antonia Lasen | B | La marcha del 8M | … |

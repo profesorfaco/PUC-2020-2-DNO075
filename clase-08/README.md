@@ -67,7 +67,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 24 | Daniela Quinteros | H | La marcha del 8M | … |
 | 25 | Isidora Ravera | C | La marcha del 8M | https://isiravera.github.io/clase08/ | 
 | 26 | Esperanza Ríos | H | La marcha del 8M | … | 
-| 27 | Pilar Saavedra | B | La marcha del 8M | … |
+| 27 | Pilar Saavedra | B | La marcha del 8M | https://pilarfundamental.github.io/info_digital-8 |
 | 28 | David Sánchez | I | La marcha del 8M | https://david1336.github.io/DNO-075-Clase-08/ |
 | 29 | Josefina Stückrath | G | La marcha del 8M | https://jstuckrath.github.io/clase-8/ |
 | 30 | Paula Trujillo | — | — | — |

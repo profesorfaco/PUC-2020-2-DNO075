@@ -58,7 +58,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 15 | María Fernanda Hernández | … | … | … |
 | 16 | Antonia Lasen | B | La marcha del 8M | … |
 | 17 | Sofía Lira | G | La marcha del 8M | … |
-| 18 | Karla Mancini | I | … | La marcha del 8M |
+| 18 | Karla Mancini | I | La marcha del 8M | … |
 | 19 | Karina Melani | A | La marcha más grande… | … |
 | 20 | Muriel Muñoz | C | La marcha del 8M | … |
 | 21 | Rosario Olivares | I | La marcha del 8M | … |

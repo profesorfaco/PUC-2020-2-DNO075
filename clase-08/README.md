@@ -41,7 +41,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 
 | Nro.  | Nombre | Grupo | Temática | URL  | 
 |:-----:|:-------|:-----:|:---------|:-----|
-| 1 | Rosario Acha | E | La marcha más grande… | https://rosaroachaa.github.io/clase-8-_grupo |
+| 1 | Rosario Acha | E | La marcha más grande… | https://rosaroachaa.github.io/infografia-digital_clase-8/ |
 | 2 | Antonia Adell | D | La marcha más grande… | https://antoadell.github.io/infodigital-clase8 |
 | 3 | Ignacio Agurto | D | La marcha más grande… | … | 
 | 4 | Francisco Álvarez | … | … | … |

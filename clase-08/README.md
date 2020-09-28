@@ -62,8 +62,8 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 19 | Karina Melani | A | … | … |
 | 20 | Muriel Muñoz | C | … | … |
 | 21 | Rosario Olivares | I | … | … |
-| 22 | Joaquín Olmedo | F | … | … |
-| 23 | Francisco Pezoa | … | … | … |
+| 22 | Joaquín Olmedo | … | … | … |
+| 23 | Francisco Pezoa | F | … | … |
 | 24 | Daniela Quinteros | H | … | … |
 | 25 | Isidora Ravera | C | … | … | 
 | 26 | Esperanza Ríos | H | … | … | 

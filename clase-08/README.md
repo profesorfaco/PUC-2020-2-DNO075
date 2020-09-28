@@ -49,8 +49,8 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 6 | Silvio Arribas | J | La marcha más grande… | … |
 | 7 | Isabella Cabrera | A | La marcha más grande… | … |
 | 8 | Dessiree Cifuentes | A | La marcha más grande… | … |
-| 9 | Debi Codriansky | F | ? | … | 
-| 10 | María José Coudeu | F | ? | … |
+| 9 | Debi Codriansky | F | La marcha más grande… | https://debic.github.io/marchachile/ | 
+| 10 | María José Coudeu | F | La marcha más grande… | https://mjcoudeu.github.io/InforgafiaDigital_Clase7/ |
 | 11 | Valy Cummings | J | La marcha más grande… | https://valycmmngs.github.io/clase8/ |
 | 12 | Olga F. Vio | E | La marcha más grande… | https://caracolga.github.io/clase8/ |
 | 13 | Fernando Gajardo | D | La marcha del 8M | https://fjgajardo.github.io/Clase8/ |
@@ -63,7 +63,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 20 | Muriel Muñoz | C | La marcha del 8M | https://murimu.github.io/dno075-2020-clase-08/ |
 | 21 | Rosario Olivares | I | La marcha del 8M | https://rosarioof.github.io/Infografia-08/ |
 | 22 | Joaquín Olmedo | … | … | … |
-| 23 | Francisco Pezoa | F | ? | https://panshios.github.io/id-clase-08/ |
+| 23 | Francisco Pezoa | F | La marcha más grande… | https://panshios.github.io/id-clase-08/ |
 | 24 | Daniela Quinteros | H | La marcha del 8M | … |
 | 25 | Isidora Ravera | C | La marcha del 8M | https://isiravera.github.io/clase08/ | 
 | 26 | Esperanza Ríos | H | La marcha del 8M | … | 

@@ -70,7 +70,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 27 | Pilar Saavedra | B | La marcha del 8M | … |
 | 28 | David Sánchez | I | La marcha del 8M | … |
 | 29 | Josefina Stückrath | G | La marcha del 8M | https://jstuckrath.github.io/clase-8 |
-| 30 | Paula Trujillo | … | … | … |
+| 30 | Paula Trujillo | — | — | — |
 | 31 | Rosario Valdés | B | La marcha del 8M | … |
 | 32 | Catalina Vidal | G | La marcha del 8M | https://catalinavidal.github.io/infografia_digital_08 |
 

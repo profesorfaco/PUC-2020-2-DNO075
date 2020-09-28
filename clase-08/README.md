@@ -53,11 +53,11 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 10 | María José Coudeu | F | ? | … |
 | 11 | Valy Cummings | ? | ? | https://valycmmngs.github.io/clase8/ |
 | 12 | Olga F. Vio | E | La marcha más grande… | https://caracolga.github.io/clase8/ |
-| 13 | Fernando Gajardo | D | La marcha del 8M | … |
-| 14 | Javiera González | E | La marcha más grande… | … |
+| 13 | Fernando Gajardo | D | La marcha del 8M | https://fjgajardo.github.io/Clase8/ |
+| 14 | Javiera González | E | La marcha más grande… | https://javierapazgbas.github.io/Clase-8-/ |
 | 15 | María Fernanda Hernández | … | … | … |
 | 16 | Antonia Lasen | B | La marcha del 8M | … |
-| 17 | Sofía Lira | G | La marcha del 8M | … |
+| 17 | Sofía Lira | G | La marcha del 8M | https://lirasantic.github.io/clase08/ |
 | 18 | Karla Mancini | I | La marcha del 8M | … |
 | 19 | Karina Melani | A | La marcha más grande… | … |
 | 20 | Muriel Muñoz | C | La marcha del 8M | https://murimu.github.io/dno075-2020-clase-08/ |

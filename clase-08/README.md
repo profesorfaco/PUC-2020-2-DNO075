@@ -57,7 +57,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 14 | Javiera González | E | La marcha más grande… | https://javierapazgbas.github.io/Clase-8-/ |
 | 15 | María Fernanda Hernández | … | … | … |
 | 16 | Antonia Lasen | B | La marcha del 8M | … |
-| 17 | Sofía Lira | G | La marcha del 8M | https://lirasantic.github.io/clase08/ |
+| 17 | Sofía Lira | G | La marcha del 8M | https://lirasantic.github.io/class8/ |
 | 18 | Karla Mancini | I | La marcha del 8M | https://kamancini.github.io/clase-08/ |
 | 19 | Karina Melani | A | La marcha más grande… | … |
 | 20 | Muriel Muñoz | C | La marcha del 8M | https://murimu.github.io/dno075-2020-clase-08/ |

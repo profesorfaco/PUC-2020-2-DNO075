@@ -58,17 +58,17 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 15 | María Fernanda Herández | … | … | … |
 | 16 | Antonia Lasen | B | … | … |
 | 17 | Sofía Lira | G | … | … |
-| 18 | Karla Mancini | … | … | … |
+| 18 | Karla Mancini | I | … | … |
 | 19 | Karina Melani | A | … | … |
 | 20 | Muriel Muñoz | C | … | … |
-| 21 | Rosario Olivares | … | … | … |
+| 21 | Rosario Olivares | I | … | … |
 | 22 | Joaquín Olmedo | F | … | … |
 | 23 | Francisco Pezoa | … | … | … |
 | 24 | Daniela Quinteros | H | … | … |
 | 25 | Isidora Ravera | C | … | … | 
 | 26 | Esperanza Ríos | H | … | … | 
 | 27 | Pilar Saavedra | B | … | … |
-| 28 | David Sánchez | … | … | … |
+| 28 | David Sánchez | I | … | … |
 | 29 | Josefina Stückrath | G | … | … |
 | 30 | Paula Trujillo | … | … | … |
 | 31 | Rosario Valdés | B | … | … |

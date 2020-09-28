@@ -46,12 +46,12 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 3 | Ignacio Agurto | D | La marcha más grande… | … | 
 | 4 | Francisco Álvarez | … | … | … |
 | 5 | Carolina Aranibar | C | La marcha del 8M | … | 
-| 6 | Silvio Arribas | … | … | … |
+| 6 | Silvio Arribas | J | La marcha más grande… | … |
 | 7 | Isabella Cabrera | A | La marcha más grande… | … |
 | 8 | Dessiree Cifuentes | A | La marcha más grande… | … |
 | 9 | Debi Codriansky | F | ? | … | 
 | 10 | María José Coudeu | F | ? | … |
-| 11 | Valy Cummings | ? | ? | https://valycmmngs.github.io/clase8/ |
+| 11 | Valy Cummings | J | La marcha más grande… | https://valycmmngs.github.io/clase8/ |
 | 12 | Olga F. Vio | E | La marcha más grande… | https://caracolga.github.io/clase8/ |
 | 13 | Fernando Gajardo | D | La marcha del 8M | https://fjgajardo.github.io/Clase8/ |
 | 14 | Javiera González | E | La marcha más grande… | https://javierapazgbas.github.io/Clase-8-/ |

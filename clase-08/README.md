@@ -46,7 +46,7 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 3 | Ignacio Agurto | D | La marcha más grande… | https://iagurto.github.io/clase8/ | 
 | 4 | Francisco Álvarez | — | — | — |
 | 5 | Carolina Aranibar | C | La marcha del 8M | https://caroaranibar.github.io/marcha8m/ | 
-| 6 | Silvio Arribas | J | La marcha más grande… | … |
+| 6 | Silvio Arribas | J | La marcha más grande… | — |
 | 7 | Isabella Cabrera | A | La marcha más grande… | https://fishibanana.github.io/CLASE-7-ID/ |
 | 8 | Dessiree Cifuentes | A | La marcha más grande… | https://desscarol.github.io/Info_Digital_Clase_08/ |
 | 9 | Debi Codriansky | F | La marcha más grande… | https://debic.github.io/marchachile/ | 

@@ -43,8 +43,8 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 |:-----:|:-------|:-----:|:---------|:-----|
 | 1 | Rosario Acha | E | La marcha más grande… | https://rosaroachaa.github.io/infografiadigital_clase8_/ |
 | 2 | Antonia Adell | D | La marcha más grande… | https://antoadell.github.io/infodigital-clase8 |
-| 3 | Ignacio Agurto | D | La marcha más grande… | … | 
-| 4 | Francisco Álvarez | … | … | … |
+| 3 | Ignacio Agurto | D | La marcha más grande… | https://iagurto.github.io/clase8/ | 
+| 4 | Francisco Álvarez | — | — | — |
 | 5 | Carolina Aranibar | C | La marcha del 8M | https://caroaranibar.github.io/marcha8m/ | 
 | 6 | Silvio Arribas | J | La marcha más grande… | … |
 | 7 | Isabella Cabrera | A | La marcha más grande… | https://fishibanana.github.io/CLASE-7-ID/ |
@@ -55,16 +55,16 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 | 12 | Olga F. Vio | E | La marcha más grande… | https://caracolga.github.io/clase8/ |
 | 13 | Fernando Gajardo | D | La marcha del 8M | https://fjgajardo.github.io/Clase8/ |
 | 14 | Javiera González | E | La marcha más grande… | https://javierapazgbas.github.io/Clase-8-/ |
-| 15 | María Fernanda Hernández | … | … | … |
+| 15 | María Fernanda Hernández | — | — | — |
 | 16 | Antonia Lasen | B | La marcha del 8M | https://aflasen.github.io/Info_Digital_8/ |
 | 17 | Sofía Lira | G | La marcha del 8M | https://lirasantic.github.io/class8/ |
 | 18 | Karla Mancini | I | La marcha del 8M | https://kamancini.github.io/clase-08/ |
-| 19 | Karina Melani | A | La marcha más grande… | … |
+| 19 | Karina Melani | A | La marcha más grande… | https://karinamelani.github.io/Infografia_Ejercicio7/ |
 | 20 | Muriel Muñoz | C | La marcha del 8M | https://murimu.github.io/dno075-2020-clase-08/ |
 | 21 | Rosario Olivares | I | La marcha del 8M | https://rosarioof.github.io/Infografia-08/ |
-| 22 | Joaquín Olmedo | … | … | … |
+| 22 | Joaquín Olmedo | — | — | — |
 | 23 | Francisco Pezoa | F | La marcha más grande… | https://panshios.github.io/id-clase-08/ |
-| 24 | Daniela Quinteros | H | La marcha del 8M | … |
+| 24 | Daniela Quinteros | H | La marcha del 8M | https://danuwu.github.io/infografia-digital_clase8/ |
 | 25 | Isidora Ravera | C | La marcha del 8M | https://isiravera.github.io/clase08/ | 
 | 26 | Esperanza Ríos | H | La marcha del 8M | … | 
 | 27 | Pilar Saavedra | B | La marcha del 8M | https://pilarfundamental.github.io/info_digital-8/ |

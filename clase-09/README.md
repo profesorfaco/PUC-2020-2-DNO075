@@ -12,7 +12,7 @@ También pueden encontrar un documento [`style.css`](https://github.com/profesor
 
 Los documentos [`index.html`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/index.html) y [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css) serán explicados línea por línea en menos de 30 minutos. Luego serán formados grupos al azar, con la herramienta de sesiones de Zoom. Se le entregará a cada grupo un desafío que tendrán que resolver en 30 minutos, y luego explicarlo al curso:
 
-**Grupo 1**. Traducir nombres de países, sin descuidar el orden alfabético
+[Grupo 1](https://panshios.github.io/id-clase-09-E01/): Traducir nombres de países, sin descuidar el orden alfabético
 
 **Grupo 2**. Sumar las sombras correspondientes a las personas de la primera ilustración.
 

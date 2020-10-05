@@ -16,13 +16,13 @@ Los documentos [`index.html`](https://github.com/profesorfaco/dno075-2020/blob/g
 
 [Grupo 2](https://murimu.github.io/desafiog2/). Sumar las sombras correspondientes a las personas de la primera ilustración.
 
-**Grupo 3**. Copiar los distintos dibujos de la infografía original, para que haya, al menos, 5 personas distintas tomando Sol en el parque.
+[Grupo 3](https://github.com/pilarfundamental/info_digital-9/). Copiar los distintos dibujos de la infografía original, para que haya, al menos, 5 personas distintas tomando Sol en el parque.
 
 [Grupo 4](https://caracolga.github.io/clase9/). Sumar los datos de 2 países más a la lista, según información que encuentran en infografía original
 
-**Grupo 5**. Arreglar la sombra del ciclista, y animar su pedaleo. 
+[Grupo 5](https://danuwu.github.io/infografia_digital_clase9/). Arreglar la sombra del ciclista, y animar su pedaleo. 
 
-**Grupo 6**. Cambiar al ciclista por un runner, y animar su trote
+[Grupo 6](https://github.com/karinamelani/Corredor). Cambiar al ciclista por un runner, y animar su trote
 
 [Grupo 7](https://mfhernandez3.github.io/clase09/). Que un bote (o kayak) pase por el canal, en sentido contrario al ciclista; quien vaya en ese bote (o kayak) tiene que remar.
 

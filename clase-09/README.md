@@ -10,15 +10,27 @@ En esta carpeta de repositorio de GitHub pueden encontrar algunos documentos que
 
 También pueden encontrar un documento [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css).
 
-Los documentos [`index.html`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/index.html) y [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css) serán explicados línea por línea en menos de 30 minutos. Luego serán formados grupos al azar, con la herramienta de sesiones de Zoom. Se le entregará a cada grupo un desafío que tendrán que resolver en 30 minutos, y luego explicarlo al curso. 
+Los documentos [`index.html`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/index.html) y [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css) serán explicados línea por línea en menos de 30 minutos. Luego serán formados grupos al azar, con la herramienta de sesiones de Zoom. Se le entregará a cada grupo un desafío que tendrán que resolver en 30 minutos, y luego explicarlo al curso:
 
-Un ejemplo de desafío a resolver: *El ciclista que pasa al final de [la página](https://profesorfaco.github.io/dno075-2020/clase-09/index.html) tiene que pedalear*. 
+**Grupo 1**. Traducir nombres de países, sin descuidar el orden alfabético
 
-Tan pronto se resuelva el desafío, un/a integrante del grupo tendrá que crear repositorio y compartir resultado con GitHub Pages. Mostrando tal página en línea, el grupo presentará el desafío y su solución al curso.
+**Grupo 2**. Sumar las sombras correspondientes a las personas de la primera ilustración.
+
+**Grupo 3**. Copiar los distintos dibujos de la infografía original, para que haya, al menos, 5 personas distintas tomando Sol en el parque.
+
+**Grupo 4**. Sumar los datos de 2 países más a la lista, según información que encuentran en infografía original
+
+**Grupo 5**. Arreglar la sombra del ciclista, y animar su pedaleo. 
+
+**Grupo 6**. Cambiar al ciclista por un runner, y animar su trote
+
+**Grupo 7**. Que un bote (o kayak) pase por el canal, en sentido contrario al ciclista; quien vaya en ese bote (o kayak) tiene que remar.
+
+Tan pronto se resuelva el desafío, **un/a integrante del grupo tendrá que crear repositorio y compartir resultado con GitHub Pages**. Mostrando tal página en línea, el grupo presentará el desafío y su solución al curso.
 
 #### Ejercicio
 
-Pendiente.
+Cada estudiante tiene que aprovechar las soluciones aportadas por cada grupo para armar una nueva versión de la infografía digital. Ideal sería que su versión esté traducida al castellano.
 
 
 #### Resultados

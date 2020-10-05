@@ -37,38 +37,38 @@ Cada estudiante tiene que aprovechar las soluciones aportadas por cada grupo par
 
 | Nro.  | Nombre | URL |
 |:-----:|:-------|:--------|
-| 1 | Rosario Acha | … |
+| 1 | Rosario Acha | https://rosaroachaa.github.io/infografiadigital_clase9/ |
 | 2 | Antonia Adell | … |
 | 3 | Ignacio Agurto | … | 
-| 4 | Francisco Álvarez | … |
+| 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-09-FARK/ |
 | 5 | Carolina Aranibar | … | 
 | 6 | Silvio Arribas | … |
-| 7 | Isabella Cabrera | … |
-| 8 | Dessiree Cifuentes | … |
-| 9 | Debi Codriansky | … | 
-| 10 | María José Coudeu | … |
-| 11 | Valy Cummings | … |
-| 12 | Olga F. Vio | … |
-| 13 | Fernando Gajardo | … |
-| 14 | Javiera González | … |
-| 15 | María Fernanda Herández | … |
-| 16 | Antonia Lasen | … |
-| 17 | Sofía Lira | … |
-| 18 | Karla Mancini | … |
+| 7 | Isabella Cabrera | https://fishibanana.github.io/clase09/ |
+| 8 | Dessiree Cifuentes | https://desscarol.github.io/Info_Digital_Clase_09/ |
+| 9 | Debi Codriansky | https://debic.github.io/clase09/ | 
+| 10 | María José Coudeu | https://mjcoudeu.github.io/clase-09/ |
+| 11 | Valy Cummings | https://valycmmngs.github.io/id-clase-09-E01/ |
+| 12 | Olga F. Vio | https://caracolga.github.io/clase9/ |
+| 13 | Fernando Gajardo | https://fjgajardo.github.io/Clase9Individual/ |
+| 14 | Javiera González | https://javierapazgbas.github.io/Clase-9/ |
+| 15 | María Fernanda Herández | https://mfhernandez3.github.io/Clase9/ |
+| 16 | Antonia Lasen | https://aflasen.github.io/Info_Digital_9/ |
+| 17 | Sofía Lira | https://lirasantic.github.io/Clase09/ |
+| 18 | Karla Mancini | https://kamancini.github.io/clase-09/ |
 | 19 | Karina Melani | … |
 | 20 | Muriel Muñoz | … |
-| 21 | Rosario Olivares | … |
+| 21 | Rosario Olivares | https://rosarioof.github.io/infografia-09/ |
 | 22 | Joaquín Olmedo | … |
-| 23 | Francisco Pezoa | … | 
+| 23 | Francisco Pezoa | https://panshios.github.io/id-clase-09/ | 
 | 24 | Daniela Quinteros | … |
-| 25 | Isidora Ravera | … | 
-| 26 | Esperanza Ríos | … | 
-| 27 | Pilar Saavedra | … |
+| 25 | Isidora Ravera | https://isiravera.github.io/Clase-09/ | 
+| 26 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital9/ | 
+| 27 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-9/ |
 | 28 | David Sánchez | … |
-| 29 | Josefina Stückrath | … |
+| 29 | Josefina Stückrath | https://jstuckrath.github.io/clase-9/ |
 | 30 | Paula Trujillo | … |
-| 31 | Rosario Valdés | … |
-| 32 | Catalina Vidal | … |
+| 31 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo-en-clases.08/ |
+| 32 | Catalina Vidal | https://catalinavidal.github.io/Infografia_digital_9/ |
 
 - - - - - - - -
 

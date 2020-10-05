@@ -22,7 +22,7 @@ Los documentos [`index.html`](https://github.com/profesorfaco/dno075-2020/blob/g
 
 [Grupo 5](https://danuwu.github.io/infografia_digital_clase9/). Arreglar la sombra del ciclista, y animar su pedaleo. 
 
-[Grupo 6](https://github.com/karinamelani/Corredor). Cambiar al ciclista por un runner, y animar su trote
+[Grupo 6](https://github.com/fjgajardo/Clase9). Cambiar al ciclista por un runner, y animar su trote
 
 [Grupo 7](https://mfhernandez3.github.io/clase09/). Que un bote (o kayak) pase por el canal, en sentido contrario al ciclista; quien vaya en ese bote (o kayak) tiene que remar.
 

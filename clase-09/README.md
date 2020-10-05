@@ -10,7 +10,7 @@ En esta carpeta de repositorio de GitHub pueden encontrar algunos documentos que
 
 También pueden encontrar un documento [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css).
 
-Los documentos [`index.html`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/index.html) y [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css) serán explicados línea por línea en 30 minutos. Luego serán formados grupos al azar, con la herramienta de sesiones de Zoom. Se le entregará a cada grupo un desafío que tendrán que resolver en 30 minutos, y luego explicarlo al curso. 
+Los documentos [`index.html`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/index.html) y [`style.css`](https://github.com/profesorfaco/dno075-2020/blob/gh-pages/clase-09/style.css) serán explicados línea por línea en menos de 30 minutos. Luego serán formados grupos al azar, con la herramienta de sesiones de Zoom. Se le entregará a cada grupo un desafío que tendrán que resolver en 30 minutos, y luego explicarlo al curso. 
 
 Un ejemplo de desafío a resolver: *El ciclista que pasa al final de [la página](https://profesorfaco.github.io/dno075-2020/clase-09/index.html) tiene que pedalear*. 
 

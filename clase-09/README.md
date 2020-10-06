@@ -38,11 +38,11 @@ Cada estudiante tiene que aprovechar las soluciones aportadas por cada grupo par
 | Nro.  | Nombre | URL |
 |:-----:|:-------|:--------|
 | 1 | Rosario Acha | https://rosaroachaa.github.io/infografiadigital_clase9/ |
-| 2 | Antonia Adell | … |
-| 3 | Ignacio Agurto | … | 
+| 2 | Antonia Adell | https://antoadell.github.io/infodigital-clase9/ |
+| 3 | Ignacio Agurto | https://iagurto.github.io/clase9/ | 
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-09-FARK/ |
-| 5 | Carolina Aranibar | … | 
-| 6 | Silvio Arribas | … |
+| 5 | Carolina Aranibar | — | 
+| 6 | Silvio Arribas | — |
 | 7 | Isabella Cabrera | https://fishibanana.github.io/clase09/ |
 | 8 | Dessiree Cifuentes | https://desscarol.github.io/Info_Digital_Clase_09/ |
 | 9 | Debi Codriansky | https://debic.github.io/clase09/ | 
@@ -55,18 +55,18 @@ Cada estudiante tiene que aprovechar las soluciones aportadas por cada grupo par
 | 16 | Antonia Lasen | https://aflasen.github.io/Info_Digital_9/ |
 | 17 | Sofía Lira | https://lirasantic.github.io/Clase09/ |
 | 18 | Karla Mancini | https://kamancini.github.io/clase-09/ |
-| 19 | Karina Melani | … |
-| 20 | Muriel Muñoz | … |
+| 19 | Karina Melani | https://karinamelani.github.io/infografia_ejercicio8/ |
+| 20 | Muriel Muñoz | https://murimu.github.io/desafiog2/ |
 | 21 | Rosario Olivares | https://rosarioof.github.io/infografia-09/ |
-| 22 | Joaquín Olmedo | … |
+| 22 | Joaquín Olmedo | — |
 | 23 | Francisco Pezoa | https://panshios.github.io/id-clase-09/ | 
-| 24 | Daniela Quinteros | … |
+| 24 | Daniela Quinteros | https://danuwu.github.io/Infografia_digital_Clase9-nuevaversion/ |
 | 25 | Isidora Ravera | https://isiravera.github.io/Clase-09/ | 
 | 26 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital9/ | 
 | 27 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-9/ |
-| 28 | David Sánchez | … |
+| 28 | David Sánchez | https://david1336.github.io/DNO-075-Clase-09/index.html |
 | 29 | Josefina Stückrath | https://jstuckrath.github.io/clase-9/ |
-| 30 | Paula Trujillo | … |
+| 30 | Paula Trujillo | — |
 | 31 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo-en-clases.08/ |
 | 32 | Catalina Vidal | https://catalinavidal.github.io/Infografia_digital_9/ |
 

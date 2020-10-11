@@ -17,3 +17,13 @@ Se recomienda buscar infografías digitales en:
 - New York Times - 2019 - The Year in Visual Stories and Graphics- https://www.nytimes.com/interactive/2019/12/30/us/2019-year-in-graphics.html
 
 - New York Times - 2018 - The Year in Visual Stories and Graphics- https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html
+
+- - - - - - - - 
+
+Las siguientes sesiones de dividirán en dos partes. 
+
+- Una primera etapa para compartir el avance manual, donde los bocetos podrán exponerse al curso y mejorarse colaborativamente.
+
+- Una segunda etapa de trabajo digital, personalizada, donde se resolverán dudas de los grupos para pasar del boceto al código fuente.
+
+- - - - - - - - - - - - -

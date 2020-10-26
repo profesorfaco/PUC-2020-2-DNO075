@@ -10,13 +10,13 @@ Si somos rigurosos, la ingeniería inversa no trata de replicar el producto anal
 
 Es común aplicar ingeniería inversa en programación y electrónica, pero cualquier producto puede ser objeto de este tipo de análisis.
 
-Hoy haremos ingeniería inversa de una infografía digital desarrollada por [Adolfo Arranz](https://www.scmp.com/author/adolfo-arranz), [Han Huang](https://www.scmp.com/author/han-huang) y [Dennis Wong](https://www.scmp.com/author/dennis-wong), con la colaboración de [Darren Long](https://www.scmp.com/author/darren-long), y publicada por el [South China Morning Post](https://www.scmp.com/author/scmp-graphics). 
+**Hoy haremos ingeniería inversa de una infografía digital desarrollada por [Adolfo Arranz](https://www.scmp.com/author/adolfo-arranz), [Han Huang](https://www.scmp.com/author/han-huang) y [Dennis Wong](https://www.scmp.com/author/dennis-wong), con la colaboración de [Darren Long](https://www.scmp.com/author/darren-long), y publicada por el [South China Morning Post](https://www.scmp.com/author/scmp-graphics)**. 
 
-Aprovechando [las excepciones de derecho de autor](https://www.bcn.cl/leyfacil/recurso/propiedad-intelectual-(derechos-de-autor)) con fines académicos: Ustedes tendrán que investigar el código fuente de la página original para replicarla con los archivos que se compartirán en esta carpeta.
+**Aprovechando [las excepciones de derecho de autor](https://www.bcn.cl/leyfacil/recurso/propiedad-intelectual-(derechos-de-autor)) con fines académicos: Ustedes tendrán que investigar el código fuente de la página original para replicarla con los archivos que se compartirán en esta carpeta**.
 
 Su nota dependerá del cumplimiento de una rúbrica a compartir durante la clase. Esta nota equivale al 25% de su promedio final.
 
-El trabajo se puede resolver en grupos, pero la evaluación se basa en la publicación de resultado en cada cuenta de GitHub, y una parte de la evaluación depende de ajustes que debe ser individuales. Dicho de otro modo: Pedro, Juan y Diego sí pueden trabajar juntos. Pero serán evaluados por lo que cada uno publique en https://pedro.github.io/entrega, https://juan.github.io/entrega y https://diego.github.io/entrega.
+El trabajo se puede resolver en grupos, pero la evaluación se basa en la publicación de resultado en cada cuenta de GitHub, y una parte de la evaluación depende de ajustes que debe ser individuales. Dicho de otro modo: Pedro, Juan y Diego sí pueden trabajar juntos. Pero serán evaluados por lo que cada uno publique en `https://pedro.github.io/entrega`, `https://juan.github.io/entrega` y `https://diego.github.io/entrega`.
 
 - - - - - - - - - - - -
 

@@ -22,7 +22,7 @@ El tema del curso: Conflictos socioambientales y Contenidos constitucionales.
 
 Imaginen un único sitio web que contendrá 10 infografías. Cada infografía apuntará a un tema específico que podría informa a la ciudadanía sobre un conflicto socioambiental determinado. Esta información podría animar las discusiones sobre lo que debe ser protegidos, explícitamente, por una nueva constitución. 
 
-En la definición de temática, corresponde buscar información que vaya de lo general a lo específico, y recolectar antecedentes de distintas infografías digitales desde las que se podría hacer ingeniería inversa, para contar con los distintos describir-mostrar que necesitaría el trabajo grupal.  
+En la definición de temática, corresponde buscar información que vaya de lo general a lo específico, y recolectar antecedentes de distintas infografías digitales desde las que se podría hacer ingeniería inversa (para resolver los describir-mostrar que necesitaría su trabajo).  
 
 Se recomienda buscar infografías digitales en:
 

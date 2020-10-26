@@ -1,6 +1,6 @@
 # Infografía Digital v1
 
-### Clase 11 → Lunes 19 de octubre, 2020
+### Clase 11 → Lunes 26 de octubre, 2020
 
 En la clase de hoy corresponde resolver un **Trabajo de Investigación: Ingeniería inversa.** Este trabajo será evaluado con nota parcial.
 

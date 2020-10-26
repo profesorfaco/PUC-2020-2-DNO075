@@ -22,7 +22,7 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 
 #### Entregas
 
-| Nro.  | Nombre | URL | Nota |
+| Nro.  | Nombre | URL | Entrega |
 |:-----:|:-------|:--------|:-----:|
 | 1 | Rosario Acha | … | … |
 | 2 | Antonia Adell | … | … |
@@ -36,7 +36,7 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 | 10 | María José Coudeu | … | … |
 | 11 | Valy Cummings | … | … |
 | 12 | Olga F. Vio | … | … |
-| 13 | Fernando Gajardo | … | … |
+| 13 | Fernando Gajardo | https://fjgajardo.github.io/Clase11/ | 26 oct. 2020 12:12 |
 | 14 | Javiera González | … | … |
 | 15 | María Fernanda Herández | … | … |
 | 16 | Antonia Lasen | … | … |
@@ -44,7 +44,7 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 | 18 | Karla Mancini | … | … |
 | 19 | Karina Melani | … | … |
 | 20 | Muriel Muñoz | … | … |
-| 21 | Rosario Olivares | … | … |
+| 21 | Rosario Olivares | https://rosarioof.github.io/Infografia-11/ | 26 oct. 2020 12:53 |
 | 22 | Joaquín Olmedo | … | … |
 | 23 | Francisco Pezoa | … | … |
 | 24 | Daniela Quinteros | … | … |
@@ -54,7 +54,7 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 | 28 | David Sánchez | … | … |
 | 29 | Josefina Stückrath | … | … |
 | 30 | Paula Trujillo | … | … |
-| 31 | Rosario Valdés | … | … |
+| 31 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_09/ |	26 oct. 2020 12:04 |
 | 32 | Catalina Vidal | … | … |
 
 - - - - - - - -

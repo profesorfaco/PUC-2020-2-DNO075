@@ -18,7 +18,7 @@ Tenemos equipos de trabajos de 3 a 6 integrantes, con 1 o 2 colaborades. Adaptar
 
 #### Definición de la temática
 
-El tema del curso: Conflictos socioambientales y Contenidos constitucionales. 
+El tema del curso: **Conflictos socioambientales y contenidos constitucionales**. 
 
 Imaginen un único sitio web que contendrá 10 infografías. Cada infografía apuntará a un tema específico que podría informa a la ciudadanía sobre un conflicto socioambiental determinado. Esta información podría animar las discusiones sobre lo que debe ser protegido, explícitamente, por una nueva constitución. 
 

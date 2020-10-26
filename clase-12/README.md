@@ -14,17 +14,17 @@ En tales trabajos hay equipos de 3 a 6 integrantes, con 1 o 2 colaboradores.
 
 Adaptaremos tal organización a nuestro trabajo final, ajustando los números.
 
-**En esta clase, en la que comenzamos la tercera y última etapa del optativo, corresponde organizarse en torno a la definición de una temática, con equipos de 3 estudiantes, que pueden incluir a 1 colaborador que no sea parte del Optativo (alguien que colabore con ilustraciones o fotografías)**.
+**En esta clase, en la que comenzamos la tercera y última etapa del optativo, corresponde organizarse en torno a la definición del tema a desarrollar, con equipos de 3 estudiantes, que pueden incluir a 1 colaborador que no sea parte del Optativo (alguien que colabore con ilustraciones o fotografías)**.
 
 - - - - - 
 
-#### Definición de la temática
+#### Definición del tema a desarrollar
 
-El tema del curso: **Conflictos socioambientales y contenidos constitucionales**. 
+El tema del curso es **Conflictos socioambientales y contenidos constitucionales**. 
 
 Imaginen un único sitio web que contendrá 10 infografías. Cada infografía apuntará a un tema específico que podría informa a la ciudadanía sobre un conflicto socioambiental determinado. Esta información podría animar las discusiones sobre lo que debe ser protegido, explícitamente, por una nueva constitución. 
 
-En la definición de temática, corresponde buscar información que vaya de lo general a lo específico, y recolectar antecedentes de distintas infografías digitales desde las que se podría hacer ingeniería inversa (para resolver los describir-mostrar que necesitaría su trabajo).  
+Para la definición del tema específico de cada grupo, corresponde buscar información que vaya de lo general a lo específico, y recolectar antecedentes de distintas infografías digitales desde las que se podría hacer ingeniería inversa (para resolver los describir-mostrar que necesitaría su trabajo).  
 
 Se recomienda buscar infografías digitales en:
 

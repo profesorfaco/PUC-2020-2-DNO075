@@ -1,6 +1,6 @@
 # Infografía Digital v1
 
-### Clase 12 → Lunes 26 de octubre, 2020
+### Clase 12 → Lunes 2 de noviembre, 2020
 
 En las clases de la segunda etapa del optativo aprovechamos trabajos reales de infografía digital, originalmente desarrollados por: 
 

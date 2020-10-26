@@ -14,7 +14,7 @@ Es común aplicar ingeniería inversa en programación y electrónica, pero cual
 
 **Aprovechando [las excepciones de derecho de autor](https://www.bcn.cl/leyfacil/recurso/propiedad-intelectual-(derechos-de-autor)) con fines académicos: Ustedes tendrán que investigar el código fuente de la página original para replicarla con los archivos que se compartirán en esta carpeta**.
 
-Su nota dependerá del cumplimiento de una rúbrica a compartir durante la clase. Esta nota equivale al 25% de su promedio final.
+Su nota dependerá del cumplimiento de [una rúbrica](https://docs.google.com/spreadsheets/d/1hqLKj2TIXN7hLf6NabEdzGUTR2I3ka5Uhaes2c7ODFw/edit?usp=sharing) a compartir durante la clase. Esta nota equivale al 25% de su promedio final.
 
 El trabajo se puede resolver en grupos, pero la evaluación se basa en la publicación de resultado en cada cuenta de GitHub, y una parte de la evaluación depende de ajustes que debe ser individuales. Dicho de otro modo: Pedro, Juan y Diego sí pueden trabajar juntos. Pero serán evaluados por lo que cada uno publique en `https://pedro.github.io/entrega`, `https://juan.github.io/entrega` y `https://diego.github.io/entrega`.
 

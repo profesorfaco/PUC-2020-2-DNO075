@@ -30,19 +30,19 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 **Clase 10 → 12/10/2020 → Celebración del Día del Encuentro de Dos Mundos. Feriado Legal.**
 
-[Clase 11 → 19/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-11) → Trabajo de Investigación: Ingeniería inversa.
+[Clase 11 → 26/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-11) → Trabajo de Investigación: Ingeniería inversa.
 
-[Clase 12 → 26/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-12) → Definición de tema a desarrollar.
+[Clase 12 → 02/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-12) → Definición de tema a desarrollar.
 
-Clase 13 → 02/11/2020 → Investigación y observación.
+Clase 13 → 09/11/2020 → Investigación y observación.
 
-Clase 14 → 09/11/2020 → Planificación del trabajo a través del boceto.
+Clase 14 → 16/11/2020 → Planificación del trabajo a través del boceto.
 
-Clase 15 → 16/11/2020 → Del boceto al prototipo.
+Clase 15 → 23/11/2020 → Del boceto al prototipo.
 
-Clase 16 → 23/11/2020 → Procesos de producción de infografía para soporte digital.
+Clase 16 → 30/11/2020 → Procesos de producción de infografía para soporte digital.
 
-Clase 17 → 30/11/2020 → Entrega final, en línea.
+Clase 17 → 07/12/2020 → Entrega final, en línea.
 
 - - - - - - - - - -
 

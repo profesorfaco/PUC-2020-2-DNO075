@@ -24,34 +24,34 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 
 | Nro.  | Nombre | URL | Entrega |
 |:-----:|:-------|:--------|:-----:|
-| 1 | Rosario Acha | … | … |
+| 1 | Rosario Acha | https://rosaroachaa.github.io/clase11/ | 26 oct. 2020 17:02 |
 | 2 | Antonia Adell | … | … |
 | 3 | Ignacio Agurto | … | … |
 | 4 | Francisco Álvarez | … | … |
-| 5 | Carolina Aranibar | … | … |
+| 5 | Carolina Aranibar | https://caroaranibar.github.io/entregaclase11/ | 26 oct. 2020 15:55 |
 | 6 | Silvio Arribas | … | … |
-| 7 | Isabella Cabrera | … | … |
-| 8 | Dessiree Cifuentes | … | … |
-| 9 | Debi Codriansky | … | … |
-| 10 | María José Coudeu | … | … |
+| 7 | Isabella Cabrera | https://fishibanana.github.io/PRUEBA-1/ | 26 oct. 2020 14:48 |
+| 8 | Dessiree Cifuentes | https://desscarol.github.io/Info_Digital_Clase_11/ | 26 oct. 2020 14:23 |
+| 9 | Debi Codriansky | https://debic.github.io/ejercicio/ | 26 oct. 2020 16:27 |
+| 10 | María José Coudeu | https://mjcoudeu.github.io/clase-11/ | 26 oct. 2020 16:29 |
 | 11 | Valy Cummings | … | … |
-| 12 | Olga F. Vio | … | … |
+| 12 | Olga F. Vio | https://caracolga.github.io/clase11/ | 26 oct. 2020 16:45 |
 | 13 | Fernando Gajardo | https://fjgajardo.github.io/Clase11/ | 26 oct. 2020 12:12 |
-| 14 | Javiera González | … | … |
-| 15 | María Fernanda Herández | … | … |
-| 16 | Antonia Lasen | … | … |
+| 14 | Javiera González | https://javierapazgbas.github.io/Clase-11/ | 26 oct. 2020 18:06 |
+| 15 | María Fernanda Herández | https://mfhernandez3.github.io/clase11/ | 26 oct. 2020 18:16 |
+| 16 | Antonia Lasen | https://aflasen.github.io/Info_Digital_11/ | 26 oct. 2020 18:45 |
 | 17 | Sofía Lira | … | … |
 | 18 | Karla Mancini | … | … |
-| 19 | Karina Melani | … | … |
-| 20 | Muriel Muñoz | … | … |
+| 19 | Karina Melani | https://karinamelani.github.io/infografia_prueba1/ | 26 oct. 2020 14:47 |
+| 20 | Muriel Muñoz | https://murimu.github.io/clase11/ | 26 oct. 2020 15:48 |
 | 21 | Rosario Olivares | https://rosarioof.github.io/Infografia-11/ | 26 oct. 2020 12:53 |
-| 22 | Joaquín Olmedo | … | … |
-| 23 | Francisco Pezoa | … | … |
+| 22 | Joaquín Olmedo | https://joacolmedo.github.io/evaluacion/ | 26 oct. 2020 16:30 |
+| 23 | Francisco Pezoa | https://panshios.github.io/id-clase-11/ | 26 oct. 2020 16:32 |
 | 24 | Daniela Quinteros | … | … |
-| 25 | Isidora Ravera | … | … | 
-| 26 | Esperanza Ríos | … | … | 
-| 27 | Pilar Saavedra | … | … |
-| 28 | David Sánchez | … | … |
+| 25 | Isidora Ravera | https://isiravera.github.io/clase-11/ | 26 oct. 2020 15:42 | 
+| 26 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital11/ | 26 oct. 2020 13:33 | 
+| 27 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-11/ | 26 oct. 2020 18:29 |
+| 28 | David Sánchez | https://david1336.github.io/DNO-075-Clase-11/ | 26 oct. 2020 18:28 |
 | 29 | Josefina Stückrath | … | … |
 | 30 | Paula Trujillo | … | … |
 | 31 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_09/ |	26 oct. 2020 12:04 |

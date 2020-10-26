@@ -41,7 +41,7 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 | 15 | María Fernanda Herández | https://mfhernandez3.github.io/clase11/ | 26 oct. 2020 18:16 |
 | 16 | Antonia Lasen | https://aflasen.github.io/Info_Digital_11/ | 26 oct. 2020 18:45 |
 | 17 | Sofía Lira | … | … |
-| 18 | Karla Mancini | … | … |
+| 18 | Karla Mancini | https://kamancini.github.io/Ingenieria-inversa/ | 26 oct. 2020 20:45 |
 | 19 | Karina Melani | https://karinamelani.github.io/infografia_prueba1/ | 26 oct. 2020 14:47 |
 | 20 | Muriel Muñoz | https://murimu.github.io/clase11/ | 26 oct. 2020 15:48 |
 | 21 | Rosario Olivares | https://rosarioof.github.io/Infografia-11/ | 26 oct. 2020 12:53 |

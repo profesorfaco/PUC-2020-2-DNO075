@@ -10,7 +10,9 @@ En las clases de la segunda etapa del optativo aprovechamos trabajos reales de i
 
 - Adolfo Arranz, Han Huang y Dennis Wong, con colaboración de Darren Long ([clase 11](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-11))
 
-Tenemos equipos de trabajos de 3 a 6 integrantes, con 1 o 2 colaborades. Adaptaremos tal organización a nuestro trabajo final. 
+En tales trabajos hay equipos de 3 a 6 integrantes, con 1 o 2 colaboradores. 
+
+Adaptaremos tal organización a nuestro trabajo final, ajustando los números.
 
 **En esta clase, en la que comenzamos la tercera y última etapa del optativo, corresponde organizarse en torno a la definición de una temática, con equipos de 3 estudiantes, que pueden incluir a 1 colaborador que no sea parte del Optativo (alguien que colabore con ilustraciones o fotografías)**.
 

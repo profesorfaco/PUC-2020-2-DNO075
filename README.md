@@ -26,9 +26,9 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 08 → 28/09/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-08) → Desde ilustración vectorial a SVG (Scalable Vector Graphics). ✓
 
-[Clase 09 → 05/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-09) → Coding: HTML, CSS y JavaScript. 
+[Clase 09 → 05/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-09) → Coding: HTML, CSS y JavaScript. ✓ 
 
-**Clase 10 → 12/10/2020 → Celebración del Día del Encuentro de Dos Mundos. Feriado Legal.**
+**Clase 10 → 12/10/2020 → Celebración del Día del Encuentro de Dos Mundos. Feriado Legal.** ✓
 
 [Clase 11 → 26/10/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-11) → Trabajo de Investigación: Ingeniería inversa.
 

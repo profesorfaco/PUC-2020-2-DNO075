@@ -4,18 +4,18 @@
 
 Hoy continuamos con la tercera y última etapa del optativo, con los equipos y temas específicos ya definidos:
 
-| Grupo | Integrantes | Tema |
+| Grupo | Tema | Integrantes |
 |:-----:|:------------|:-----|
-| 1  | … + … + … | … |
-| 2  | … + … + … | … |
-| 3  | … + … + … | … |
-| 4  | … + … + … | … |
-| 5  | … + … + … | … |
-| 6  | … + … + … | … |
-| 7  | … + … + … | … |
-| 8  | … + … + … | … |
-| 9  | … + … + … | … |
-| 10 | … + … + … + … | … |
+| 1  | … | … |
+| 2  | … | … |
+| 3  | … | … |
+| 4  | … | … |
+| 5  | … | … |
+| 6  | … | … |
+| 7  | … | … |
+| 8  | … | … |
+| 9  | … | … |
+| 10 | … | … |
 
 
 En esta clase corresponde definir una estructura general, volcando los resultados de **investigación y observación**

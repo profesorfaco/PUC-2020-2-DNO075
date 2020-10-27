@@ -25,7 +25,7 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 | Nro.  | Nombre | URL | Entrega |
 |:-----:|:-------|:--------|:-----:|
 | 1 | Rosario Acha | https://rosaroachaa.github.io/clase11/ | 26 oct. 2020 17:02 |
-| 2 | Antonia Adell | … | … |
+| 2 | Antonia Adell | https://antoadell.github.io/infodigital-clase11/ | 26 oct. 2020 22:00 |
 | 3 | Ignacio Agurto | … | … |
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-11-FARK/ | 26 oct. 2020 20:28 |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/entregaclase11/ | 26 oct. 2020 15:55 |

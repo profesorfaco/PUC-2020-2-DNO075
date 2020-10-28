@@ -34,28 +34,28 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 | 8 | Dessiree Cifuentes | https://desscarol.github.io/Info_Digital_Clase_11/ | 26 oct. 2020 14:23 |
 | 9 | Debi Codriansky | https://debic.github.io/ejercicio/ | 26 oct. 2020 16:27 |
 | 10 | María José Coudeu | https://mjcoudeu.github.io/clase-11/ | 26 oct. 2020 16:29 |
-| 11 | Valy Cummings | … | … |
+| 11 | Valy Cummings | https://valycmmngs.github.io/clase11/ | 26 oct. 2020 23:35 |
 | 12 | Olga F. Vio | https://caracolga.github.io/clase11/ | 26 oct. 2020 16:45 |
 | 13 | Fernando Gajardo | https://fjgajardo.github.io/Clase11/ | 26 oct. 2020 12:12 |
 | 14 | Javiera González | https://javierapazgbas.github.io/Clase-11/ | 26 oct. 2020 18:06 |
 | 15 | María Fernanda Herández | https://mfhernandez3.github.io/clase11/ | 26 oct. 2020 18:16 |
 | 16 | Antonia Lasen | https://aflasen.github.io/Info_Digital_11/ | 26 oct. 2020 18:45 |
-| 17 | Sofía Lira | … | … |
+| 17 | Sofía Lira | https://lirasantic.github.io/Clase11/ | 26 oct. 2020 22:20 |
 | 18 | Karla Mancini | https://kamancini.github.io/Ingenieria-inversa/ | 26 oct. 2020 20:45 |
 | 19 | Karina Melani | https://karinamelani.github.io/infografia_prueba1/ | 26 oct. 2020 14:47 |
 | 20 | Muriel Muñoz | https://murimu.github.io/clase11/ | 26 oct. 2020 15:48 |
 | 21 | Rosario Olivares | https://rosarioof.github.io/Infografia-11/ | 26 oct. 2020 12:53 |
 | 22 | Joaquín Olmedo | https://joacolmedo.github.io/evaluacion/ | 26 oct. 2020 16:30 |
 | 23 | Francisco Pezoa | https://panshios.github.io/id-clase-11/ | 26 oct. 2020 16:32 |
-| 24 | Daniela Quinteros | … | … |
+| 24 | Daniela Quinteros | https://danuwu.github.io/infografia_digital_clase11/ | 26 oct. 2020 23:42 |
 | 25 | Isidora Ravera | https://isiravera.github.io/clase-11/ | 26 oct. 2020 15:42 | 
 | 26 | Esperanza Ríos | https://esperanzarios.github.io/infografiadigital11/ | 26 oct. 2020 13:33 | 
 | 27 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-11/ | 26 oct. 2020 18:29 |
 | 28 | David Sánchez | https://david1336.github.io/DNO-075-Clase-11/ | 26 oct. 2020 18:28 |
-| 29 | Josefina Stückrath | … | … |
+| 29 | Josefina Stückrath | https://jstuckrath.github.io/Clase-11/ | 27 oct. 2020 13:21 |
 | 30 | Paula Trujillo | … | … |
 | 31 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_09/ |	26 oct. 2020 12:04 |
-| 32 | Catalina Vidal | … | … |
+| 32 | Catalina Vidal | https://catalinavidal.github.io/ejercicio11/ | 26 oct. 2020 22:26 |
 
 - - - - - - - -
 

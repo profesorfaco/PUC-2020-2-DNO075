@@ -54,7 +54,7 @@ También corresponde recolectar antecedentes de distintas infografías digitales
 
 
 | Grupo | Integrantes |  README    |
-|:------|:---------|:-------|
+|:-----:|:---------|:-------|
 | 1 | Dessire Cifuentes,  Isabella Cabrera y	Karina Melani | [KugaGraphic](https://github.com/KugaGraphic/Avance-nov2/blob/gh-pages/README.md#avance-de-trabajo-de-infograf%C3%ADa-animales-y-delimitaci%C3%B3n-urbana) |
 | 2 | Valy Cumming, Antonia Lasen y Pilar Saavedra | [Anti-motos](https://github.com/anti-motos/clase-1/blob/main/README.md#clase-1) |
 | 3 | Rosario Acha, Olga F. Vio y Javiera González | [Extra-activista](https://github.com/extra-activista/avance-01/blob/main/README.md#avance-01) |

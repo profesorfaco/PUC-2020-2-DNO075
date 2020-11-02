@@ -26,7 +26,7 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 |:-----:|:-------|:--------|:-----:|
 | 1 | Rosario Acha | https://rosaroachaa.github.io/clase11/ | 26 oct. 2020 17:02 |
 | 2 | Antonia Adell | https://antoadell.github.io/infodigital-clase11/ | 26 oct. 2020 22:00 |
-| 3 | Ignacio Agurto | … | … |
+| 3 | Ignacio Agurto | https://iagurto.github.io/clase11/ | 2 nov. 2020 1:43 |
 | 4 | Francisco Álvarez | https://fialvarezdelarivera.github.io/Clase-11-FARK/ | 26 oct. 2020 20:28 |
 | 5 | Carolina Aranibar | https://caroaranibar.github.io/entregaclase11/ | 26 oct. 2020 15:55 |
 | 6 | Silvio Arribas | … | … |
@@ -53,9 +53,8 @@ El trabajo se puede resolver en grupos, pero la evaluación se basa en la public
 | 27 | Pilar Saavedra | https://pilarfundamental.github.io/info_digital-11/ | 26 oct. 2020 18:29 |
 | 28 | David Sánchez | https://david1336.github.io/DNO-075-Clase-11/ | 26 oct. 2020 18:28 |
 | 29 | Josefina Stückrath | https://jstuckrath.github.io/Clase-11/ | 27 oct. 2020 13:21 |
-| 30 | Paula Trujillo | … | … |
-| 31 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_09/ |	26 oct. 2020 12:04 |
-| 32 | Catalina Vidal | https://catalinavidal.github.io/ejercicio11/ | 26 oct. 2020 22:26 |
+| 30 | Rosario Valdés | https://rosariovaldes21.github.io/Trabajo_en_clases_09/ |	26 oct. 2020 12:04 |
+| 31 | Catalina Vidal | https://catalinavidal.github.io/ejercicio11/ | 26 oct. 2020 22:26 |
 
 - - - - - - - -
 

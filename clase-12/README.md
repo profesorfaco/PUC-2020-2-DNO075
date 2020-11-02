@@ -66,7 +66,7 @@ También corresponde recolectar antecedentes de distintas infografías digitales
 | 9 | Karla Mancini, David Sánchez, Joaquín Olmedo y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/personas-de-sacrificio/blob/main/README.md#personas-de-sacrificio) |
 | 10 | Silvio Arribas, Francisco Alvarez de la Rivera y Rosario Olivares | [Glaciares](https://github.com/Glaciares-en-peligro/Glaciares/blob/main/README.md#investigaci-n) |
 
-Algunos vínculos útiles para resolver el ejercicio con GitHub
+Para avanzar en el README, como organización, algunos vínculos que podrían ayudarles:
 
 - https://docs.github.com/es/enterprise-server@2.20/admin/user-management/creating-organizations
 

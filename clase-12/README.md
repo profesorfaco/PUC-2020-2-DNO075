@@ -59,7 +59,7 @@ También corresponde recolectar antecedentes de distintas infografías digitales
 | 2 | Valy Cumming, Antonia Lasen y Pilar Saavedra | [Anti-motos](https://github.com/anti-motos/clase-1/blob/main/README.md#clase-1-primera-aproximaci%C3%B3n-al-tema) | x | 
 | 3 | Rosario Acha, Olga F. Vio y Javiera González | [Extra-activista](https://github.com/extra-activista/avance-01/blob/main/README.md#avance-01) | x |
 | 4 | Carolina Aranibar, Muriel Muñoz e Isidora Ravera | [Paltorcas](https://github.com/Paltorcas/nov2/blob/gh-pages/README.md#conflicto-socioambiental-petorca-y-crisis-h%C3%ADdrica-non-potable_water) | x |
-| 5 | Sofía Lira,	Catalina Vidal y Josefina Stückrath | [electricass](https://github.com/electricass/noviembre-2/blob/main/README.md#marco-te%C3%B3rico-pol%C3%ADtica-energ%C3%A9tica-de-chile-el-caso-de-la-hidroel%C3%A9ctrica-alto-maipo) | X |
+| 5 | Sofía Lira,	Catalina Vidal y Josefina Stückrath | [electricass](https://github.com/electricass/noviembre-2/blob/main/README.md#marco-te%C3%B3rico-pol%C3%ADtica-energ%C3%A9tica-de-chile-el-caso-de-la-hidroel%C3%A9ctrica-alto-maipo) | x |
 | 6 | Antonia Adell, Ignacio Agurto y Fernando Gajardo | [Litidos](https://github.com/Litidos/readme/blob/main/README.md#litidos---infograf%C3%ADa-digital) | x |
 | 7 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [playaplastica](https://github.com/playaplastica/nov02/blob/main/README.md#regulaci%C3%B3n-del-uso-de-pl%C3%A1sticos-isla-de-pl%C3%A1sticos-en-rapa-nui) | ✓ |
 | 8 | Debi Codriansky,	 María Jose	Coudeu y Francisco Pezoa | [opteros](https://github.com/opteros/000/blob/gh-pages/README.md#polinizadores-nativos) | ✓ |

@@ -22,11 +22,23 @@ Adaptaremos tal organización a nuestro trabajo final, ajustando los números.
 
 El tema del curso es **Conflictos socioambientales y contenidos constitucionales**. 
 
-Imaginen un único sitio web que contendrá 10 infografías. Cada infografía apuntará a un tema específico que podría informa a la ciudadanía sobre un conflicto socioambiental determinado. Esta información podría animar las discusiones sobre lo que debe ser protegido, explícitamente, por una nueva constitución. 
+Imaginen un único sitio web que contendrá 10 infografías. **Cada infografía apuntará a un tema específico que podría informa a la ciudadanía sobre un conflicto socioambiental determinado**. Esta información podría animar las discusiones sobre lo que debe ser protegido, explícitamente, por una nueva constitución. 
 
-Para la definición del tema específico de cada grupo, corresponde buscar información que vaya de lo general a lo específico, y recolectar antecedentes de distintas infografías digitales desde las que se podría hacer ingeniería inversa (para resolver los describir-mostrar que necesitaría su trabajo).  
+Para la definición del tema específico de la infografía digital de cada grupo, corresponde buscar información que vaya de lo general a lo específico. Algunas referencias que podrían ser útiles: 
 
-Se recomienda buscar infografías digitales en:
+- Siete conflictos socioambientales que tensionan la "agenda verde" del gobierno en el año de la COP25 → https://www.latercera.com/nacional/noticia/siete-conflictos-socioambientales-ponen-jaque-la-agenda-verde-del-gobierno-ano-la-cop25/686013/
+
+- Mapa de conflictos socioambientales en Chile → https://mapaconflictos.indh.cl/ + https://bibliotecadigital.indh.cl/bitstream/handle/123456789/478/mapa-conflictos.pdf
+
+- Chile: la crisis social también es medioambiental → https://www.dw.com/es/chile-la-crisis-social-tambi%C3%A9n-es-medioambiental/a-51028769
+
+- Prensa alemana se pregunta: tras el plebiscito, ¿está Chile más cerca de tener una Constitución Ecológica? → https://www.elmostrador.cl/noticias/sin-editar/2020/10/31/prensa-alemana-se-pregunta-tras-el-plebiscito-esta-chile-mas-cerca-de-tener-una-constitucion-ecologica/
+
+- Diálogos regionales para un proceso constituyente: “Medio ambiente, minería y recursos hídricos” → https://youtu.be/TBdjJj5Lfg8
+
+- Webinar: “Medio ambiente y Debate Constitucional” → https://youtu.be/e5NpjZaVUs8
+
+También corresponde recolectar antecedentes de distintas infografías digitales desde las que se podría hacer ingeniería inversa (para resolver sus describir-mostrar). Se recomienda buscar infografías digitales en:
 
 - Reuters Graphics - https://graphics.reuters.com/
 

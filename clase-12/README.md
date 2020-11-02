@@ -64,7 +64,7 @@ También corresponde recolectar antecedentes de distintas infografías digitales
 | 7 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [playaplastica](https://github.com/playaplastica/nov02/blob/main/README.md#regulaci%C3%B3n-del-uso-de-pl%C3%A1sticos-isla-de-pl%C3%A1sticos-en-rapa-nui) | ✓ |
 | 8 | Debi Codriansky,	 María Jose	Coudeu y Francisco Pezoa | [opteros](https://github.com/opteros/000/blob/gh-pages/README.md#polinizadores-nativos) | ✓ |
 | 9 | Karla Mancini, David Sánchez, Joaquín Olmedo y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/personas-de-sacrificio/blob/main/README.md#personas-de-sacrificio) | x |
-| 10 | Silvio Arribas, Francisco Alvarez de la Rivera y Rosario Olivares | [Glaciares](https://github.com/Glaciares-en-peligro/Glaciares/blob/main/README.md#investigaci-n) | x |
+| 10 | Silvio Arribas, Francisco Alvarez de la Rivera y Rosario Olivares | [Glaciares](https://github.com/Glaciares-en-peligro/Glaciares/blob/main/README.md#investigaci-n) | ✓ |
 
 Para avanzar en el README, como organización, algunos vínculos que podrían ayudarles:
 

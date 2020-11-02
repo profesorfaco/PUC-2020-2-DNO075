@@ -50,7 +50,7 @@ También corresponde recolectar antecedentes de distintas infografías digitales
 
 - - - - - - - - 
 
-#### Ejercicio de hoy
+#### Avances
 
 
 | Grupo | Integrantes |  README    |

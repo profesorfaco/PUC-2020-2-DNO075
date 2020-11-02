@@ -50,6 +50,26 @@ También corresponde recolectar antecedentes de distintas infografías digitales
 
 - - - - - - - - 
 
+#### Ejercicio de hoy
+
+Algunos vínculos útiles para resolver el ejercicio con GitHub
+
+- https://docs.github.com/es/enterprise-server@2.20/admin/user-management/creating-organizations
+
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+
+| Grupo | Temática | URL    |
+|:------|:---------|:-------|
+| … | … | … |
+| … | … | … |
+| … | … | … |
+| … | … | … |
+
+- - - - - - - -
+
 Las siguientes sesiones de dividirán en dos partes. 
 
 - Una primera etapa para compartir bocetos y avances en la investigación.

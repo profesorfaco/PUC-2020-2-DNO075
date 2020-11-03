@@ -55,18 +55,18 @@ También corresponde recolectar antecedentes de distintas infografías digitales
 
 | Grupo | Integrantes |  README    | Issue |
 |:-----:|:---------|:-------|:----:|
-| 1 | Dessire Cifuentes,  Isabella Cabrera y	Karina Melani | [KugaGraphic](https://github.com/KugaGraphic/Avance-nov2/blob/gh-pages/README.md#avance-de-trabajo-de-infograf%C3%ADa-animales-y-delimitaci%C3%B3n-urbana) | ✓ | 
-| 2 | Valy Cumming, Antonia Lasen y Pilar Saavedra | [Anti-motos](https://github.com/anti-motos/clase-1/blob/main/README.md#clase-1-primera-aproximaci%C3%B3n-al-tema) | x | 
-| 3 | Rosario Acha, Olga F. Vio y Javiera González | [Extra-activista](https://github.com/extra-activista/avance-01/blob/main/README.md#avance-01) | x |
+| 1 | Rosario Acha, Olga F. Vio y Javiera González | [Extra-activista](https://github.com/extra-activista/avance-01/blob/main/README.md#avance-01) | x |
+| 2 | Antonia Adell, Ignacio Agurto y Fernando Gajardo | [Litidos](https://github.com/Litidos/readme/blob/main/README.md#litidos---infograf%C3%ADa-digital) | x |
+| 3 | Francisco Alvarez de la Rivera, Silvio Arribas y Rosario Olivares | [Glaciares](https://github.com/Glaciares-en-peligro/Glaciares/blob/main/README.md#investigaci-n) | ✓ |
 | 4 | Carolina Aranibar, Muriel Muñoz e Isidora Ravera | [Paltorcas](https://github.com/Paltorcas/nov2/blob/gh-pages/README.md#conflicto-socioambiental-petorca-y-crisis-h%C3%ADdrica-non-potable_water) | x |
-| 5 | Sofía Lira,	Catalina Vidal y Josefina Stückrath | [electricass](https://github.com/electricass/noviembre-2/blob/main/README.md#marco-te%C3%B3rico-pol%C3%ADtica-energ%C3%A9tica-de-chile-el-caso-de-la-hidroel%C3%A9ctrica-alto-maipo) | x |
-| 6 | Antonia Adell, Ignacio Agurto y Fernando Gajardo | [Litidos](https://github.com/Litidos/readme/blob/main/README.md#litidos---infograf%C3%ADa-digital) | x |
-| 7 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [playaplastica](https://github.com/playaplastica/nov02/blob/main/README.md#regulaci%C3%B3n-del-uso-de-pl%C3%A1sticos-isla-de-pl%C3%A1sticos-en-rapa-nui) | ✓ |
-| 8 | Debi Codriansky,	 María Jose	Coudeu y Francisco Pezoa | [opteros](https://github.com/opteros/000/blob/gh-pages/README.md#polinizadores-nativos) | ✓ |
-| 9 | Karla Mancini, David Sánchez, Joaquín Olmedo y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/personas-de-sacrificio/blob/main/README.md#personas-de-sacrificio) | x |
-| 10 | Silvio Arribas, Francisco Alvarez de la Rivera y Rosario Olivares | [Glaciares](https://github.com/Glaciares-en-peligro/Glaciares/blob/main/README.md#investigaci-n) | ✓ |
+| 5 | Isabella Cabrera, Dessire Cifuentes y	Karina Melani | [KugaGraphic](https://github.com/KugaGraphic/Avance-nov2/blob/gh-pages/README.md#avance-de-trabajo-de-infograf%C3%ADa-animales-y-delimitaci%C3%B3n-urbana) | ✓ | 
+| 6 | Debi Codriansky, María Jose Coudeu y Francisco Pezoa | [opteros](https://github.com/opteros/000/blob/gh-pages/README.md#polinizadores-nativos) | ✓ |
+| 7 | Valy Cumming, Antonia Lasen y Pilar Saavedra | [Anti-motos](https://github.com/anti-motos/clase-1/blob/main/README.md#clase-1-primera-aproximaci%C3%B3n-al-tema) | x | 
+| 8 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [playaplastica](https://github.com/playaplastica/nov02/blob/main/README.md#regulaci%C3%B3n-del-uso-de-pl%C3%A1sticos-isla-de-pl%C3%A1sticos-en-rapa-nui) | ✓ |
+| 9 | Sofía Lira, Josefina Stückrath y Catalina Vidal | [electricass](https://github.com/electricass/noviembre-2/blob/main/README.md#marco-te%C3%B3rico-pol%C3%ADtica-energ%C3%A9tica-de-chile-el-caso-de-la-hidroel%C3%A9ctrica-alto-maipo) | x |
+| 9 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/personas-de-sacrificio/blob/main/README.md#personas-de-sacrificio) | x |
 
-Para avanzar en el README, como organización, algunos vínculos que podrían ayudarles:
+Para seguir avanzando en el README:
 
 - https://docs.github.com/es/enterprise-server@2.20/admin/user-management/creating-organizations
 

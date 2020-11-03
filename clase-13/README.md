@@ -17,7 +17,7 @@ Hoy continuamos con la tercera y última etapa del optativo, con los equipos y t
 | 9 | Sofía Lira, Josefina Stückrath y Catalina Vidal | [electricass](https://github.com/electricass/) |
 | 9 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/) |
 
-Ya definido el [tema a desarrollar](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-12), corresponde profundizar en la investigación.
+Habiendo definido el [tema a desarrollar](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-12#definici%C3%B3n-del-tema-a-desarrollar), corresponde profundizar en la investigación.
 
 
 - - - - - - - - - - - - -

@@ -15,7 +15,7 @@ Hoy continuamos con la tercera y última etapa del optativo, con los equipos y t
 | 7 | Valy Cumming, Antonia Lasen y Pilar Saavedra | [Anti-motos](https://github.com/anti-motos/) |
 | 8 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [playaplastica](https://github.com/playaplastica/) |
 | 9 | Sofía Lira, Josefina Stückrath y Catalina Vidal | [electricass](https://github.com/electricass/) |
-| 9 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/) |
+| 10 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/) |
 
 Habiendo definido el [tema a desarrollar](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-12#definici%C3%B3n-del-tema-a-desarrollar), corresponde profundizar en la investigación.
 

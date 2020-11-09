@@ -64,7 +64,7 @@ También corresponde recolectar antecedentes de distintas infografías digitales
 | 7 | Valy Cumming, Antonia Lasen y Pilar Saavedra | [Anti-motos](https://github.com/anti-motos/clase-1/blob/main/README.md#clase-1-primera-aproximaci%C3%B3n-al-tema) | x | 
 | 8 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [playaplastica](https://github.com/playaplastica/nov02/blob/main/README.md#regulaci%C3%B3n-del-uso-de-pl%C3%A1sticos-isla-de-pl%C3%A1sticos-en-rapa-nui) | [✓](https://github.com/playaplastica/nov02/issues/1) |
 | 9 | Sofía Lira, Josefina Stückrath y Catalina Vidal | [electricass](https://github.com/electricass/noviembre-2/blob/main/README.md#marco-te%C3%B3rico-pol%C3%ADtica-energ%C3%A9tica-de-chile-el-caso-de-la-hidroel%C3%A9ctrica-alto-maipo) | x |
-| 9 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/personas-de-sacrificio/blob/main/README.md#personas-de-sacrificio) | x |
+| 10 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/personas-de-sacrificio/blob/main/README.md#personas-de-sacrificio) | x |
 
 Para seguir avanzando en el README:
 

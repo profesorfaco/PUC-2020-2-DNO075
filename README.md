@@ -34,7 +34,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 12 → 02/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-12) → Definición de tema a desarrollar. ✓
 
-Clase 13 → 09/11/2020 → Investigación y observación.
+[Clase 13 → 09/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-13) → Investigación y observación.
 
 Clase 14 → 16/11/2020 → Planificación del trabajo a través del boceto.
 

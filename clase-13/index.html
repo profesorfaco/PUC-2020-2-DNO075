@@ -1,11 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
     <head>
-        <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <title>Conflictos socioambientales</title>
-        <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;500;800&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;1,300&display=swap" rel="stylesheet" />
@@ -14,24 +12,32 @@
                 font-family: "Public Sans", sans-serif;
                 font-weight: 300;
             }
+            
+            :hover{
+                transition: color ease .25s;
+            }
+            
+            a{color:#ddd;} 
 
-            a{color:#ddd;} a:hover{color:#fff;}
+            a:hover{color:#fff;}
+            
+            footer a{color:#6C757C;} 
 
+            footer a:hover{color:#aaa;}
+            
             h1 {
+                color: white;
                 font-weight: 800;
                 font-size:2.75rem;
-                color:#fff;
                 line-height: 1.1;
                 margin:2rem 0;
                 letter-spacing: 0.05rem;
             }
-
+            
             @media (min-width: 768px) { 
-
                 h1 {font-size:3.75rem;}
-
+                div.card-body{min-height: 12rem;}
             }
-
 
             h2 {
                 font-weight: 800;
@@ -40,13 +46,10 @@
                 color:#eee;
             }
 
-            h2,
-            h3,
-            h4,
-            h5,
-            h6 {
+            h2, h3, h4, h5, h6 {
                 font-weight: 500;
             }
+
             blockquote {
                 font-size: 1.42rem;
                 font-style: italic;
@@ -54,12 +57,19 @@
                 font-family: "Merriweather", serif;
                 font-weight: 300;
             }
+
             blockquote cite {
                 font-weight: 400;
                 font-size: 78%;
                 font-style: normal;
                 text-transform: uppercase;
                 letter-spacing: 0.1rem;
+            }
+
+            footer{
+                border-top:1px solid #25292e;
+                background:#292e33;
+                margin-bottom: -1rem;
             }
         </style>
     </head>
@@ -76,136 +86,184 @@
                 <!--grupo 1-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-01.jpg" class="card-img-top" alt="..." />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-01.jpg" class="card-img-top" alt="cobre" />
                         <div class="card-body">
                             <h5 class="card-title">Empresas extractivistas de alto impacto ambiental</h5>
                             <p class="card-text">Rosario Acha, Olga F. Vio y Javiera González</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/extra-activista/avance-02/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avance</a>
-                        </div>                        
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/extra-activista/avance-01/blob/main/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/extra-activista/avance-02/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
+                        </div> 
                     </div>
                 </div>
                 <!--grupo 2-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-02.jpg" class="card-img-top" alt="..." />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-02.jpg" class="card-img-top" alt="litio" />
                         <div class="card-body">
                             <h5 class="card-title">Litio</h5>
                             <p class="card-text">Antonia Adell, Ignacio Agurto y Fernando Gajardo</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/Litidos/9-nov/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avance</a>
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/Litidos/readme/blob/main/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/Litidos/9-nov/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <!--grupo 3-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-03.jpg" class="card-img-top" alt="..." />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-03.jpg" class="card-img-top" alt="glaciar" />
                         <div class="card-body">
                             <h5 class="card-title">Protección Glaciares en Chile: Ley, Lobby y Constitución</h5>
                             <p class="card-text">Francisco Álvarez de la Rivera, Silvio Arribas y Rosario Olivares</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/Glaciares-en-peligro/Glaciares-Parte-2/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avances</a>
-                        </div>                             
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/Glaciares-en-peligro/Glaciares/blob/main/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/Glaciares-en-peligro/Glaciares-Parte-2/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
+                        </div>                          
                     </div>
                 </div>
                 <!--grupo 4-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-04.jpg" class="card-img-top" alt="foto en lecho seco" />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-04.jpg" class="card-img-top" alt="sequía" />
                         <div class="card-body">
                             <h5 class="card-title">La sequía y el saqueo: El caso de Petorca</h5>
                             <p class="card-text">Carolina Aranibar, Muriel Muñoz e Isidora Ravera</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/Paltorcas/nov09/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avances</a>
-                        </div>                             
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/Paltorcas/nov2/blob/gh-pages/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/Paltorcas/nov09/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!--grupo 5-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-05.jpg" class="card-img-top" alt="pumas cachorros" />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-05.jpg" class="card-img-top" alt="fauna" />
                         <div class="card-body">
                             <h5 class="card-title">Fauna nativa y delimitación urbana</h5>
                             <p class="card-text">Isabella Cabrera, Dessire Cifuentes y Karina Melani</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/KugaGraphic/Avance-nov9/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avances</a>
-                        </div>                             
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/KugaGraphic/Avance-nov2/blob/gh-pages/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/KugaGraphic/Avance-nov9/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
+                        </div> 
                     </div>
                 </div>
                 <!--grupo 6-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-06.jpg" class="card-img-top" alt="..." />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-06.jpg" class="card-img-top" alt="pesticidas" />
                         <div class="card-body">
                             <h5 class="card-title">La dañina presencia de los pesticidas en Chile</h5>
                             <p class="card-text">Debi Codriansky, María Jose Coudeu y Francisco Pezoa</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/opteros/pesticida_boceto/blob/gh-pages/README.md" class="btn btn-sm btn-success" target="blank">Ver avances</a>
-                        </div>                             
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/opteros/pesticidas/blob/gh-pages/README.md" target="_blank">Update</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/opteros/pesticida_boceto/blob/gh-pages/README.md" target="_blank">09-11</a>
+                            </div>
+                        </div> 
                     </div>
                 </div>
                 <!--grupo 7-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-07.jpg" class="card-img-top" alt="..." />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-07.jpg" class="card-img-top" alt="Dakar" />
                         <div class="card-body">
-                            <h5 class="card-title">El impacto del Dákar en el patrimonio material del desierto de Atacama</h5>
+                            <h5 class="card-title">El impacto del Dakar en el patrimonio material del desierto de Atacama</h5>
                             <p class="card-text">Valy Cumming, Antonia Lasen y Pilar Saavedra</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/anti-motos/clase-2/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avances</a>
-                        </div>  
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/anti-motos/clase-1/blob/main/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/anti-motos/clase-2/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!--grupo 8-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-08.jpg" class="card-img-top" alt="..." />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-08.jpg" class="card-img-top" alt="microplástico" />
                         <div class="card-body">
                             <h5 class="card-title">El plástico en el mar de Chile</h5>
                             <p class="card-text">Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/playaplastica/nov09/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avances</a>
-                        </div>                            
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/playaplastica/nov02/blob/main/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/playaplastica/nov09/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
+                        </div>                                                   
                     </div>
                 </div>
                 <!--grupo 9-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-09.jpg" class="card-img-top" alt="..." />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-09.jpg" class="card-img-top" alt="altomaipo" />
                         <div class="card-body">
-                            <h5 class="card-title">Proyecto Alto Maipo</h5>
+                            <h5 class="card-title">Política energética de Chile: El caso de la hidroeléctrica Alto Maipo</h5>
                             <p class="card-text">Sofía Lira, Josefina Stückrath y Catalina Vidal</p>
-                        </div>         
-                        <div class="card-footer">
-                            <a href="https://github.com/electricass/noviembre-9/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avances</a>
                         </div>
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/electricass/noviembre-2/blob/main/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/electricass/noviembre-9/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
+                        </div> 
                     </div>
                 </div>
-
                 <!--grupo 10-->
                 <div class="col-10 col-sm-4 mb-4">
                     <div class="card text-white bg-dark shadow-sm">
-                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-10.jpg" class="card-img-top" alt="..." />
+                        <img src="https://raw.githubusercontent.com/profesorfaco/dno075-2020/gh-pages/clase-13/img/grupo-10.jpg" class="card-img-top" alt="sacrificio" />
                         <div class="card-body">
                             <h5 class="card-title">Personas de sacrificio</h5>
                             <p class="card-text">Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="https://github.com/Personas-de-sacrificio/clas-2/blob/main/README.md" class="btn btn-sm btn-success" target="blank">Ver avances</a>
+                        <div class="card-footer d-flex justify-content-between align-items-center">
+                            <small class="text-muted">Avance en clases</small>
+                            <div class="btn-group">
+                                <a class="btn btn-sm btn-outline-secondary" href="https://github.com/Personas-de-sacrificio/personas-de-sacrificio/blob/main/README.md" target="_blank">02-11</a>
+                                <a class="btn btn-sm btn-outline-warning" href="https://github.com/Personas-de-sacrificio/clas-2/blob/main/README.md" target="_blank">09-11</a>
+                            </div>
                         </div> 
                     </div>
-                </div>
+                </div>                
             </div>
         </div>
+        <footer>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-10 col-sm-9 pt-3 pb-2 small">
+                        <p class="d-flex justify-content-between align-items-center"><a href="https://github.com/profesorfaco/dno075-2020/#infograf%C3%ADa-digital-v1" target="_blank">Infografía Digital</a> <a href="https://diseno.uc.cl/" target="_blank">Diseño UC</a></p>
+                    </div>
+                </div> 
+            </div>           
+        </footer>
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
     </body>

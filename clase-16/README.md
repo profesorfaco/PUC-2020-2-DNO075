@@ -2,7 +2,28 @@
 
 ### Clase 16 → Lunes 30 de noviembre, 2020
 
-Hoy continuamos con la tercera y última etapa del optativo, con los equipos y temas específicos ya definidos:
+En esta clase, de producción, pueden aprovechar los *snippets* incluidos en esta carpeta de repositorio: 
+
+> *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
+
+Con estos *snippets* podrían resolver: 
+
+- [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/organizacion.html)
+- [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/encabezado.html)
+- [Varias imágenes de fondo de la página completa](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/imagenes_de_fondo.html)
+- Agregar elementos mediante jQuery
+- Navegación por tabs
+- Scroll activando o desactivando partes de un SVG ubicado en un artículo
+
+Estos *snippets* suponen el uso de Bootstrap, herramienta que hemos utilizado desde la primera clase del OPR; para resolver dudas respecto de Bootstrap, conviene consultar los ejercicios desarrollados en lsa clases pasadas y tener a la mano vínculos de **consulta rápida**:
+
+- **https://hackerthemes.com/bootstrap-cheatsheet/**
+- **https://getbootstrap.com/docs/4.5/examples/grid/**
+- https://getbootstrap.com/docs/4.5/layout/
+- https://getbootstrap.com/docs/4.5/components/
+- https://getbootstrap.com/docs/4.5/utilities/
+
+- - - - - - - - - - - - 
 
 | Grupo | Integrantes | GitHub Grupal    | 
 |:-----:|:---------|:-------|
@@ -18,15 +39,3 @@ Hoy continuamos con la tercera y última etapa del optativo, con los equipos y t
 | 10 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/) |
 
 
-En esta clase, de producción, pueden aprovechar los *snippets* incluidos en esta carpeta de repositorio: 
-
-> Snippet es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad - https://es.wikipedia.org/wiki/Snippet
-
-Con estos *snippets* podrían resolver: 
-
-- [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/organizacion.html)
-- [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/encabezado.html)
-- [Varias imágenes de fondo de la página completa](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/imagenes_de_fondo.html)
-- Agregar elementos mediante jQuery
-- Navegación por tabs
-- Scroll activando o desactivando partes de un SVG ubicado en un artículo

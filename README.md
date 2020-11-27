@@ -36,9 +36,9 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 13 → 09/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-13) → Investigación y observación. ✓
 
-[Clase 14 → 16/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-14) → Planificación del trabajo a través del boceto.
+[Clase 14 → 16/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-14) → Planificación del trabajo a través del boceto. ✓
 
-[Clase 15 → 23/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-15) → Del boceto al prototipo.
+[Clase 15 → 23/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-15) → Del boceto al prototipo. ✓
 
 [Clase 16 → 30/11/2020](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-16) → Procesos de producción de infografía para soporte digital.
 

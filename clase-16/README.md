@@ -22,10 +22,11 @@ En esta clase, de producción, pueden aprovechar los *snippets* incluidos en est
 
 > Snippet es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad - https://es.wikipedia.org/wiki/Snippet
 
-Con esto podrían resolver: 
+Con estos *snippets* podrían resolver: 
 
-- Organización para simplificar la construcción
+- [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/organizacion.html)
 - [Imagen de ancho completo en la cabecera](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/encabezado.html)
 - Imágenes distribuidas en toda la página, interviniendo el fondo
-- Scroll activando o desactivando partes de un SVG que se encuentre lejos de la parte superior
+- Agregar elementos mediante jQuery
 - Navegación por tabs
+- Scroll activando o desactivando partes de un SVG ubicado en un artículo

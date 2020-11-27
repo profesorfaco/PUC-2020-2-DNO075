@@ -25,8 +25,7 @@ En esta clase, de producción, pueden aprovechar los *snippets* incluidos en est
 Con esto podrían resolver: 
 
 - Organización para simplificar la construcción
-- Uso de imagen de ancho completo
-- Título sobre imagen de fondo en el encabezado
+- [Imagen de ancho completo en la cabecera](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/encabezado.html)
 - Imágenes distribuidas en toda la página, interviniendo el fondo
 - Scroll activando o desactivando partes de un SVG que se encuentre lejos de la parte superior
 - Navegación por tabs

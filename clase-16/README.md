@@ -43,13 +43,13 @@ Como todo el curso está utilizando [Bootstrap](https://getbootstrap.com/), tamb
 
 - - - - - - - - - - - 
 
-**Recuerden que deben tomar distancia de una [landing page](https://startbootstrap.com/themes/landing-pages) o un papelógrafo digitalizado**. A buena distancia de aquello, podrían acercarse a lo esperado:
+**Recuerden que deben tomar distancia de una [landing page](https://startbootstrap.com/themes/landing-pages) o un papelógrafo digitalizado**. Tomando distancia de aquello, podrían **acercarse a lo esperado: Infografías digitales** que, a primera vista, podrían confundirse con alguna en:
 
-Infografías digitales que, a primera vista, podrían confundirse con alguna en
 - https://www.scmp.com/infographic/
 - https://graphics.reuters.com/
 
-Mientras más se acerquen a tales infografías, más probabilidades tendrán de 
+Mientras más se acerquen a tales infografías, más probabilidades tendrán de:
+
 - aportar al debate constitucional
 - ganar un [Malofiej](https://www.malofiejgraphics.com/awards#categories)
 

@@ -2,7 +2,7 @@
 
 ### Clase 16 → Lunes 30 de noviembre, 2020
 
-En esta clase, de producción de infografía para soporte digital, pueden aprovechar los *snippets* incluidos en esta carpeta de repositorio: 
+En la producción de infografía para soporte digital, pueden aprovechar los *snippets* incluidos en esta carpeta de repositorio: 
 
 > *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
 

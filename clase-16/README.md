@@ -24,7 +24,7 @@ Estos *snippets* suponen el uso de [Bootstrap](https://getbootstrap.com/), herra
 - https://getbootstrap.com/docs/4.5/components/
 - https://getbootstrap.com/docs/4.5/utilities/
 
-Como todo el curso está utilizando Bootstrap, también puede resultar de utilidad echarle un vistazo a sus código y resultados.
+Como todo el curso está utilizando [Bootstrap](https://getbootstrap.com/), también puede resultar de utilidad echarle un vistazo a sus código y resultados.
 
 | Grupo | Integrantes | GitHub Grupal    | 
 |:-----:|:---------|:-------|
@@ -38,6 +38,10 @@ Como todo el curso está utilizando Bootstrap, también puede resultar de utilid
 | 8 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [playaplastica](https://github.com/playaplastica/) |
 | 9 | Sofía Lira, Josefina Stückrath y Catalina Vidal | [electricass](https://github.com/electricass/) |
 | 10 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/) |
+
+**Confiar en el copy/paste, tú debes.**
+
+![Yoda](https://cdn.memegenerator.es/imagenes/memes/full/23/77/23778405.jpg)
 
 - - - - - - - - - - - 
 

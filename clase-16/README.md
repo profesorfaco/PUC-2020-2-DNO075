@@ -24,9 +24,7 @@ Estos *snippets* suponen el uso de Bootstrap, herramienta que hemos utilizado de
 - https://getbootstrap.com/docs/4.5/components/
 - https://getbootstrap.com/docs/4.5/utilities/
 
-- - - - - - - - - - - - 
-
-Todo el curso está utilizando Bootstrap, por lo que también puede resultar de utilidad echarle un vistazo a sus código y resultados.
+Como todo el curso está utilizando Bootstrap, también puede resultar de utilidad echarle un vistazo a sus código y resultados.
 
 | Grupo | Integrantes | GitHub Grupal    | 
 |:-----:|:---------|:-------|
@@ -43,7 +41,7 @@ Todo el curso está utilizando Bootstrap, por lo que también puede resultar de 
 
 - - - - - - - - - - - 
 
-Recuerden que deben tomar distancia de una [landing page](https://startbootstrap.com/themes/landing-pages) o un papelógrafo digitalizado. A buena distancia de aquello, podrían acercarse a lo esperado:
+**Recuerden que deben tomar distancia de una [landing page](https://startbootstrap.com/themes/landing-pages) o un papelógrafo digitalizado**. A buena distancia de aquello, podrían acercarse a lo esperado:
 
 Infografías digitales que, a primera vista, podrían confundirse con alguna en
 - https://www.scmp.com/infographic/

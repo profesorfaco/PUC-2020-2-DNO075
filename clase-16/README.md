@@ -14,7 +14,7 @@ Con los *snippets* en esta carpeta de repositorio, podrían resolver:
 - [Agregar o sacar clases en un artículo a la vista, mediante scroll, con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/viendo_un_article.html)
 - [Intercambiar paneles](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/intercambiar_paneles.html)
 - [Agregar elementos con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/agregar_elementos.html)
-- [Gráfico tipo donut simple, con SVG](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/grafico_donut_simple.html)
+- [Gráfico tipo donut, con SVG](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/grafico_donut_simple.html)
 
 Estos *snippets* suponen el uso de [Bootstrap](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del OPR. 
 

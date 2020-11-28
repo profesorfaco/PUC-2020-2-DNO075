@@ -2,11 +2,11 @@
 
 ### Clase 16 → Lunes 30 de noviembre, 2020
 
-En esta clase, de producción, pueden aprovechar los *snippets* incluidos en esta carpeta de repositorio: 
+En esta clase, de producción de infografía para soporte digital, pueden aprovechar los *snippets* incluidos en esta carpeta de repositorio: 
 
 > *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
 
-Con estos *snippets* podrían resolver: 
+Con los *snippets* en esta carpeta de repositorio, podrían resolver: 
 
 - [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/organizacion.html)
 - [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/encabezado.html)
@@ -15,7 +15,9 @@ Con estos *snippets* podrían resolver:
 - [agregar o sacar clases en una sección a la vista, mediante scroll, con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/viendo_un_article.html)
 - Navegación por tabs
 
-Estos *snippets* suponen el uso de [Bootstrap](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del OPR; para resolver dudas respecto de [Bootstrap](https://getbootstrap.com/), conviene consultar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
+Estos *snippets* suponen el uso de [Bootstrap](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del OPR. 
+
+Para resolver dudas respecto de [Bootstrap](https://getbootstrap.com/), conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
 
 - **[Bootstrap 4 grid examples](https://getbootstrap.com/docs/4.5/examples/grid/)**
 - **[Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)**

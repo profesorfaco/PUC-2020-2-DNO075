@@ -11,8 +11,8 @@ Con estos *snippets* podrían resolver:
 - [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/organizacion.html)
 - [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/encabezado.html)
 - [Varias imágenes de fondo de la página completa](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/imagenes_de_fondo.html)
-- [Agregar elementos mediante jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/agregar_elementos.html)
-- [agregar o sacar clases en una sección a la vista, con Scroll](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/viendo_un_article.html)
+- [Agregar elementos con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/agregar_elementos.html)
+- [agregar o sacar clases en una sección a la vista, mediante scroll, con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/viendo_un_article.html)
 - Navegación por tabs
 
 Estos *snippets* suponen el uso de Bootstrap, herramienta que hemos utilizado desde la primera clase del OPR; para resolver dudas respecto de Bootstrap, conviene consultar los ejercicios desarrollados en lsa clases pasadas y tener a la mano vínculos de **consulta rápida**:

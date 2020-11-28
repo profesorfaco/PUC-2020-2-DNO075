@@ -26,7 +26,7 @@ Para resolver dudas respecto de [Bootstrap](https://getbootstrap.com/), conviene
 - https://getbootstrap.com/docs/4.5/components/
 - https://getbootstrap.com/docs/4.5/utilities/
 
-Como todo el curso está utilizando [Bootstrap](https://getbootstrap.com/), también puede resultar de utilidad echarle un vistazo a los avances de otros grupos:
+Como todo el curso está utilizando [Bootstrap](https://getbootstrap.com/), también podría ayudarles echar un vistazo a los avances de otros grupos:
 
 | Grupo | Integrantes | GitHub Grupal    | 
 |:-----:|:---------|:-------|

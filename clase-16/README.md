@@ -11,7 +11,7 @@ Con estos *snippets* podrían resolver:
 - [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/organizacion.html)
 - [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/encabezado.html)
 - [Varias imágenes de fondo de la página completa](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/imagenes_de_fondo.html)
-- Agregar elementos mediante jQuery
+- [Agregar elementos mediante jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/agregar_elementos.html)
 - Navegación por tabs
 - Scroll activando o desactivando partes de un SVG ubicado en un artículo
 

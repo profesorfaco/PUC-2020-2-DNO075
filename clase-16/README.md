@@ -17,13 +17,16 @@ Con estos *snippets* podrían resolver:
 
 Estos *snippets* suponen el uso de Bootstrap, herramienta que hemos utilizado desde la primera clase del OPR; para resolver dudas respecto de Bootstrap, conviene consultar los ejercicios desarrollados en lsa clases pasadas y tener a la mano vínculos de **consulta rápida**:
 
-- **https://hackerthemes.com/bootstrap-cheatsheet/**
-- **https://getbootstrap.com/docs/4.5/examples/grid/**
+- **[Bootstrap 4 grid examples](https://getbootstrap.com/docs/4.5/examples/grid/)**
+- **[Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)**
+- **[Bootstrap 4 Vertical Center](https://medium.com/wdstack/bootstrap-4-vertical-center-1211448a2eff)**
 - https://getbootstrap.com/docs/4.5/layout/
 - https://getbootstrap.com/docs/4.5/components/
 - https://getbootstrap.com/docs/4.5/utilities/
 
 - - - - - - - - - - - - 
+
+Todo el curso está utilizando Bootstrap, por lo que también puede resultar de utilidad echarle un vistazo a sus código y resultados:
 
 | Grupo | Integrantes | GitHub Grupal    | 
 |:-----:|:---------|:-------|

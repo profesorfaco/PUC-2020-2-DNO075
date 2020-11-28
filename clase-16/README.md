@@ -26,7 +26,7 @@ Estos *snippets* suponen el uso de Bootstrap, herramienta que hemos utilizado de
 
 - - - - - - - - - - - - 
 
-Todo el curso está utilizando Bootstrap, por lo que también puede resultar de utilidad echarle un vistazo a sus código y resultados:
+Todo el curso está utilizando Bootstrap, por lo que también puede resultar de utilidad echarle un vistazo a sus código y resultados.
 
 | Grupo | Integrantes | GitHub Grupal    | 
 |:-----:|:---------|:-------|
@@ -41,4 +41,18 @@ Todo el curso está utilizando Bootstrap, por lo que también puede resultar de 
 | 9 | Sofía Lira, Josefina Stückrath y Catalina Vidal | [electricass](https://github.com/electricass/) |
 | 10 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/) |
 
+- - - - - - - - - - - 
 
+Recuerden que deben tomar distancia de una [landing page](https://startbootstrap.com/themes/landing-pages) o un papelógrafo digitalizado. A buena distancia de aquello, podrían acercarse a lo esperado:
+
+Infografías digitales que, a primera vista, podrían confundirse con alguna en
+- https://www.scmp.com/infographic/
+- https://graphics.reuters.com/
+
+Mientras más se acerquen a tales infografías, más probabilidades tendrán de 
+- aportar al debate constitucional
+- ganar un [Malofiej](https://www.malofiejgraphics.com/awards#categories)
+
+- - - - - - - - - - - 
+
+###### [ÚLTIMA CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-17)

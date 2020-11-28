@@ -40,7 +40,7 @@
                 if (datos[x].veda == false) {
                     $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><img src="img/' + datos[x].imagen + '" class="img-fluid veda"><p>' + datos[x].nombre + "</p></div>");
                 } else {
-                    $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><img src="img/' + datos[x].imagen + '" class="img-fluid"><p>' + datos[x].nombre + "</p></div>");
+                    $("#ejemplares").append('<div class="col-6 col-sm-4 col-md-3 mb-4"><img src="img/' + datos[x].imagen + '" class="img-fluid"><p class="text-danger">' + datos[x].nombre + "</p></div>");
                 }
             }
         </script>

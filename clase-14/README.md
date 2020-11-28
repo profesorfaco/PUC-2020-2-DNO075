@@ -21,6 +21,6 @@ Hoy corresponde profundizar en el bocetaje, considerando que queda muy poco marg
 
 Para avanzar en su bocetaje, se ofrecen los documentos en esta carpeta.
 
-
-
 - - - - - - - - - - - - -
+
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2020/tree/gh-pages/clase-15)

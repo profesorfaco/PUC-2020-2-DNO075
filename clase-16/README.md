@@ -10,10 +10,10 @@ Con los *snippets* en esta carpeta de repositorio, podrían resolver:
 
 - [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/organizacion.html)
 - [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/encabezado.html)
-- [Varias imágenes de fondo de la página completa](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/imagenes_de_fondo.html)
-- [Agregar elementos con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/agregar_elementos.html)
+- [Varias imágenes de fondo en la página completa](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/imagenes_de_fondo.html)
 - [Agregar o sacar clases en un artículo a la vista, mediante scroll, con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/viendo_un_article.html)
-- Navegación por tabs
+- [Intercambiar paneles](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/intercambiar_paneles.html)
+- [Agregar elementos con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/agregar_elementos.html)
 
 Estos *snippets* suponen el uso de [Bootstrap](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del OPR. 
 

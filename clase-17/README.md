@@ -35,7 +35,7 @@ Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre 
  
 - - - - - - - - - - - - - - - -
   
-**Este acuerdo aportará a la pauta de evaluación**:
+**Su acuerdo aportará a la pauta de evaluación de su entrega final**:
 
 | Criterio | 0.0   | 0.25  | 0.5   | 0.75  | 1.0   |
 |:---------|:-----:|:-----:|:-----:|:-----:|:-----:|

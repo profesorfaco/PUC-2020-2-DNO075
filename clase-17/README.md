@@ -24,7 +24,7 @@ Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-#### Exámenes
+#### Examen
 
 | Grupo                                          | Repositorio                           | GitHub Page                            |
 |:-----------------------------------------------|:--------------------------------------|:---------------------------------------|

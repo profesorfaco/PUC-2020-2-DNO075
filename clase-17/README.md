@@ -45,3 +45,5 @@ Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre 
 | **Formatos pertinentes**. Usa JPG, PNG o GIF para fotografías e ilustraciones complejas, sin incluir texto en ellas y [cuidado su peso](https://nbadiola.com/peso-ideal-fotografia-para-web/). Para lo demás aprovecha SVG, bibliotecas de JavaScript (ejs. https://leafletjs.com, https://www.chartjs.org) y otros recursos en línea (ej. https://www.google.com/maps) | | | | | |
 | **Estructura y código fuente**. Usa Bootstrap para implementar un diseño responsivo, con una redacción de código que resulta precisa y concisa. En la cabeza (`head`) cuida los metadatos. Y dentro del cuerpo (`body`), se reconocen claramente tres secciones, el encabezado (`header`), el contenido principal (`main`) y el pie de página (`footer`; y este se ajusta al modelo acordado por el curso) | | | | | |
 | **Evaluación grupal**. Cada estudiante podrá autoevaluarse y evaluar a sus compañeras/os de grupo según su aporte, en 5 niveles: malo, suficiente, bueno, muy bueno, sobresaliente | | | | | |
+
+Al puntaje que obtengan por la pauta se le suma 1.0 (punto base).

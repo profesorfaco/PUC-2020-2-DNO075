@@ -31,7 +31,7 @@ Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre 
 
 - *Footer* o pie de página:
   - minimal
-  - [fat](http://ui-patterns.com/patterns/FatFooter)
+  - [fat](http://ui-patterns.com/patterns/FatFooter/examples/74)
   
 **Este acuerdo aportará a la pauta de evaluación**:
 

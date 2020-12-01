@@ -10,9 +10,14 @@ Recomendamos que su trabajo esté en el repositorio mucho antes de tal hora y fe
 
 Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre ustedes)**:
 
-- Título (paraguas → asunto → caso || paraguas → caso → asunto)
+- Título:
+  - paraguas → asunto → caso
+  - paraguas → caso → asunto)
 
-- Autoría (nombres de estudiantes || nombres de organización)
+- Autoría: 
+  - nombres de estudiantes
+  - nombre de organización
 
-- *footer* o pie de página (minimal || [fat](http://ui-patterns.com/patterns/FatFooter))
-
+- *Footer* o pie de página:
+  - minimal
+  - [fat](http://ui-patterns.com/patterns/FatFooter)

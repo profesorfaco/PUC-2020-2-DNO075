@@ -12,7 +12,7 @@ Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre 
 
 - Título:
   - paraguas → asunto → caso
-  - paraguas → caso → asunto)
+  - paraguas → caso → asunto
 
 - Autoría: 
   - nombres de estudiantes

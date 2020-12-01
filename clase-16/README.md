@@ -24,7 +24,7 @@ Para resolver dudas respecto de [Bootstrap](https://getbootstrap.com/), conviene
 - **[Bootstrap 4 grid examples](https://getbootstrap.com/docs/4.5/examples/grid/)**
 - **[Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)**
 - **[Bootstrap 4 Vertical Center](https://medium.com/wdstack/bootstrap-4-vertical-center-1211448a2eff)**
-- **[Bootstrap Typography](- https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-typography.php)**
+- **[Bootstrap Typography](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-typography.php)**
 - https://getbootstrap.com/docs/4.5/layout/
 - https://getbootstrap.com/docs/4.5/components/
 - https://getbootstrap.com/docs/4.5/utilities/

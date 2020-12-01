@@ -32,16 +32,16 @@ Como todo el curso está utilizando [Bootstrap](https://getbootstrap.com/), tamb
 
 | Grupo | Integrantes | GitHub Grupal    | 
 |:-----:|:---------|:-------|
-| 1 | Rosario Acha, Olga F. Vio y Javiera González | [Extra-activista](https://github.com/extra-activista/) |
-| 2 | Antonia Adell, Ignacio Agurto y Fernando Gajardo | [Litidos](https://github.com/Litidos/) |
-| 3 | Francisco Álvarez de la Rivera, Silvio Arribas y Rosario Olivares | [Glaciares](https://github.com/Glaciares-en-peligro/) |
-| 4 | Carolina Aranibar, Muriel Muñoz e Isidora Ravera | [Paltorcas](https://github.com/Paltorcas/) |
-| 5 | Isabella Cabrera, Dessire Cifuentes y	Karina Melani | [KugaGraphic](https://github.com/KugaGraphic/) |
-| 6 | Debi Codriansky, María Jose Coudeu y Francisco Pezoa | [opteros](https://github.com/opteros/) |
-| 7 | Valy Cumming, Antonia Lasen y Pilar Saavedra | [Anti-motos](https://github.com/anti-motos/) |
-| 8 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [playaplastica](https://github.com/playaplastica/) |
-| 9 | Sofía Lira, Josefina Stückrath y Catalina Vidal | [electricass](https://github.com/electricass/) |
-| 10 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio](https://github.com/Personas-de-sacrificio/) |
+| 1 | Rosario Acha, Olga F. Vio y Javiera González | [Cuánto pesa la minería](https://extra-activista.github.io/avance-05/) |
+| 2 | Antonia Adell, Ignacio Agurto y Fernando Gajardo | [Litio en Chile: No todo lo que brilla es oro](https://litidos.github.io/30-nov/) |
+| 3 | Francisco Álvarez de la Rivera, Silvio Arribas y Rosario Olivares | SIN AVANCE |
+| 4 | Carolina Aranibar, Muriel Muñoz e Isidora Ravera | [Sequía y el negocio del agua en Petorca](https://paltorcas.github.io/pre-examen/) |
+| 5 | Isabella Cabrera, Dessire Cifuentes y	Karina Melani | [Pumas en la jungla de cemento: Invasión urbana en el hábitat de la fauna nativa Chilena](https://kugagraphic.github.io/Pruebas-Infograf-a-Examen/) |
+| 6 | Debi Codriansky, María Jose Coudeu y Francisco Pezoa | [La dañina presencia de los pesticidas en Chile](https://opteros.github.io/trabajandohtml02/) |
+| 7 | Valy Cumming, Antonia Lasen y Pilar Saavedra | [El impacto del Dákar en el patrimonio material del Desierto de Atacama](https://anti-motos.github.io/examen/) |
+| 8 | Daniela Quinteros, Fernanda Hernandez y Esperanza Ríos | [Crisis Pesquera en Chile: Sobreexplotación de recursos pesqueros](https://playaplastica.github.io/nov30/) |
+| 9 | Sofía Lira, Josefina Stückrath y Catalina Vidal | [Política energética en Chile: El caso Alto Maipo](https://electricass.github.io/html-actualizado/) |
+| 10 | Karla Mancini, Joaquín Olmedo, David Sánchez y Rosario Valdés | [Personas de sacrificio: Quintero y Punchuncaví](https://personas-de-sacrificio.github.io/html-primer-avance/) |
 
 - - - - - - - - - - - 
 

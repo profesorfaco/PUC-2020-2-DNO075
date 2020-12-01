@@ -30,7 +30,7 @@ Para resolver dudas respecto de [Bootstrap](https://getbootstrap.com/), conviene
 
 Como todo el curso está utilizando [Bootstrap](https://getbootstrap.com/), también podría ayudarles echar un vistazo a los avances de otros grupos:
 
-| Grupo | Integrantes | GitHub Grupal    | 
+| Grupo | Integrantes | Avance de implementación | 
 |:-----:|:---------|:-------|
 | 1 | Rosario Acha, Olga F. Vio y Javiera González | [Cuánto pesa la minería](https://extra-activista.github.io/avance-05/) |
 | 2 | Antonia Adell, Ignacio Agurto y Fernando Gajardo | [Litio en Chile: No todo lo que brilla es oro](https://litidos.github.io/30-nov/) |

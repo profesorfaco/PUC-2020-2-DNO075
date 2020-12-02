@@ -6,18 +6,18 @@
 
 Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos que su trabajo esté en el repositorio mucho antes de tal hora y fecha; si ustedes tienen en sus organizaciones un repositorio de nombre **examen**, el equipo docente tendrá claridad de que allí estará lo defitivo, y en ese lugar (y no otro) podría dejarles algún *issue* o *pull request*. 
 
-| Grupo                                          | Repositorio                           | GitHub Page                            |
-|:-----------------------------------------------|:--------------------------------------|:---------------------------------------|
-| [Anti-motos](https://github.com/anti-motos)    | https://github.com/anti-motos/examen  | https://anti-motos.github.io/examen/   |
-| [electricass](https://github.com/electricass)  | Pendiente                             | Pendiente                              |
-| [extra-activistas](https://github.com/extra-activista) | Pendiente                     | Pendiente                              |
-| [Glaciares-en-peligro](https://github.com/Glaciares-en-peligro) | Pendiente            | Pendiente                              | 
-| [Kūgā](https://github.com/KugaGraphic)         | Pendiente                             | Pendiente                              |
-| [Litidos](https://github.com/Litidos)          | Pendiente                             | Pendiente                              |
-| [opteros](https://github.com/opteros)          | Pendiente                             | Pendiente                              |
-| [Paltorcas](https://github.com/Paltorcas/)     | Pendiente                             | Pendiente                              |
-| [Personas-de-sacrificio](https://github.com/Personas-de-sacrificio) | Pendiente        | Pendiente                              | 
-| [playaplastica](https://github.com/playaplastica/) | Pendiente                         | Pendiente                              |
+| Grupo                                          | Repositorio                                 | GitHub Page                            |
+|:-----------------------------------------------|:--------------------------------------------|:---------------------------------------|
+| [Anti-motos](https://github.com/anti-motos)    | https://github.com/anti-motos/examen        | https://anti-motos.github.io/examen/   |
+| [electricass](https://github.com/electricass)  | Pendiente                                   | Pendiente                              |
+| [extra-activistas](https://github.com/extra-activista) | Pendiente                           | Pendiente                              |
+| [Glaciares-en-peligro](https://github.com/Glaciares-en-peligro) | Pendiente                  | Pendiente                              | 
+| [Kūgā](https://github.com/KugaGraphic)         | Pendiente                                   | Pendiente                              |
+| [Litidos](https://github.com/Litidos)          | Pendiente                                   | Pendiente                              |
+| [opteros](https://github.com/opteros)          | Pendiente                                   | Pendiente                              |
+| [Paltorcas](https://github.com/Paltorcas/)     | Pendiente                                   | Pendiente                              |
+| [Personas-de-sacrificio](https://github.com/Personas-de-sacrificio) | Pendiente              | Pendiente                              | 
+| [playaplastica](https://github.com/playaplastica/) | https://github.com/playaplastica/examen | Pendiente                              |
 
 Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre ustedes)**:
 
@@ -46,4 +46,4 @@ Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre 
 | **Estructura y código fuente**. Usa Bootstrap para implementar un diseño responsivo, con una redacción de código que resulta precisa y concisa. En la cabeza (`head`) cuida los metadatos. Y dentro del cuerpo (`body`), se reconocen claramente tres secciones, el encabezado (`header`), el contenido principal (`main`) y el pie de página (`footer`; y este se ajusta al modelo acordado por el curso) | | | | | |
 | **Evaluación grupal**. Cada estudiante podrá autoevaluarse y evaluar a sus compañeras/os de grupo según su aporte, en 5 niveles: insuficiente, suficiente, bueno, muy bueno, sobresaliente | | | | | |
 
-Al puntaje que obtengan por la pauta se le suma 1.0 (punto base).
+→ Al puntaje que obtengan por la pauta, se le sumará 1.0 (punto base).

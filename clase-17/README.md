@@ -21,20 +21,23 @@ Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos
 
 ~~Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre ustedes)**:~~
 
-Actualización: Pilar Saavedra me informa que lo decido por el curso es lo que se marca **en negrita** a continuación:
+**Actualización**: Pilar Saavedra me informa que lo decido por el curso es lo que se indica a continuación:
 
-- Título:
-  - **paraguas → asunto → caso (pirámide invertida)**
-  - paraguas → caso → asunto (rombo)
+- Título: **paraguas → asunto → caso (pirámide invertida)**
 
-- Autoría: 
-  - **nombres de estudiantes (Nombre y Apellido de c/u)**
-  - nombre de organización
+- Autoría:  **nombres de estudiantes (Nombre y Apellido de c/u)**
 
-- *Footer* o pie de página:
-  - **[minimal](https://profesorfaco.github.io/dno075-2020/clase-01/)**
-  - fat
- 
+- *Footer* o pie de página: **minimal**
+
+Dentro de su *footer* o pie de página minimalista, se recomienda incluir el párrafo:
+
+```
+<p class="d-flex justify-content-between align-items-center">
+<a href="<!--reemplaza con la url de la organización en github-->">Nombre de organización</a>
+<span><a href="https://github.com/profesorfaco/dno075-2020/">Infografía Digital</a> <span class="d-none d-lg-inline">&bull; Viernes 11 de diciembre, 2020</span></span>
+</p>
+```
+
 ~~Tienen que decidir, como curso, qué opción corresponde usar en título, autoría y *footer*.~~ El grupo que use una distinta, pierde puntos de la pauta de evaluación. ~~Si no hay acuerdo de curso, también se pierden tales puntos.~~
  
 - - - - - - - - - - - - - - - -

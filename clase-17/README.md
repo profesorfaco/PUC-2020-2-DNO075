@@ -15,7 +15,7 @@ Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos
 | [Kūgā](https://github.com/KugaGraphic)         | Pendiente                                   | Pendiente                              |
 | [Litidos](https://github.com/Litidos)          | Pendiente                                   | Pendiente                              |
 | [opteros](https://github.com/opteros)          | https://github.com/opteros/examen           | Pendiente                              |
-| [Paltorcas](https://github.com/Paltorcas/)     | Pendiente                                   | Pendiente                              |
+| [Paltorcas](https://github.com/Paltorcas/)     | https://github.com/Personas-de-sacrificio/examen | Pendiente                         |
 | [Personas-de-sacrificio](https://github.com/Personas-de-sacrificio) | Pendiente              | Pendiente                              | 
 | [playaplastica](https://github.com/playaplastica/) | https://github.com/playaplastica/examen | Pendiente                              |
 

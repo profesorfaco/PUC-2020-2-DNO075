@@ -30,7 +30,7 @@ Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre 
   - nombre de organización
 
 - *Footer* o pie de página:
-  - minimal
+  - [minimal](https://profesorfaco.github.io/dno075-2020/clase-01/)
   - [fat](http://ui-patterns.com/patterns/FatFooter/examples/74)
  
  Tienen que decidir, como curso, qué opción corresponde usar en título, autoría y *footer*. El grupo que use una distinta, pierde puntos de la pauta de evaluación. Si no hay acuerdo de curso, también se pierden tales puntos.

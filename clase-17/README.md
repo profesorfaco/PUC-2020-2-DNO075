@@ -33,9 +33,11 @@ Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre 
   - minimal
   - [fat](http://ui-patterns.com/patterns/FatFooter/examples/74)
  
+ Tienen que decidir, como curso, qué opción corresponde usar en título, autoría y *footer*. El grupo que use una distinta, pierde puntos de la pauta de evaluación. Si no hay acuerdo de curso, también se pierden tales puntos.
+ 
 - - - - - - - - - - - - - - - -
   
-**Su acuerdo aportará a la pauta de evaluación de entrega final**:
+**Pauta de evaluación**:
 
 | Criterio | 0.0   | 0.25  | 0.5   | 0.75  | 1.0   |
 |:---------|:-----:|:-----:|:-----:|:-----:|:-----:|

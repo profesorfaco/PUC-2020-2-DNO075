@@ -10,30 +10,32 @@ Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos
 |:-----------------------------------------------|:--------------------------------------------|:---------------------------------------|
 | [Anti-motos](https://github.com/anti-motos)    | https://github.com/anti-motos/examen        | https://anti-motos.github.io/examen/   |
 | [electricass](https://github.com/electricass)  | https://github.com/electricass/examen       | Pendiente                              |
-| [extra-activistas](https://github.com/extra-activista) | Pendiente                           | Pendiente                              |
+| [extra-activistas](https://github.com/extra-activista) | https://github.com/extra-activista/examen | Pendiente                        |
 | [Glaciares-en-peligro](https://github.com/Glaciares-en-peligro) | Pendiente                  | Pendiente                              | 
 | [Kūgā](https://github.com/KugaGraphic)         | Pendiente                                   | Pendiente                              |
 | [Litidos](https://github.com/Litidos)          | Pendiente                                   | Pendiente                              |
-| [opteros](https://github.com/opteros)          | Pendiente                                   | Pendiente                              |
+| [opteros](https://github.com/opteros)          | https://github.com/opteros/examen           | Pendiente                              |
 | [Paltorcas](https://github.com/Paltorcas/)     | Pendiente                                   | Pendiente                              |
 | [Personas-de-sacrificio](https://github.com/Personas-de-sacrificio) | Pendiente              | Pendiente                              | 
 | [playaplastica](https://github.com/playaplastica/) | https://github.com/playaplastica/examen | Pendiente                              |
 
-Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre ustedes)**:
+~~Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre ustedes)**:~~
+
+Actualización: Pilar Saavedra me informa que lo decido por el curso es lo que se marca **en negrita** a continuación:
 
 - Título:
-  - paraguas → asunto → caso
-  - paraguas → caso → asunto
+  - **paraguas → asunto → caso (pirámide invertida)**
+  - paraguas → caso → asunto (rombo)
 
 - Autoría: 
-  - nombres de estudiantes
+  - **nombres de estudiantes (Nombre y Apellido de c/u)**
   - nombre de organización
 
 - *Footer* o pie de página:
-  - [minimal](https://profesorfaco.github.io/dno075-2020/clase-01/)
-  - [fat](http://ui-patterns.com/patterns/FatFooter/examples/74)
+  - **[minimal](https://profesorfaco.github.io/dno075-2020/clase-01/)**
+  - fat
  
- Tienen que decidir, como curso, qué opción corresponde usar en título, autoría y *footer*. El grupo que use una distinta, pierde puntos de la pauta de evaluación. Si no hay acuerdo de curso, también se pierden tales puntos.
+~~Tienen que decidir, como curso, qué opción corresponde usar en título, autoría y *footer*.~~ El grupo que use una distinta, pierde puntos de la pauta de evaluación. ~~Si no hay acuerdo de curso, también se pierden tales puntos.~~
  
 - - - - - - - - - - - - - - - -
   

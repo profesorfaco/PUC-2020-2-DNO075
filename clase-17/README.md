@@ -17,7 +17,7 @@ Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos
 | [opteros](https://github.com/opteros)          | https://github.com/opteros/examen           | https://opteros.github.io/examen/      |
 | [Paltorcas](https://github.com/Paltorcas/)     | Pendiente                                   | Pendiente                              |
 | [Personas-de-sacrificio](https://github.com/Personas-de-sacrificio) | https://github.com/Personas-de-sacrificio/examen | https://personas-de-sacrificio.github.io/examen/ | 
-| [playaplastica](https://github.com/playaplastica/) | https://github.com/playaplastica/examen | Pendiente                              |
+| [playaplastica](https://github.com/playaplastica/) | https://github.com/playaplastica/examen | https://playaplastica.github.io/examen/ |
 
 ~~Y consideren lo solicitado en el mensaje de asunto **Acuerdos necesarios (entre ustedes)**:~~
 

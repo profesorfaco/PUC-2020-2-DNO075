@@ -12,7 +12,7 @@ Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos
 | [electricass](https://github.com/electricass)  | https://github.com/electricass/examen       | Pendiente                              |
 | [extra-activistas](https://github.com/extra-activista) | https://github.com/extra-activista/examen | Pendiente                        |
 | [Glaciares-en-peligro](https://github.com/Glaciares-en-peligro) | Pendiente                  | Pendiente                              | 
-| [Kūgā](https://github.com/KugaGraphic)         | Pendiente                                   | Pendiente                              |
+| [Kūgā](https://github.com/KugaGraphic)         | https://kugagraphic.github.io/examen/       | Pendiente                              |
 | [Litidos](https://github.com/Litidos)          | Pendiente                                   | Pendiente                              |
 | [opteros](https://github.com/opteros)          | https://github.com/opteros/examen           | Pendiente                              |
 | [Paltorcas](https://github.com/Paltorcas/)     | Pendiente                                   | Pendiente                              |

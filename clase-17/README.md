@@ -13,7 +13,7 @@ Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos
 | [extra-activistas](https://github.com/extra-activista) | https://github.com/extra-activista/examen | Pendiente                        |
 | [Glaciares-en-peligro](https://github.com/Glaciares-en-peligro) | Pendiente                  | Pendiente                              | 
 | [Kūgā](https://github.com/KugaGraphic)         | https://github.com/kugagraphic/examen/      | https://kugagraphic.github.io/examen/  |
-| [Litidos](https://github.com/Litidos)          | Pendiente                                   | Pendiente                              |
+| [Litidos](https://github.com/Litidos)          | https://github.com/Litidos/Examen           | https://litidos.github.io/Examen/      |
 | [opteros](https://github.com/opteros)          | https://github.com/opteros/examen           | https://opteros.github.io/examen/      |
 | [Paltorcas](https://github.com/Paltorcas/)     | Pendiente                                   | Pendiente                              |
 | [Personas-de-sacrificio](https://github.com/Personas-de-sacrificio) | https://github.com/Personas-de-sacrificio/examen | https://personas-de-sacrificio.github.io/examen/ | 

@@ -16,6 +16,7 @@ Con los *snippets* en esta carpeta de repositorio, podrían resolver:
 - [Agregar elementos con jQuery](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/agregar_elementos.html)
 - [Gráfico tipo donut, con SVG](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/grafico_donut_simple.html)
 - [Mapa con leafletjs](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/mapa.html)
+- [Matriz de peces](https://profesorfaco.github.io/dno075-2020/clase-16/snippets/matriz-de-peces.html)
 
 Estos *snippets* suponen el uso de [Bootstrap](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del OPR. 
 

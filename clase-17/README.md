@@ -11,11 +11,11 @@ Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos
 | [Anti-motos](https://github.com/anti-motos)    | https://github.com/anti-motos/examen        | https://anti-motos.github.io/examen/   |
 | [electricass](https://github.com/electricass)  | https://github.com/electricass/examen       | https://electricass.github.io/examen/  |
 | [extra-activistas](https://github.com/extra-activista) | https://github.com/extra-activista/examen | https://extra-activista.github.io/examen/ |
-| [Glaciares-en-peligro](https://github.com/Glaciares-en-peligro) | Pendiente                  | Pendiente                              | 
+| [Glaciares-en-peligro](https://github.com/Glaciares-en-peligro) | https://github.com/Glaciares-en-peligro/examen | https://glaciares-en-peligro.github.io/examen/ | 
 | [Kūgā](https://github.com/KugaGraphic)         | https://github.com/kugagraphic/examen/      | https://kugagraphic.github.io/examen/  |
 | [Litidos](https://github.com/Litidos)          | https://github.com/Litidos/Examen           | https://litidos.github.io/Examen/      |
 | [opteros](https://github.com/opteros)          | https://github.com/opteros/examen           | https://opteros.github.io/examen/      |
-| [Paltorcas](https://github.com/Paltorcas/)     | https://github.com/Paltorcas/examen         | Pendiente                              |
+| [Paltorcas](https://github.com/Paltorcas/)     | https://github.com/Paltorcas/examen         | https://paltorcas.github.io/examen/    |
 | [Personas-de-sacrificio](https://github.com/Personas-de-sacrificio) | https://github.com/Personas-de-sacrificio/examen | https://personas-de-sacrificio.github.io/examen/ | 
 | [playaplastica](https://github.com/playaplastica/) | https://github.com/playaplastica/examen | https://playaplastica.github.io/examen/ |
 

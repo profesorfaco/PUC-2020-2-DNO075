@@ -10,7 +10,7 @@ Esa es la fecha y hora tope. En ese momento comenzaremos a evaluar. Recomendamos
 |:-----------------------------------------------|:--------------------------------------------|:---------------------------------------|
 | [Anti-motos](https://github.com/anti-motos)    | https://github.com/anti-motos/examen        | https://anti-motos.github.io/examen/   |
 | [electricass](https://github.com/electricass)  | https://github.com/electricass/examen       | https://electricass.github.io/examen/  |
-| [extra-activistas](https://github.com/extra-activista) | https://github.com/extra-activista/examen | https://github.com/extra-activista/examen |
+| [extra-activistas](https://github.com/extra-activista) | https://github.com/extra-activista/examen | https://extra-activista.github.io/examen/ |
 | [Glaciares-en-peligro](https://github.com/Glaciares-en-peligro) | Pendiente                  | Pendiente                              | 
 | [Kūgā](https://github.com/KugaGraphic)         | https://github.com/kugagraphic/examen/      | https://kugagraphic.github.io/examen/  |
 | [Litidos](https://github.com/Litidos)          | https://github.com/Litidos/Examen           | https://litidos.github.io/Examen/      |
